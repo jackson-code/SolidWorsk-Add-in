@@ -29,7 +29,7 @@ namespace SWCSharpAddin.ToleranceNetwork.Construct
         List<TnPart> tempTnGraphs = new List<TnPart>();
         string absolutePath;
 
-        public Grapher(ISldWorks iSwApp, ITnComponent tnComp, bool isInMainDoc, string absolutePath)
+        public Grapher(ISldWorks iSwApp, ITnComponent tnComp, bool isInMainDoc, string absolutePath, string partialUniqueId)
         {
             this.iSwApp = iSwApp;
             swModel = this.iSwApp.ActiveDoc;
@@ -62,7 +62,7 @@ namespace SWCSharpAddin.ToleranceNetwork.Construct
                 }
                 firstCalled = false;
 
-                FeatureMgrTraversal(swFtMgrRoot, tnComp);                
+                FeatureMgrTraversal(swFtMgrRoot, tnComp, partialUniqueId);                
             }
 
             if (inMainDoc)
@@ -229,7 +229,7 @@ namespace SWCSharpAddin.ToleranceNetwork.Construct
             }
         }
 
-        private void FeatureMgrTraversal(TreeControlItem swFtMgrNode, ITnComponent tnComp)
+        private void FeatureMgrTraversal(TreeControlItem swFtMgrNode, ITnComponent tnComp, string partialUniqueId)
         {
             int swFtMgrNodeType = swFtMgrNode.ObjectType;
             switch (swFtMgrNodeType)
@@ -244,7 +244,7 @@ namespace SWCSharpAddin.ToleranceNetwork.Construct
                     {
                         toDisplay += "\t\tOperation name: " + swFeat.Name + ", type: " + swFeatType + "\n";
                         //toDisplay += "\t\tFeature ID: " + swFeat.GetID() + "\n";
-                        FeatureInfo(swFeat, tnComp);
+                        FeatureInfo(swFeat, tnComp, partialUniqueId);
                     }
                     else
                     {
@@ -253,7 +253,7 @@ namespace SWCSharpAddin.ToleranceNetwork.Construct
                     break;
 
                 case (int)swTreeControlItemType_e.swFeatureManagerItem_Component:
-                    tnComp = ComponentInfo(swFtMgrNode);
+                    tnComp = ComponentInfo(swFtMgrNode, partialUniqueId);
                     break;
             }
 
@@ -261,7 +261,7 @@ namespace SWCSharpAddin.ToleranceNetwork.Construct
             TreeControlItem swChild = swFtMgrNode.GetFirstChild();
             while (swChild != null)
             {
-                FeatureMgrTraversal(swChild, tnComp);
+                FeatureMgrTraversal(swChild, tnComp, partialUniqueId + "@" + tnComp.Name);
                 swChild = swChild.GetNext();
             }
         }
@@ -360,7 +360,7 @@ namespace SWCSharpAddin.ToleranceNetwork.Construct
 
         #region Component
 
-        private ITnComponent ComponentInfo(TreeControlItem swFtMgrNode)
+        private ITnComponent ComponentInfo(TreeControlItem swFtMgrNode, string partialUniqueId)
         {
             // SW Component
             IComponent2 swComp = swFtMgrNode.Object as IComponent2;
@@ -389,7 +389,7 @@ namespace SWCSharpAddin.ToleranceNetwork.Construct
                     if (inMainDoc)
                     {
                         // 從零件檔取得公差
-                        GetTolFromPartFile(name, swDoc.GetPathName());
+                        GetTolFromPartFile(name, swDoc.GetPathName(), partialUniqueId);
                         inMainDoc = true; // 可刪掉?
                     }
                     toDisplay += "\tPart name: " + name + "\n";
@@ -421,7 +421,7 @@ namespace SWCSharpAddin.ToleranceNetwork.Construct
             return tnComp;
         }
 
-        private void GetTolFromPartFile(string partName, string path)
+        private void GetTolFromPartFile(string partName, string path, string partialUniqueId)
         {
             inMainDoc = false;
 
@@ -434,12 +434,11 @@ namespace SWCSharpAddin.ToleranceNetwork.Construct
             iSwApp.ActivateDoc3(path, false, (int)swRebuildOnActivation_e.swDontRebuildActiveDoc, ref Errors);
 
             // 判斷是否有MBD在零件檔
-            IModelDoc2 tempSwModel = iSwApp.ActiveDoc;
             if (PartHasMBD(iSwApp.ActiveDoc))
             {
                 ITnComponent tnPart = new TnPart(partName);
 
-                Grapher tempGrapher = new Grapher(iSwApp, tnPart, false, absolutePath);
+                Grapher tempGrapher = new Grapher(iSwApp, tnPart, false, absolutePath, partialUniqueId);
                 toDisplay += tempGrapher.toDisplay;
 
                 DimXpertDrawer tempDXDrawer = new DimXpertDrawer(iSwApp, tnPart);
@@ -542,7 +541,7 @@ namespace SWCSharpAddin.ToleranceNetwork.Construct
 
         #region Feature
 
-        private void FeatureInfo(IFeature swFeat, ITnComponent tnComp)
+        private void FeatureInfo(IFeature swFeat, ITnComponent tnComp, string partialUniqueId)
         {
             // Set operation
             TnOperation tnOp = null;
@@ -550,7 +549,7 @@ namespace SWCSharpAddin.ToleranceNetwork.Construct
             tnComp.LastOperation = tnOp;
 
             // Set Face, Edge Id
-            SetGeometricFeatureId(tnComp.Name, swFeat, tnComp, tnOp);
+            SetGeometricFeatureId(tnComp.Name, swFeat, tnComp, tnOp, partialUniqueId);
 
             // Display Face Count,Id
             string swFeatType = swFeat.GetTypeName();
@@ -603,7 +602,7 @@ namespace SWCSharpAddin.ToleranceNetwork.Construct
             ExtrudeFeatureData2 swFeatData = swFeat.GetDefinition() as ExtrudeFeatureData2;
         }
 
-        private void SetGeometricFeatureId(string swCompName, IFeature swFeat, ITnComponent tnComp, TnOperation tnOp)
+        private void SetGeometricFeatureId(string swCompName, IFeature swFeat, ITnComponent tnComp, TnOperation tnOp, string partialUniqueId)
         {
             ToDisplayFullName(swFeat);         
 
@@ -641,7 +640,7 @@ namespace SWCSharpAddin.ToleranceNetwork.Construct
                     SurfaceProcessor.GetInfo(swFace, ref surfaceType, ref surfaceParam);
 
                     // 建立Face GF，加進Operation中
-                    tnFace = new TnGeometricFeature(swCompName, tnOp.Name, swFaceId, surfaceType, surfaceParam);
+                    tnFace = new TnGeometricFeature(swCompName, tnOp.Name, swFaceId, surfaceType, surfaceParam, partialUniqueId);
                     tnOp.LastGF = tnFace;
 
                     swEdges = swFace.GetEdges();

@@ -425,9 +425,9 @@ namespace SWCSharpAddin
             {
                 case (int)swDocumentTypes_e.swDocASSEMBLY:
                     tnAssembly = new TnAssembly(FileHelper.GetSwFileName(iSwApp));
-                    grapher = new Grapher(iSwApp, tnAssembly, true, absolutePath);
+                    grapher = new Grapher(iSwApp, tnAssembly, true, absolutePath, "");
                     string currentFileName = FileHelper.GetSwFileName(iSwApp);
-                    mateDrawer = new MateDrawer(iSwApp, tnAssembly, true, absolutePath);
+                    mateDrawer = new MateDrawer(iSwApp, tnAssembly, true, absolutePath, tnAssembly.Name);
                     break;
 
                 case (int)swDocumentTypes_e.swDocDRAWING:
@@ -452,7 +452,7 @@ namespace SWCSharpAddin
 
                 case (int)swDocumentTypes_e.swDocPART:
                     tnPart = new TnPart(FileHelper.GetSwFileName(iSwApp));
-                    grapher = new Grapher(iSwApp, tnPart, true, absolutePath);
+                    grapher = new Grapher(iSwApp, tnPart, true, absolutePath, "");
                     break;
 
                 case (int)swDocumentTypes_e.swDocSDM:

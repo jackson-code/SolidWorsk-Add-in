@@ -86,15 +86,16 @@ namespace SWCSharpAddin.ToleranceNetwork.TNData
 
         // Constructor
         public TnGeometricFeature     // face constructor
-            (string compName, string opName, Int32 id, string surfaceType, double[] surfaceParam)
+            (string compName, string opName, Int32 id, string surfaceType, double[] surfaceParam, string partialUniqueId)
         {
             Id = id;
-            UniqueId = compName + " @" + opName + " : " + "Face" + id.ToString();
+            UniqueId = partialUniqueId + " @" + opName + " : " + "Face" + id.ToString();
             Type = TnGeometricFeatureType_e.Face;
             SurfaceType = surfaceType;
             SurfaceParam = surfaceParam.ToImmutableList();
             Datum = String.Empty;
         }
+        // TODO: unique id
         public TnGeometricFeature     // edge constructor
             (string compName, string opName, Int32 id, TnGeometricFeatureType_e type, double length)
         {

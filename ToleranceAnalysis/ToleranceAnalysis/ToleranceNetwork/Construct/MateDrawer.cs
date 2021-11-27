@@ -24,14 +24,16 @@ namespace SWCSharpAddin.ToleranceNetwork.Construct
         bool inMainDoc = false;
         string absolutePath;
         List<TnAssembly> tempTnGraphs = new List<TnAssembly>();
+        string partialUniqueId = string.Empty;
 
-        public MateDrawer(ISldWorks iSwApp, TnAssembly tnAssembly, bool inMainDoc, string absolutePath)
+        public MateDrawer(ISldWorks iSwApp, TnAssembly tnAssembly, bool inMainDoc, string absolutePath, string partialUniqueId)
         {
             this.iSwApp = iSwApp;
             this.swModel = this.iSwApp.ActiveDoc;
             this.tnAssembly = tnAssembly;
             this.inMainDoc = inMainDoc;
             this.absolutePath = absolutePath;
+            this.partialUniqueId = partialUniqueId;
             //
             // 第二次做FeatureManager traversal，在TN中加上結合資訊
             //
@@ -132,8 +134,8 @@ namespace SWCSharpAddin.ToleranceNetwork.Construct
 
                     case (int)swTreeControlItemType_e.swFeatureManagerItem_Component:
                         Component2 swComp = swChild.Object as Component2;
-                        string name = swComp.Name;
-                        toDisplay += "Component name: " + name + "\n";
+                        string compName = swComp.Name;
+                        toDisplay += "Component name: " + compName + "\n";
                         IModelDoc2 swDoc = swComp.GetModelDoc2();
                         if (swDoc == null)
                         {
@@ -150,7 +152,7 @@ namespace SWCSharpAddin.ToleranceNetwork.Construct
                                 // 開啟組合件檔
                                 iSwApp.ActivateDoc3(swDoc.GetPathName(), false, (int)swRebuildOnActivation_e.swDontRebuildActiveDoc, 0);
                                 // 在主文件的product TN直接加入組合件檔中的結合
-                                MateDrawer mateDrawer = new MateDrawer(iSwApp, this.tnAssembly, false, absolutePath);
+                                MateDrawer mateDrawer = new MateDrawer(iSwApp, this.tnAssembly, false, absolutePath, partialUniqueId + compName);
                                 iSwApp.CloseDoc(swDoc.GetPathName());
                                 // 取得組合件檔在主文件中的結合
                                 GetMate(swChild.GetFirstChild());

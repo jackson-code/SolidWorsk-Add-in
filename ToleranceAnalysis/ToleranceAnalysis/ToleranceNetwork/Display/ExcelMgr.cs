@@ -142,7 +142,7 @@ namespace SWCSharpAddin.ToleranceNetwork.Display
         #endregion
 
         #region Write
-
+        #region title
         private void WriteTitle()
         {
             // title 1: Class
@@ -222,6 +222,7 @@ namespace SWCSharpAddin.ToleranceNetwork.Display
             // 文字置中
             excelRange.EntireColumn.HorizontalAlignment = MicroExcel.XlHAlign.xlHAlignCenter;
         }
+        #endregion
 
         private void WriteAssembly(TnAssembly tnAssembly)
         {
@@ -250,6 +251,48 @@ namespace SWCSharpAddin.ToleranceNetwork.Display
             WriteOperation(comp);
         }
 
+        private void WriteComponentField(ITnComponent comp)
+        {
+            rowPart = rowLast + 2;
+            exApp.Cells[rowPart, colPartName] = comp.Name;
+
+            WriteTransformMatrix(comp);
+
+            exApp.Cells[rowPart, colOpCount] = comp.OperationCount;
+            rowLast = rowPart + 4;
+        }
+
+        private void WriteTransformMatrix(ITnComponent comp)
+        {
+            Double[] matrix = comp.TransformMatrix;
+            if (matrix != null)
+            {
+                exApp.Cells[rowPart, 2] = matrix[0];
+                exApp.Cells[rowPart + 1, 2] = matrix[1];
+                exApp.Cells[rowPart + 2, 2] = matrix[2];
+                exApp.Cells[rowPart, 5] = matrix[9] * 1000;        // translation
+                exApp.Cells[rowPart, 3] = matrix[3];
+                exApp.Cells[rowPart + 1, 3] = matrix[4];
+                exApp.Cells[rowPart + 2, 3] = matrix[5];
+                exApp.Cells[rowPart + 1, 5] = matrix[10] * 1000;   // translation
+                exApp.Cells[rowPart, 4] = matrix[6];
+                exApp.Cells[rowPart + 1, 4] = matrix[7];
+                exApp.Cells[rowPart + 2, 4] = matrix[8];
+                exApp.Cells[rowPart + 2, 5] = matrix[11] * 1000;   // translation
+                                                                   //exApp.Cells[rowPart + 3, 4] = "scaling factor";
+                                                                   //exApp.Cells[rowPart + 3, 5] = matrix[12];   // scaling factor
+
+                //字體顏色
+                for (Int32 row = rowPart; row <= rowPart + 3; row++)
+                {
+                    for (Int32 col = 2; col <= 5; col++)
+                    {
+                        exApp.Cells[row, col].Font.Color = System.Drawing.ColorTranslator.ToOle(System.Drawing.Color.Gray);
+                    }
+                }
+            }
+        }
+
         private void WriteOperation(ITnComponent comp)
         {
             Int32 rowOp;
@@ -264,6 +307,8 @@ namespace SWCSharpAddin.ToleranceNetwork.Display
             }
         }
 
+        #region GF
+
         private void WriteGF(TnOperation op)
         {
             Int32 rowGF;
@@ -273,14 +318,14 @@ namespace SWCSharpAddin.ToleranceNetwork.Display
                 rowGF = ++rowLast;
                 exApp.Cells[rowGF, colGFType] = gf.Type.ToString();
                 exApp.Cells[rowGF, colGFType].Font.Bold = true;   // 粗體字
-                exApp.Cells[rowGF, colGFId] = gf.Id.ToString();
+                exApp.Cells[rowGF, colGFId] = gf.UniqueId;
                 exApp.Cells[rowGF, colGFId].Font.Bold = true;  // 粗體字
                 exApp.Cells[rowGF, colGFDatum] = gf.Datum;
 
                 // SurfaceParams
                 Int32 rowSurface = rowGF;
                 WriteSurfaceParams(gf, ref rowSurface);
-                
+
                 // GC              
                 exApp.Cells[rowGF, colGCCount] = gf.GcCount;
                 Int32 rowGC = rowLast;
@@ -303,66 +348,44 @@ namespace SWCSharpAddin.ToleranceNetwork.Display
             }
         }
 
-        private void WriteMC(TnGeometricFeature gf, ref int rowMC)
+        private void WriteSurfaceParams(TnGeometricFeature gf, ref Int32 rowSurface)
         {
-            foreach (TnMateConstraint mc in gf.AllMCs)
+            exApp.Cells[rowSurface, colGFSurfaceParam] = gf.SurfaceType;
+            exApp.Cells[rowSurface, colGFSurfaceParam].Font.Color = System.Drawing.ColorTranslator.ToOle(System.Drawing.Color.Red);
+            if (gf.SurfaceType == "Cylinder")
             {
-                rowMC++;
+                rowSurface++;
+                exApp.Cells[rowSurface, colGFSurfaceParam] = "origin: " + gf.SurfaceParam[0] * 1000 + ", " + gf.SurfaceParam[1] * 1000 + ", " + gf.SurfaceParam[2] * 1000;
+                exApp.Cells[rowSurface, colGFSurfaceParam].Font.Color = System.Drawing.ColorTranslator.ToOle(System.Drawing.Color.Red);
 
-                // 如果excel檔寫入UserError，表示
-                // 使用者設定的組合有問題，像是過度定義、零件抑制等等
-                // 在SW使用介面中，結合呈現灰色
-                exApp.Cells[rowMC, colMCType] = mc.ToString();
-                
+                rowSurface++;
+                exApp.Cells[rowSurface, colGFSurfaceParam] = "axis: " + gf.SurfaceParam[3] + ", " + gf.SurfaceParam[4] + ", " + gf.SurfaceParam[5];
+                exApp.Cells[rowSurface, colGFSurfaceParam].Font.Color = System.Drawing.ColorTranslator.ToOle(System.Drawing.Color.Red);
 
-                WriteMcAppliedTo(mc, rowMC, colMCApplied);
-
-                WriteMcReferenceFrom(mc, rowMC, colMCReference);
-
-                // 字體顏色
-                WriteMcColor(mc, rowMC);
+                rowSurface++;
+                exApp.Cells[rowSurface, colGFSurfaceParam] = "radius: " + gf.SurfaceParam[6] * 1000;
+                exApp.Cells[rowSurface, colGFSurfaceParam].Font.Color = System.Drawing.ColorTranslator.ToOle(System.Drawing.Color.Red);
             }
-        }
-
-        private void WriteMcReferenceFrom(TnMateConstraint constraint, Int32 row, Int32 col)
-        {
-            string toWrite = string.Empty;
-
-            foreach (TnGeometricFeature reference in constraint.ReferenceFrom)
+            else if (gf.SurfaceType == "Plane")
             {
-                toWrite += reference.UniqueId + "   ";
+                rowSurface++;
+                exApp.Cells[rowSurface, colGFSurfaceParam] = "normal: " + gf.SurfaceParam[0] + ", " + gf.SurfaceParam[1] + ", " + gf.SurfaceParam[2];
+                exApp.Cells[rowSurface, colGFSurfaceParam].Font.Color = System.Drawing.ColorTranslator.ToOle(System.Drawing.Color.Red);
+
+                rowSurface++;
+                exApp.Cells[rowSurface, colGFSurfaceParam] = "rootPoint: " + gf.SurfaceParam[3] * 1000 + ", " + gf.SurfaceParam[4] * 1000 + ", " + gf.SurfaceParam[5] * 1000;
+                exApp.Cells[rowSurface, colGFSurfaceParam].Font.Color = System.Drawing.ColorTranslator.ToOle(System.Drawing.Color.Red);
             }
-            exApp.Cells[row, col] = toWrite;
-        }
-
-        private void WriteMcAppliedTo(TnMateConstraint constraint, Int32 row, Int32 col)
-        {
-            String toWrite = string.Empty;
-
-            foreach (TnGeometricFeature applied in constraint.AppliedTo)
+            else if (gf.SurfaceType == "Sphere")
             {
-                toWrite += applied.UniqueId + "   ";
+                rowSurface++;
+                exApp.Cells[rowSurface, colGFSurfaceParam] = "center: " + gf.SurfaceParam[0] * 1000 + ", " + gf.SurfaceParam[1] * 1000 + ", " + gf.SurfaceParam[2] * 1000;
+                exApp.Cells[rowSurface, colGFSurfaceParam].Font.Color = System.Drawing.ColorTranslator.ToOle(System.Drawing.Color.Red);
+
+                rowSurface++;
+                exApp.Cells[rowSurface, colGFSurfaceParam] = "radius: " + gf.SurfaceParam[3] * 1000;
+                exApp.Cells[rowSurface, colGFSurfaceParam].Font.Color = System.Drawing.ColorTranslator.ToOle(System.Drawing.Color.Red);
             }
-
-            exApp.Cells[row, col] = toWrite;
-        }
-
-        private void WriteMcColor(TnMateConstraint mc, int rowMC)
-        {
-                if (mc.AppliedTo.Count <= 1)
-                {
-                    for (Int32 col = colMCCount; col <= colMCReference; col++)
-                    {
-                        exApp.Cells[rowMC, col].Font.Color = System.Drawing.ColorTranslator.ToOle(System.Drawing.Color.Orange);
-                    }
-                }
-                else
-                {
-                    for (Int32 col = colMCCount; col <= colMCReference; col++)
-                    {
-                        exApp.Cells[rowMC, col].Font.Color = System.Drawing.ColorTranslator.ToOle(System.Drawing.Color.Purple);
-                    }
-                }
         }
 
         private void WriteAdjGF(TnGeometricFeature gf, ref Int32 rowAdjGF)
@@ -373,6 +396,10 @@ namespace SWCSharpAddin.ToleranceNetwork.Display
                 exApp.Cells[rowAdjGF, colAdjGF] = adjctNode.Type + " " + adjctNode.Id.ToString();
             }
         }
+
+        #endregion
+
+        #region GC
 
         private void WriteGC(TnGeometricFeature gf, ref Int32 rowGC)
         {
@@ -394,18 +421,18 @@ namespace SWCSharpAddin.ToleranceNetwork.Display
                 WriteTwoVariation(gc, rowGC);
 
                 WriteThreeDatum(gc, rowGC);
-                
+
                 WriteGcAppliedTo(gc, rowGC, colGCApplied);
 
                 WriteGcReferenceFrom(gc, rowGC, colGCReference);
 
                 // 字體顏色
-                WriteGcColor(gc, rowGC);                
+                WriteGcColor(gc, rowGC);
             }
         }
 
         private void WriteGcColor(TnGeometricConstraint gc, Int32 rowGC)
-        {            
+        {
             // 尺寸/幾何公差           
             if (gc.AllDatum == null)
             {
@@ -440,7 +467,7 @@ namespace SWCSharpAddin.ToleranceNetwork.Display
                 {
                     exApp.Cells[rowGC, col].Font.Color = System.Drawing.ColorTranslator.ToOle(System.Drawing.Color.Purple);
                 }
-            }       
+            }
         }
 
         private void WriteThreeDatum(TnGeometricConstraint gc, Int32 rowGC)
@@ -536,88 +563,74 @@ namespace SWCSharpAddin.ToleranceNetwork.Display
             exApp.Cells[row, col] = toWrite;
         }
 
-        private void WriteSurfaceParams(TnGeometricFeature gf, ref Int32 rowSurface)
+
+        #endregion
+
+        #region MC
+
+        private void WriteMC(TnGeometricFeature gf, ref int rowMC)
         {
-            exApp.Cells[rowSurface, colGFSurfaceParam] = gf.SurfaceType;
-            exApp.Cells[rowSurface, colGFSurfaceParam].Font.Color = System.Drawing.ColorTranslator.ToOle(System.Drawing.Color.Red);
-            if (gf.SurfaceType == "Cylinder")
+            foreach (TnMateConstraint mc in gf.AllMCs)
             {
-                rowSurface++;
-                exApp.Cells[rowSurface, colGFSurfaceParam] = "origin: " + gf.SurfaceParam[0] * 1000 + ", " + gf.SurfaceParam[1] * 1000 + ", " + gf.SurfaceParam[2] * 1000;
-                exApp.Cells[rowSurface, colGFSurfaceParam].Font.Color = System.Drawing.ColorTranslator.ToOle(System.Drawing.Color.Red);
+                rowMC++;
 
-                rowSurface++;
-                exApp.Cells[rowSurface, colGFSurfaceParam] = "axis: " + gf.SurfaceParam[3] + ", " + gf.SurfaceParam[4] + ", " + gf.SurfaceParam[5];
-                exApp.Cells[rowSurface, colGFSurfaceParam].Font.Color = System.Drawing.ColorTranslator.ToOle(System.Drawing.Color.Red);
+                // 如果excel檔寫入UserError，表示
+                // 使用者設定的組合有問題，像是過度定義、零件抑制等等
+                // 在SW使用介面中，結合呈現灰色
+                exApp.Cells[rowMC, colMCType] = mc.ToString();
 
-                rowSurface++;
-                exApp.Cells[rowSurface, colGFSurfaceParam] = "radius: " + gf.SurfaceParam[6] * 1000;
-                exApp.Cells[rowSurface, colGFSurfaceParam].Font.Color = System.Drawing.ColorTranslator.ToOle(System.Drawing.Color.Red);
-            }
-            else if (gf.SurfaceType == "Plane")
-            {
-                rowSurface++;
-                exApp.Cells[rowSurface, colGFSurfaceParam] = "normal: " + gf.SurfaceParam[0] + ", " + gf.SurfaceParam[1] + ", " + gf.SurfaceParam[2];
-                exApp.Cells[rowSurface, colGFSurfaceParam].Font.Color = System.Drawing.ColorTranslator.ToOle(System.Drawing.Color.Red);
 
-                rowSurface++;
-                exApp.Cells[rowSurface, colGFSurfaceParam] = "rootPoint: " + gf.SurfaceParam[3] * 1000 + ", " + gf.SurfaceParam[4] * 1000 + ", " + gf.SurfaceParam[5] * 1000;
-                exApp.Cells[rowSurface, colGFSurfaceParam].Font.Color = System.Drawing.ColorTranslator.ToOle(System.Drawing.Color.Red);
-            }
-            else if (gf.SurfaceType == "Sphere")
-            {
-                rowSurface++;
-                exApp.Cells[rowSurface, colGFSurfaceParam] = "center: " + gf.SurfaceParam[0] * 1000 + ", " + gf.SurfaceParam[1] * 1000 + ", " + gf.SurfaceParam[2] * 1000;
-                exApp.Cells[rowSurface, colGFSurfaceParam].Font.Color = System.Drawing.ColorTranslator.ToOle(System.Drawing.Color.Red);
+                WriteMcAppliedTo(mc, rowMC, colMCApplied);
 
-                rowSurface++;
-                exApp.Cells[rowSurface, colGFSurfaceParam] = "radius: " + gf.SurfaceParam[3] * 1000;
-                exApp.Cells[rowSurface, colGFSurfaceParam].Font.Color = System.Drawing.ColorTranslator.ToOle(System.Drawing.Color.Red);
+                WriteMcReferenceFrom(mc, rowMC, colMCReference);
+
+                // 字體顏色
+                WriteMcColor(mc, rowMC);
             }
         }
 
-        private void WriteComponentField(ITnComponent comp)
+        private void WriteMcReferenceFrom(TnMateConstraint constraint, Int32 row, Int32 col)
         {
-            rowPart = rowLast + 2;
-            exApp.Cells[rowPart, colPartName] = comp.Name;
+            string toWrite = string.Empty;
 
-            WriteTransformMatrix(comp);
-
-            exApp.Cells[rowPart, colOpCount] = comp.OperationCount;
-            rowLast = rowPart + 4;
+            foreach (TnGeometricFeature reference in constraint.ReferenceFrom)
+            {
+                toWrite += reference.UniqueId + "   ";
+            }
+            exApp.Cells[row, col] = toWrite;
         }
 
-        private void WriteTransformMatrix(ITnComponent comp)
-    {
-        Double[] matrix = comp.TransformMatrix;
-        if (matrix != null)
+        private void WriteMcAppliedTo(TnMateConstraint constraint, Int32 row, Int32 col)
         {
-            exApp.Cells[rowPart, 2] = matrix[0];
-            exApp.Cells[rowPart + 1, 2] = matrix[1];
-            exApp.Cells[rowPart + 2, 2] = matrix[2];
-            exApp.Cells[rowPart, 5] = matrix[9] * 1000;        // translation
-            exApp.Cells[rowPart, 3] = matrix[3];
-            exApp.Cells[rowPart + 1, 3] = matrix[4];
-            exApp.Cells[rowPart + 2, 3] = matrix[5];
-            exApp.Cells[rowPart + 1, 5] = matrix[10] * 1000;   // translation
-            exApp.Cells[rowPart, 4] = matrix[6];
-            exApp.Cells[rowPart + 1, 4] = matrix[7];
-            exApp.Cells[rowPart + 2, 4] = matrix[8];
-            exApp.Cells[rowPart + 2, 5] = matrix[11] * 1000;   // translation
-                                                               //exApp.Cells[rowPart + 3, 4] = "scaling factor";
-                                                               //exApp.Cells[rowPart + 3, 5] = matrix[12];   // scaling factor
+            String toWrite = string.Empty;
 
-            //字體顏色
-            for (Int32 row = rowPart; row <= rowPart + 3; row++)
+            foreach (TnGeometricFeature applied in constraint.AppliedTo)
             {
-                for (Int32 col = 2; col <= 5; col++)
+                toWrite += applied.UniqueId + "   ";
+            }
+
+            exApp.Cells[row, col] = toWrite;
+        }
+
+        private void WriteMcColor(TnMateConstraint mc, int rowMC)
+        {
+            if (mc.AppliedTo.Count <= 1)
+            {
+                for (Int32 col = colMCCount; col <= colMCReference; col++)
                 {
-                    exApp.Cells[row, col].Font.Color = System.Drawing.ColorTranslator.ToOle(System.Drawing.Color.Gray);
+                    exApp.Cells[rowMC, col].Font.Color = System.Drawing.ColorTranslator.ToOle(System.Drawing.Color.Orange);
+                }
+            }
+            else
+            {
+                for (Int32 col = colMCCount; col <= colMCReference; col++)
+                {
+                    exApp.Cells[rowMC, col].Font.Color = System.Drawing.ColorTranslator.ToOle(System.Drawing.Color.Purple);
                 }
             }
         }
-    }
 
+        #endregion
         #endregion
 
         /// <summary>
