@@ -1,0 +1,2417 @@
+Component name: 端效器組合V2SLDASM
+
+############################################################## 
+########################## open file ######################### 
+Component name: 端效器零件_40度-1
+Component name: 端效器零件_40度SLDPRT
+		Operation name: 填料-伸長1, type: Extrusion
+			Full name = D1@填料-伸長1@端效器零件_40度.Part
+			Full name = D1@草圖2@端效器零件_40度.Part
+			Full name = D2@草圖2@端效器零件_40度.Part
+			3 Face ID = 1, 2, 3, 
+
+		Operation name: 填料-伸長2, type: Boss
+			Full name = D1@平面1@端效器零件_40度.Part
+			Full name = D1@填料-伸長2@端效器零件_40度.Part
+			Full name = D1@草圖3@端效器零件_40度.Part
+			5 Face ID = 4, 5, 6, 2, 3, 
+
+		Operation name: 除料-伸長1, type: Cut
+			Full name = D1@除料-伸長1@端效器零件_40度.Part
+			Full name = D1@草圖5@端效器零件_40度.Part
+			2 Face ID = 7, 8, 
+
+		Operation name: 除料-伸長2, type: Cut
+			Full name = D1@除料-伸長2@端效器零件_40度.Part
+			Full name = D1@草圖7@端效器零件_40度.Part
+			1 Face ID = 9, 
+
+		Operation name: 除料-伸長3, type: Cut
+			Full name = D1@除料-伸長3@端效器零件_40度.Part
+			Full name = D1@草圖8@端效器零件_40度.Part
+			Full name = D2@草圖8@端效器零件_40度.Part
+			Full name = D3@草圖8@端效器零件_40度.Part
+			Full name = D4@草圖8@端效器零件_40度.Part
+			16 Face ID = 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 
+
+		Operation name: 填料-伸長3, type: Boss
+			3 Face ID = 4, 2, 3, 
+
+		Operation name: 填料-伸長4, type: Boss
+			Full name = D1@填料-伸長4@端效器零件_40度.Part
+			3 Face ID = 26, 2, 3, 
+
+		Operation name: 除料-伸長4, type: Cut
+			1 Face ID = 5, 
+
+		Operation name: 填料-伸長5, type: Boss
+			Full name = D1@填料-伸長5@端效器零件_40度.Part
+			4 Face ID = 26, 2, 3, 1, 
+
+		Operation name: 除料-伸長5, type: Cut
+			Full name = D1@草圖15@端效器零件_40度.Part
+			Full name = D2@草圖15@端效器零件_40度.Part
+			Full name = D3@草圖15@端效器零件_40度.Part
+			Full name = D4@草圖15@端效器零件_40度.Part
+			Full name = D5@草圖15@端效器零件_40度.Part
+			4 Face ID = 27, 28, 29, 30, 
+
+		Operation name: 除料-伸長6, type: Cut
+			Full name = D1@除料-伸長6@端效器零件_40度.Part
+			Full name = D1@草圖16@端效器零件_40度.Part
+			10 Face ID = 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 
+
+		Operation name: 除料-伸長7, type: Cut
+			Full name = D1@草圖17@端效器零件_40度.Part
+			Full name = D2@草圖17@端效器零件_40度.Part
+			2 Face ID = 31, 36, 
+
+		Operation name: 導角1, type: Chamfer
+			Full name = D1@導角1@端效器零件_40度.Part
+			Full name = D2@導角1@端效器零件_40度.Part
+			2 Face ID = 41, 42, 
+
+		Operation name: 基準軸1, type: RefAxis
+			0 Face ID = 
+
+		Operation name: 基準軸2, type: RefAxis
+			0 Face ID = 
+
+		Operation name: 基準軸3, type: RefAxis
+			0 Face ID = 
+
+		Operation name: 除料-伸長8, type: Cut
+			Full name = D1@除料-伸長8@端效器零件_40度.Part
+			1 Face ID = 43, 
+
+#################################################
+################ DimXpert begin #################
+Annotation type = swDisplayDimension
+	 Face ID = 26
+	 Face ID = 34
+	 Face ID = 1
+	 Face ID = 39
+Annotation type = swDisplayDimension
+	 Face ID = 26
+	 Face ID = 39
+	 Face ID = 1
+	 Face ID = 34
+Annotation type = swDisplayDimension
+	 Face ID = 26
+	 Face ID = 1
+	 Face ID = 34
+	 Face ID = 39
+Annotation type = swDisplayDimension
+	 Face ID = 8
+	 Face ID = 7
+Annotation type = swDisplayDimension
+	 Face ID = 3
+	 Face ID = 2
+Annotation type = swDisplayDimension
+	 Face ID = 11
+	 Face ID = 10
+	 Face ID = 25
+	 Face ID = 24
+	 Face ID = 23
+	 Face ID = 22
+	 Face ID = 21
+	 Face ID = 20
+	 Face ID = 19
+	 Face ID = 18
+	 Face ID = 17
+	 Face ID = 16
+	 Face ID = 15
+	 Face ID = 14
+	 Face ID = 13
+	 Face ID = 12
+Annotation type = swDisplayDimension
+	 Face ID = 31
+	 Face ID = 32
+	 Face ID = 27
+	 Face ID = 36
+	 Face ID = 37
+	 Face ID = 29
+Annotation type = swDisplayDimension
+	 Face ID = 33
+	 Face ID = 35
+	 Face ID = 28
+	 Face ID = 38
+	 Face ID = 40
+	 Face ID = 30
+Annotation type = swDisplayDimension
+	 Face ID = 41
+	 Face ID = 42
+Annotation type = swDisplayDimension
+	 Face ID = 43
+Annotation type = swDisplayDimension
+	 Face ID = 43
+Annotation type = swDisplayDimension
+	 Face ID = 43
+Annotation type = swDisplayDimension
+	 Face ID = 43
+Annotation type = swDatumTag
+	 Face ID = 26	 Datum = A
+Annotation type = swDatumTag
+	 Face ID = 3	 Datum = B
+Annotation type = swDatumTag
+	 Face ID = 43	 Datum = C
+Annotation type = swDatumTag
+	 Face ID = 8	 Datum = D
+Annotation type = swGTol
+	 Gtol type = <GTOL-FLAT>
+	 Face ID = 26
+Annotation type = swGTol
+	 Gtol type = <GTOL-PERP>
+	 Face ID = 3
+Annotation type = swGTol
+	 Gtol type = <IGTOL-CYL>
+	 Face ID = 8
+	 Gtol type = <IGTOL-ANGULAR>
+	 Face ID = 8
+	 Face ID = 7
+Annotation type = swGTol
+	 Gtol type = <IGTOL-PERP>
+	 Face ID = 8
+	 Face ID = 7
+############# DimXpert finish #############
+###########################################
+
+===== return GC ======
+SizeTol 14, )
+SizeTol 14, )
+SizeTol 14, )
+SizeTol 44, )
+SizeTol 44, )
+GTOL_PERP 0,  (0.10)
+SizeTol 34.97,  (-0.004, -0.02)
+GTOL_ANGULAR 0,  (0.025)
+GTOL_PERP 0,  (0.02)
+SizeTol 34.97,  (-0.004, -0.02)
+GTOL_CYL 0,  (0.007)
+GTOL_ANGULAR 0,  (0.025)
+GTOL_PERP 0,  (0.02)
+SizeTol 3.3, )
+SizeTol 3.3, )
+SizeTol 3.3, )
+SizeTol 3.3, )
+SizeTol 3.3, )
+SizeTol 3.3, )
+SizeTol 3.3, )
+SizeTol 3.3, )
+SizeTol 3.3, )
+SizeTol 3.3, )
+SizeTol 3.3, )
+SizeTol 3.3, )
+SizeTol 3.3, )
+SizeTol 3.3, )
+SizeTol 3.3, )
+SizeTol 3.3, )
+SizeTol 14, )
+SizeTol 14, )
+SizeTol 14, )
+GTOL_FLAT 0,  (0.05)
+SizeTol 10,  (0.2, -0.2)
+SizeTol 10,  (0.2, -0.2)
+SizeTol 10,  (0.2, -0.2)
+SizeTol 10,  (0.2, -0.2)
+SizeTol 10,  (0.2, -0.2)
+SizeTol 10,  (0.2, -0.2)
+SizeTol 10,  (0.2, -0.2)
+SizeTol 14, )
+SizeTol 14, )
+SizeTol 14, )
+SizeTol 10,  (0.2, -0.2)
+SizeTol 10,  (0.2, -0.2)
+SizeTol 10,  (0.2, -0.2)
+SizeTol 10,  (0.2, -0.2)
+SizeTol 14, )
+SizeTol 14, )
+SizeTol 14, )
+SizeTol 10,  (0.2, -0.2)
+SizeTol 0.0001, )
+SizeTol 0.0001, )
+SizeTol 40.233, )
+SizeTol 14.913, )
+SizeTol 14.913, )
+SizeTol 14.913, )
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 端效器零件_40度-1
+		Operation name: 填料-伸長1, type: Extrusion
+			Full name = D1@填料-伸長1@端效器零件_40度.Part
+			Full name = D1@草圖2@端效器零件_40度.Part
+			Full name = D2@草圖2@端效器零件_40度.Part
+			3 Face ID = 1, 2, 3, 
+
+		Operation name: 填料-伸長2, type: Boss
+			Full name = D1@平面1@端效器零件_40度.Part
+			Full name = D1@填料-伸長2@端效器零件_40度.Part
+			Full name = D1@草圖3@端效器零件_40度.Part
+			5 Face ID = 4, 5, 6, 2, 3, 
+
+		Operation name: 除料-伸長1, type: Cut
+			Full name = D1@除料-伸長1@端效器零件_40度.Part
+			Full name = D1@草圖5@端效器零件_40度.Part
+			2 Face ID = 7, 8, 
+
+		Operation name: 除料-伸長2, type: Cut
+			Full name = D1@除料-伸長2@端效器零件_40度.Part
+			Full name = D1@草圖7@端效器零件_40度.Part
+			1 Face ID = 9, 
+
+		Operation name: 除料-伸長3, type: Cut
+			Full name = D1@除料-伸長3@端效器零件_40度.Part
+			Full name = D1@草圖8@端效器零件_40度.Part
+			Full name = D2@草圖8@端效器零件_40度.Part
+			Full name = D3@草圖8@端效器零件_40度.Part
+			Full name = D4@草圖8@端效器零件_40度.Part
+			16 Face ID = 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 
+
+		Operation name: 填料-伸長3, type: Boss
+			3 Face ID = 4, 2, 3, 
+
+		Operation name: 填料-伸長4, type: Boss
+			Full name = D1@填料-伸長4@端效器零件_40度.Part
+			3 Face ID = 26, 2, 3, 
+
+		Operation name: 除料-伸長4, type: Cut
+			1 Face ID = 5, 
+
+		Operation name: 填料-伸長5, type: Boss
+			Full name = D1@填料-伸長5@端效器零件_40度.Part
+			4 Face ID = 26, 2, 3, 1, 
+
+		Operation name: 除料-伸長5, type: Cut
+			Full name = D1@草圖15@端效器零件_40度.Part
+			Full name = D2@草圖15@端效器零件_40度.Part
+			Full name = D3@草圖15@端效器零件_40度.Part
+			Full name = D4@草圖15@端效器零件_40度.Part
+			Full name = D5@草圖15@端效器零件_40度.Part
+			4 Face ID = 27, 28, 29, 30, 
+
+		Operation name: 除料-伸長6, type: Cut
+			Full name = D1@除料-伸長6@端效器零件_40度.Part
+			Full name = D1@草圖16@端效器零件_40度.Part
+			10 Face ID = 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 
+
+		Operation name: 除料-伸長7, type: Cut
+			Full name = D1@草圖17@端效器零件_40度.Part
+			Full name = D2@草圖17@端效器零件_40度.Part
+			2 Face ID = 31, 36, 
+
+		Operation name: 導角1, type: Chamfer
+			Full name = D1@導角1@端效器零件_40度.Part
+			Full name = D2@導角1@端效器零件_40度.Part
+			2 Face ID = 41, 42, 
+
+		Operation name: 基準軸1, type: RefAxis
+			0 Face ID = 
+
+		Operation name: 基準軸2, type: RefAxis
+			0 Face ID = 
+
+		Operation name: 基準軸3, type: RefAxis
+			0 Face ID = 
+
+		Operation name: 除料-伸長8, type: Cut
+			Full name = D1@除料-伸長8@端效器零件_40度.Part
+			1 Face ID = 43, 
+
+Assembly name: 7202DB-1
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-1/7202DB_3-1
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-1/7202DB_3-1
+		Operation name: _7202DB_Ball, type: BaseBody
+			2 Face ID = 1, 2, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-1/7202DB_3-2
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-1/7202DB_3-2
+		Operation name: _7202DB_Ball, type: BaseBody
+			2 Face ID = 1, 2, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-1/7202DB_3-3
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-1/7202DB_3-3
+		Operation name: _7202DB_Ball, type: BaseBody
+			2 Face ID = 1, 2, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-1/7202DB_3-4
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-1/7202DB_3-4
+		Operation name: _7202DB_Ball, type: BaseBody
+			2 Face ID = 1, 2, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-1/7202DB_3-5
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-1/7202DB_3-5
+		Operation name: _7202DB_Ball, type: BaseBody
+			2 Face ID = 1, 2, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-1/7202DB_3-6
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-1/7202DB_3-6
+		Operation name: _7202DB_Ball, type: BaseBody
+			2 Face ID = 1, 2, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-1/7202DB_3-7
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-1/7202DB_3-7
+		Operation name: _7202DB_Ball, type: BaseBody
+			2 Face ID = 1, 2, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-1/7202DB_3-8
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-1/7202DB_3-8
+		Operation name: _7202DB_Ball, type: BaseBody
+			2 Face ID = 1, 2, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-1/7202DB_3-9
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-1/7202DB_3-9
+		Operation name: _7202DB_Ball, type: BaseBody
+			2 Face ID = 1, 2, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-1/7202DB_3-10
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-1/7202DB_3-10
+		Operation name: _7202DB_Ball, type: BaseBody
+			2 Face ID = 1, 2, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-1/7202DB_3-11
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-1/7202DB_3-11
+		Operation name: _7202DB_Ball, type: BaseBody
+			2 Face ID = 1, 2, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-1/7202DB_3-12
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-1/7202DB_3-12
+		Operation name: _7202DB_Ball, type: BaseBody
+			2 Face ID = 1, 2, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-1/7202DB_3-13
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-1/7202DB_3-13
+		Operation name: _7202DB_Ball, type: BaseBody
+			2 Face ID = 1, 2, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-1/7202DB_3-14
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-1/7202DB_3-14
+		Operation name: _7202DB_Ball, type: BaseBody
+			2 Face ID = 1, 2, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-1/7202DB_3-15
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-1/7202DB_3-15
+		Operation name: _7202DB_Ball, type: BaseBody
+			2 Face ID = 1, 2, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-1/7202DB_3-16
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-1/7202DB_3-16
+		Operation name: _7202DB_Ball, type: BaseBody
+			2 Face ID = 1, 2, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-1/7202DB_20-1
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-1/7202DB_20-1
+		Operation name: _7202DB_Outer_ring, type: BaseBody
+			14 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-1/7202DB_20-2
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-1/7202DB_20-2
+		Operation name: _7202DB_Outer_ring, type: BaseBody
+			14 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-1/7202DB_23-1
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-1/7202DB_23-1
+		Operation name: _7202DB_Inner_ring, type: BaseBody
+			14 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-1/7202DB_23-2
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-1/7202DB_23-2
+		Operation name: _7202DB_Inner_ring, type: BaseBody
+			14 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: BOX_SCB4_6-2
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: BOX_SCB4_6-2
+		Operation name: BOX_SCB4_6.sldprt, type: BaseBody
+			25 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: BOX_SCB4_6-3
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: BOX_SCB4_6-3
+		Operation name: BOX_SCB4_6.sldprt, type: BaseBody
+			25 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: BOX_SCB4_6-4
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: BOX_SCB4_6-4
+		Operation name: BOX_SCB4_6.sldprt, type: BaseBody
+			25 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: BOX_SCB4_6-5
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: BOX_SCB4_6-5
+		Operation name: BOX_SCB4_6.sldprt, type: BaseBody
+			25 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: BOX_SCB4_6-6
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: BOX_SCB4_6-6
+		Operation name: BOX_SCB4_6.sldprt, type: BaseBody
+			25 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: BOX_SCB4_6-7
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: BOX_SCB4_6-7
+		Operation name: BOX_SCB4_6.sldprt, type: BaseBody
+			25 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: BOX_SCB4_6-8
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: BOX_SCB4_6-8
+		Operation name: BOX_SCB4_6.sldprt, type: BaseBody
+			25 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: BOX_SCB4_6-9
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: BOX_SCB4_6-9
+		Operation name: BOX_SCB4_6.sldprt, type: BaseBody
+			25 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 端效器零件_40度-2
+Component name: 端效器零件_40度SLDPRT
+		Operation name: 填料-伸長1, type: Extrusion
+			Full name = D1@填料-伸長1@端效器零件_40度.Part
+			Full name = D1@草圖2@端效器零件_40度.Part
+			Full name = D2@草圖2@端效器零件_40度.Part
+			3 Face ID = 1, 2, 3, 
+
+		Operation name: 填料-伸長2, type: Boss
+			Full name = D1@平面1@端效器零件_40度.Part
+			Full name = D1@填料-伸長2@端效器零件_40度.Part
+			Full name = D1@草圖3@端效器零件_40度.Part
+			5 Face ID = 4, 5, 6, 2, 3, 
+
+		Operation name: 除料-伸長1, type: Cut
+			Full name = D1@除料-伸長1@端效器零件_40度.Part
+			Full name = D1@草圖5@端效器零件_40度.Part
+			2 Face ID = 7, 8, 
+
+		Operation name: 除料-伸長2, type: Cut
+			Full name = D1@除料-伸長2@端效器零件_40度.Part
+			Full name = D1@草圖7@端效器零件_40度.Part
+			1 Face ID = 9, 
+
+		Operation name: 除料-伸長3, type: Cut
+			Full name = D1@除料-伸長3@端效器零件_40度.Part
+			Full name = D1@草圖8@端效器零件_40度.Part
+			Full name = D2@草圖8@端效器零件_40度.Part
+			Full name = D3@草圖8@端效器零件_40度.Part
+			Full name = D4@草圖8@端效器零件_40度.Part
+			16 Face ID = 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 
+
+		Operation name: 填料-伸長3, type: Boss
+			3 Face ID = 4, 2, 3, 
+
+		Operation name: 填料-伸長4, type: Boss
+			Full name = D1@填料-伸長4@端效器零件_40度.Part
+			3 Face ID = 26, 2, 3, 
+
+		Operation name: 除料-伸長4, type: Cut
+			1 Face ID = 5, 
+
+		Operation name: 填料-伸長5, type: Boss
+			Full name = D1@填料-伸長5@端效器零件_40度.Part
+			4 Face ID = 26, 2, 3, 1, 
+
+		Operation name: 除料-伸長5, type: Cut
+			Full name = D1@草圖15@端效器零件_40度.Part
+			Full name = D2@草圖15@端效器零件_40度.Part
+			Full name = D3@草圖15@端效器零件_40度.Part
+			Full name = D4@草圖15@端效器零件_40度.Part
+			Full name = D5@草圖15@端效器零件_40度.Part
+			4 Face ID = 27, 28, 29, 30, 
+
+		Operation name: 除料-伸長6, type: Cut
+			Full name = D1@除料-伸長6@端效器零件_40度.Part
+			Full name = D1@草圖16@端效器零件_40度.Part
+			10 Face ID = 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 
+
+		Operation name: 除料-伸長7, type: Cut
+			Full name = D1@草圖17@端效器零件_40度.Part
+			Full name = D2@草圖17@端效器零件_40度.Part
+			2 Face ID = 31, 36, 
+
+		Operation name: 導角1, type: Chamfer
+			Full name = D1@導角1@端效器零件_40度.Part
+			Full name = D2@導角1@端效器零件_40度.Part
+			2 Face ID = 41, 42, 
+
+		Operation name: 基準軸1, type: RefAxis
+			0 Face ID = 
+
+		Operation name: 基準軸2, type: RefAxis
+			0 Face ID = 
+
+		Operation name: 基準軸3, type: RefAxis
+			0 Face ID = 
+
+		Operation name: 除料-伸長8, type: Cut
+			Full name = D1@除料-伸長8@端效器零件_40度.Part
+			1 Face ID = 43, 
+
+#################################################
+################ DimXpert begin #################
+Annotation type = swDisplayDimension
+	 Face ID = 26
+	 Face ID = 34
+	 Face ID = 1
+	 Face ID = 39
+Annotation type = swDisplayDimension
+	 Face ID = 26
+	 Face ID = 39
+	 Face ID = 1
+	 Face ID = 34
+Annotation type = swDisplayDimension
+	 Face ID = 26
+	 Face ID = 1
+	 Face ID = 34
+	 Face ID = 39
+Annotation type = swDisplayDimension
+	 Face ID = 8
+	 Face ID = 7
+Annotation type = swDisplayDimension
+	 Face ID = 3
+	 Face ID = 2
+Annotation type = swDisplayDimension
+	 Face ID = 11
+	 Face ID = 10
+	 Face ID = 25
+	 Face ID = 24
+	 Face ID = 23
+	 Face ID = 22
+	 Face ID = 21
+	 Face ID = 20
+	 Face ID = 19
+	 Face ID = 18
+	 Face ID = 17
+	 Face ID = 16
+	 Face ID = 15
+	 Face ID = 14
+	 Face ID = 13
+	 Face ID = 12
+Annotation type = swDisplayDimension
+	 Face ID = 31
+	 Face ID = 32
+	 Face ID = 27
+	 Face ID = 36
+	 Face ID = 37
+	 Face ID = 29
+Annotation type = swDisplayDimension
+	 Face ID = 33
+	 Face ID = 35
+	 Face ID = 28
+	 Face ID = 38
+	 Face ID = 40
+	 Face ID = 30
+Annotation type = swDisplayDimension
+	 Face ID = 41
+	 Face ID = 42
+Annotation type = swDisplayDimension
+	 Face ID = 43
+Annotation type = swDisplayDimension
+	 Face ID = 43
+Annotation type = swDisplayDimension
+	 Face ID = 43
+Annotation type = swDisplayDimension
+	 Face ID = 43
+Annotation type = swDatumTag
+	 Face ID = 26	 Datum = A
+Annotation type = swDatumTag
+	 Face ID = 3	 Datum = B
+Annotation type = swDatumTag
+	 Face ID = 43	 Datum = C
+Annotation type = swDatumTag
+	 Face ID = 8	 Datum = D
+Annotation type = swGTol
+	 Gtol type = <GTOL-FLAT>
+	 Face ID = 26
+Annotation type = swGTol
+	 Gtol type = <GTOL-PERP>
+	 Face ID = 3
+Annotation type = swGTol
+	 Gtol type = <IGTOL-CYL>
+	 Face ID = 8
+	 Gtol type = <IGTOL-ANGULAR>
+	 Face ID = 8
+	 Face ID = 7
+Annotation type = swGTol
+	 Gtol type = <IGTOL-PERP>
+	 Face ID = 8
+	 Face ID = 7
+############# DimXpert finish #############
+###########################################
+
+===== return GC ======
+SizeTol 14, )
+SizeTol 14, )
+SizeTol 14, )
+SizeTol 44, )
+SizeTol 44, )
+GTOL_PERP 0,  (0.10)
+SizeTol 34.97,  (-0.004, -0.02)
+GTOL_ANGULAR 0,  (0.025)
+GTOL_PERP 0,  (0.02)
+SizeTol 34.97,  (-0.004, -0.02)
+GTOL_CYL 0,  (0.007)
+GTOL_ANGULAR 0,  (0.025)
+GTOL_PERP 0,  (0.02)
+SizeTol 3.3, )
+SizeTol 3.3, )
+SizeTol 3.3, )
+SizeTol 3.3, )
+SizeTol 3.3, )
+SizeTol 3.3, )
+SizeTol 3.3, )
+SizeTol 3.3, )
+SizeTol 3.3, )
+SizeTol 3.3, )
+SizeTol 3.3, )
+SizeTol 3.3, )
+SizeTol 3.3, )
+SizeTol 3.3, )
+SizeTol 3.3, )
+SizeTol 3.3, )
+SizeTol 14, )
+SizeTol 14, )
+SizeTol 14, )
+GTOL_FLAT 0,  (0.05)
+SizeTol 10,  (0.2, -0.2)
+SizeTol 10,  (0.2, -0.2)
+SizeTol 10,  (0.2, -0.2)
+SizeTol 10,  (0.2, -0.2)
+SizeTol 10,  (0.2, -0.2)
+SizeTol 10,  (0.2, -0.2)
+SizeTol 10,  (0.2, -0.2)
+SizeTol 14, )
+SizeTol 14, )
+SizeTol 14, )
+SizeTol 10,  (0.2, -0.2)
+SizeTol 10,  (0.2, -0.2)
+SizeTol 10,  (0.2, -0.2)
+SizeTol 10,  (0.2, -0.2)
+SizeTol 14, )
+SizeTol 14, )
+SizeTol 14, )
+SizeTol 10,  (0.2, -0.2)
+SizeTol 0.0001, )
+SizeTol 0.0001, )
+SizeTol 40.233, )
+SizeTol 14.913, )
+SizeTol 14.913, )
+SizeTol 14.913, )
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 端效器零件_40度-2
+		Operation name: 填料-伸長1, type: Extrusion
+			Full name = D1@填料-伸長1@端效器零件_40度.Part
+			Full name = D1@草圖2@端效器零件_40度.Part
+			Full name = D2@草圖2@端效器零件_40度.Part
+			3 Face ID = 1, 2, 3, 
+
+		Operation name: 填料-伸長2, type: Boss
+			Full name = D1@平面1@端效器零件_40度.Part
+			Full name = D1@填料-伸長2@端效器零件_40度.Part
+			Full name = D1@草圖3@端效器零件_40度.Part
+			5 Face ID = 4, 5, 6, 2, 3, 
+
+		Operation name: 除料-伸長1, type: Cut
+			Full name = D1@除料-伸長1@端效器零件_40度.Part
+			Full name = D1@草圖5@端效器零件_40度.Part
+			2 Face ID = 7, 8, 
+
+		Operation name: 除料-伸長2, type: Cut
+			Full name = D1@除料-伸長2@端效器零件_40度.Part
+			Full name = D1@草圖7@端效器零件_40度.Part
+			1 Face ID = 9, 
+
+		Operation name: 除料-伸長3, type: Cut
+			Full name = D1@除料-伸長3@端效器零件_40度.Part
+			Full name = D1@草圖8@端效器零件_40度.Part
+			Full name = D2@草圖8@端效器零件_40度.Part
+			Full name = D3@草圖8@端效器零件_40度.Part
+			Full name = D4@草圖8@端效器零件_40度.Part
+			16 Face ID = 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 
+
+		Operation name: 填料-伸長3, type: Boss
+			3 Face ID = 4, 2, 3, 
+
+		Operation name: 填料-伸長4, type: Boss
+			Full name = D1@填料-伸長4@端效器零件_40度.Part
+			3 Face ID = 26, 2, 3, 
+
+		Operation name: 除料-伸長4, type: Cut
+			1 Face ID = 5, 
+
+		Operation name: 填料-伸長5, type: Boss
+			Full name = D1@填料-伸長5@端效器零件_40度.Part
+			4 Face ID = 26, 2, 3, 1, 
+
+		Operation name: 除料-伸長5, type: Cut
+			Full name = D1@草圖15@端效器零件_40度.Part
+			Full name = D2@草圖15@端效器零件_40度.Part
+			Full name = D3@草圖15@端效器零件_40度.Part
+			Full name = D4@草圖15@端效器零件_40度.Part
+			Full name = D5@草圖15@端效器零件_40度.Part
+			4 Face ID = 27, 28, 29, 30, 
+
+		Operation name: 除料-伸長6, type: Cut
+			Full name = D1@除料-伸長6@端效器零件_40度.Part
+			Full name = D1@草圖16@端效器零件_40度.Part
+			10 Face ID = 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 
+
+		Operation name: 除料-伸長7, type: Cut
+			Full name = D1@草圖17@端效器零件_40度.Part
+			Full name = D2@草圖17@端效器零件_40度.Part
+			2 Face ID = 31, 36, 
+
+		Operation name: 導角1, type: Chamfer
+			Full name = D1@導角1@端效器零件_40度.Part
+			Full name = D2@導角1@端效器零件_40度.Part
+			2 Face ID = 41, 42, 
+
+		Operation name: 基準軸1, type: RefAxis
+			0 Face ID = 
+
+		Operation name: 基準軸2, type: RefAxis
+			0 Face ID = 
+
+		Operation name: 基準軸3, type: RefAxis
+			0 Face ID = 
+
+		Operation name: 除料-伸長8, type: Cut
+			Full name = D1@除料-伸長8@端效器零件_40度.Part
+			1 Face ID = 43, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 端效器零件_40度-3
+Component name: 端效器零件_40度SLDPRT
+		Operation name: 填料-伸長1, type: Extrusion
+			Full name = D1@填料-伸長1@端效器零件_40度.Part
+			Full name = D1@草圖2@端效器零件_40度.Part
+			Full name = D2@草圖2@端效器零件_40度.Part
+			3 Face ID = 1, 2, 3, 
+
+		Operation name: 填料-伸長2, type: Boss
+			Full name = D1@平面1@端效器零件_40度.Part
+			Full name = D1@填料-伸長2@端效器零件_40度.Part
+			Full name = D1@草圖3@端效器零件_40度.Part
+			5 Face ID = 4, 5, 6, 2, 3, 
+
+		Operation name: 除料-伸長1, type: Cut
+			Full name = D1@除料-伸長1@端效器零件_40度.Part
+			Full name = D1@草圖5@端效器零件_40度.Part
+			2 Face ID = 7, 8, 
+
+		Operation name: 除料-伸長2, type: Cut
+			Full name = D1@除料-伸長2@端效器零件_40度.Part
+			Full name = D1@草圖7@端效器零件_40度.Part
+			1 Face ID = 9, 
+
+		Operation name: 除料-伸長3, type: Cut
+			Full name = D1@除料-伸長3@端效器零件_40度.Part
+			Full name = D1@草圖8@端效器零件_40度.Part
+			Full name = D2@草圖8@端效器零件_40度.Part
+			Full name = D3@草圖8@端效器零件_40度.Part
+			Full name = D4@草圖8@端效器零件_40度.Part
+			16 Face ID = 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 
+
+		Operation name: 填料-伸長3, type: Boss
+			3 Face ID = 4, 2, 3, 
+
+		Operation name: 填料-伸長4, type: Boss
+			Full name = D1@填料-伸長4@端效器零件_40度.Part
+			3 Face ID = 26, 2, 3, 
+
+		Operation name: 除料-伸長4, type: Cut
+			1 Face ID = 5, 
+
+		Operation name: 填料-伸長5, type: Boss
+			Full name = D1@填料-伸長5@端效器零件_40度.Part
+			4 Face ID = 26, 2, 3, 1, 
+
+		Operation name: 除料-伸長5, type: Cut
+			Full name = D1@草圖15@端效器零件_40度.Part
+			Full name = D2@草圖15@端效器零件_40度.Part
+			Full name = D3@草圖15@端效器零件_40度.Part
+			Full name = D4@草圖15@端效器零件_40度.Part
+			Full name = D5@草圖15@端效器零件_40度.Part
+			4 Face ID = 27, 28, 29, 30, 
+
+		Operation name: 除料-伸長6, type: Cut
+			Full name = D1@除料-伸長6@端效器零件_40度.Part
+			Full name = D1@草圖16@端效器零件_40度.Part
+			10 Face ID = 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 
+
+		Operation name: 除料-伸長7, type: Cut
+			Full name = D1@草圖17@端效器零件_40度.Part
+			Full name = D2@草圖17@端效器零件_40度.Part
+			2 Face ID = 31, 36, 
+
+		Operation name: 導角1, type: Chamfer
+			Full name = D1@導角1@端效器零件_40度.Part
+			Full name = D2@導角1@端效器零件_40度.Part
+			2 Face ID = 41, 42, 
+
+		Operation name: 基準軸1, type: RefAxis
+			0 Face ID = 
+
+		Operation name: 基準軸2, type: RefAxis
+			0 Face ID = 
+
+		Operation name: 基準軸3, type: RefAxis
+			0 Face ID = 
+
+		Operation name: 除料-伸長8, type: Cut
+			Full name = D1@除料-伸長8@端效器零件_40度.Part
+			1 Face ID = 43, 
+
+#################################################
+################ DimXpert begin #################
+Annotation type = swDisplayDimension
+	 Face ID = 26
+	 Face ID = 34
+	 Face ID = 1
+	 Face ID = 39
+Annotation type = swDisplayDimension
+	 Face ID = 26
+	 Face ID = 39
+	 Face ID = 1
+	 Face ID = 34
+Annotation type = swDisplayDimension
+	 Face ID = 26
+	 Face ID = 1
+	 Face ID = 34
+	 Face ID = 39
+Annotation type = swDisplayDimension
+	 Face ID = 8
+	 Face ID = 7
+Annotation type = swDisplayDimension
+	 Face ID = 3
+	 Face ID = 2
+Annotation type = swDisplayDimension
+	 Face ID = 11
+	 Face ID = 10
+	 Face ID = 25
+	 Face ID = 24
+	 Face ID = 23
+	 Face ID = 22
+	 Face ID = 21
+	 Face ID = 20
+	 Face ID = 19
+	 Face ID = 18
+	 Face ID = 17
+	 Face ID = 16
+	 Face ID = 15
+	 Face ID = 14
+	 Face ID = 13
+	 Face ID = 12
+Annotation type = swDisplayDimension
+	 Face ID = 31
+	 Face ID = 32
+	 Face ID = 27
+	 Face ID = 36
+	 Face ID = 37
+	 Face ID = 29
+Annotation type = swDisplayDimension
+	 Face ID = 33
+	 Face ID = 35
+	 Face ID = 28
+	 Face ID = 38
+	 Face ID = 40
+	 Face ID = 30
+Annotation type = swDisplayDimension
+	 Face ID = 41
+	 Face ID = 42
+Annotation type = swDisplayDimension
+	 Face ID = 43
+Annotation type = swDisplayDimension
+	 Face ID = 43
+Annotation type = swDisplayDimension
+	 Face ID = 43
+Annotation type = swDisplayDimension
+	 Face ID = 43
+Annotation type = swDatumTag
+	 Face ID = 26	 Datum = A
+Annotation type = swDatumTag
+	 Face ID = 3	 Datum = B
+Annotation type = swDatumTag
+	 Face ID = 43	 Datum = C
+Annotation type = swDatumTag
+	 Face ID = 8	 Datum = D
+Annotation type = swGTol
+	 Gtol type = <GTOL-FLAT>
+	 Face ID = 26
+Annotation type = swGTol
+	 Gtol type = <GTOL-PERP>
+	 Face ID = 3
+Annotation type = swGTol
+	 Gtol type = <IGTOL-CYL>
+	 Face ID = 8
+	 Gtol type = <IGTOL-ANGULAR>
+	 Face ID = 8
+	 Face ID = 7
+Annotation type = swGTol
+	 Gtol type = <IGTOL-PERP>
+	 Face ID = 8
+	 Face ID = 7
+############# DimXpert finish #############
+###########################################
+
+===== return GC ======
+SizeTol 14, )
+SizeTol 14, )
+SizeTol 14, )
+SizeTol 44, )
+SizeTol 44, )
+GTOL_PERP 0,  (0.10)
+SizeTol 34.97,  (-0.004, -0.02)
+GTOL_ANGULAR 0,  (0.025)
+GTOL_PERP 0,  (0.02)
+SizeTol 34.97,  (-0.004, -0.02)
+GTOL_CYL 0,  (0.007)
+GTOL_ANGULAR 0,  (0.025)
+GTOL_PERP 0,  (0.02)
+SizeTol 3.3, )
+SizeTol 3.3, )
+SizeTol 3.3, )
+SizeTol 3.3, )
+SizeTol 3.3, )
+SizeTol 3.3, )
+SizeTol 3.3, )
+SizeTol 3.3, )
+SizeTol 3.3, )
+SizeTol 3.3, )
+SizeTol 3.3, )
+SizeTol 3.3, )
+SizeTol 3.3, )
+SizeTol 3.3, )
+SizeTol 3.3, )
+SizeTol 3.3, )
+SizeTol 14, )
+SizeTol 14, )
+SizeTol 14, )
+GTOL_FLAT 0,  (0.05)
+SizeTol 10,  (0.2, -0.2)
+SizeTol 10,  (0.2, -0.2)
+SizeTol 10,  (0.2, -0.2)
+SizeTol 10,  (0.2, -0.2)
+SizeTol 10,  (0.2, -0.2)
+SizeTol 10,  (0.2, -0.2)
+SizeTol 10,  (0.2, -0.2)
+SizeTol 14, )
+SizeTol 14, )
+SizeTol 14, )
+SizeTol 10,  (0.2, -0.2)
+SizeTol 10,  (0.2, -0.2)
+SizeTol 10,  (0.2, -0.2)
+SizeTol 10,  (0.2, -0.2)
+SizeTol 14, )
+SizeTol 14, )
+SizeTol 14, )
+SizeTol 10,  (0.2, -0.2)
+SizeTol 0.0001, )
+SizeTol 0.0001, )
+SizeTol 40.233, )
+SizeTol 14.913, )
+SizeTol 14.913, )
+SizeTol 14.913, )
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 端效器零件_40度-3
+		Operation name: 填料-伸長1, type: Extrusion
+			Full name = D1@填料-伸長1@端效器零件_40度.Part
+			Full name = D1@草圖2@端效器零件_40度.Part
+			Full name = D2@草圖2@端效器零件_40度.Part
+			3 Face ID = 1, 2, 3, 
+
+		Operation name: 填料-伸長2, type: Boss
+			Full name = D1@平面1@端效器零件_40度.Part
+			Full name = D1@填料-伸長2@端效器零件_40度.Part
+			Full name = D1@草圖3@端效器零件_40度.Part
+			5 Face ID = 4, 5, 6, 2, 3, 
+
+		Operation name: 除料-伸長1, type: Cut
+			Full name = D1@除料-伸長1@端效器零件_40度.Part
+			Full name = D1@草圖5@端效器零件_40度.Part
+			2 Face ID = 7, 8, 
+
+		Operation name: 除料-伸長2, type: Cut
+			Full name = D1@除料-伸長2@端效器零件_40度.Part
+			Full name = D1@草圖7@端效器零件_40度.Part
+			1 Face ID = 9, 
+
+		Operation name: 除料-伸長3, type: Cut
+			Full name = D1@除料-伸長3@端效器零件_40度.Part
+			Full name = D1@草圖8@端效器零件_40度.Part
+			Full name = D2@草圖8@端效器零件_40度.Part
+			Full name = D3@草圖8@端效器零件_40度.Part
+			Full name = D4@草圖8@端效器零件_40度.Part
+			16 Face ID = 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 
+
+		Operation name: 填料-伸長3, type: Boss
+			3 Face ID = 4, 2, 3, 
+
+		Operation name: 填料-伸長4, type: Boss
+			Full name = D1@填料-伸長4@端效器零件_40度.Part
+			3 Face ID = 26, 2, 3, 
+
+		Operation name: 除料-伸長4, type: Cut
+			1 Face ID = 5, 
+
+		Operation name: 填料-伸長5, type: Boss
+			Full name = D1@填料-伸長5@端效器零件_40度.Part
+			4 Face ID = 26, 2, 3, 1, 
+
+		Operation name: 除料-伸長5, type: Cut
+			Full name = D1@草圖15@端效器零件_40度.Part
+			Full name = D2@草圖15@端效器零件_40度.Part
+			Full name = D3@草圖15@端效器零件_40度.Part
+			Full name = D4@草圖15@端效器零件_40度.Part
+			Full name = D5@草圖15@端效器零件_40度.Part
+			4 Face ID = 27, 28, 29, 30, 
+
+		Operation name: 除料-伸長6, type: Cut
+			Full name = D1@除料-伸長6@端效器零件_40度.Part
+			Full name = D1@草圖16@端效器零件_40度.Part
+			10 Face ID = 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 
+
+		Operation name: 除料-伸長7, type: Cut
+			Full name = D1@草圖17@端效器零件_40度.Part
+			Full name = D2@草圖17@端效器零件_40度.Part
+			2 Face ID = 31, 36, 
+
+		Operation name: 導角1, type: Chamfer
+			Full name = D1@導角1@端效器零件_40度.Part
+			Full name = D2@導角1@端效器零件_40度.Part
+			2 Face ID = 41, 42, 
+
+		Operation name: 基準軸1, type: RefAxis
+			0 Face ID = 
+
+		Operation name: 基準軸2, type: RefAxis
+			0 Face ID = 
+
+		Operation name: 基準軸3, type: RefAxis
+			0 Face ID = 
+
+		Operation name: 除料-伸長8, type: Cut
+			Full name = D1@除料-伸長8@端效器零件_40度.Part
+			1 Face ID = 43, 
+
+Assembly name: 7202DB-2
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-2/7202DB_3-1
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-2/7202DB_3-1
+		Operation name: _7202DB_Ball, type: BaseBody
+			2 Face ID = 1, 2, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-2/7202DB_3-2
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-2/7202DB_3-2
+		Operation name: _7202DB_Ball, type: BaseBody
+			2 Face ID = 1, 2, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-2/7202DB_3-3
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-2/7202DB_3-3
+		Operation name: _7202DB_Ball, type: BaseBody
+			2 Face ID = 1, 2, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-2/7202DB_3-4
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-2/7202DB_3-4
+		Operation name: _7202DB_Ball, type: BaseBody
+			2 Face ID = 1, 2, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-2/7202DB_3-5
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-2/7202DB_3-5
+		Operation name: _7202DB_Ball, type: BaseBody
+			2 Face ID = 1, 2, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-2/7202DB_3-6
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-2/7202DB_3-6
+		Operation name: _7202DB_Ball, type: BaseBody
+			2 Face ID = 1, 2, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-2/7202DB_3-7
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-2/7202DB_3-7
+		Operation name: _7202DB_Ball, type: BaseBody
+			2 Face ID = 1, 2, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-2/7202DB_3-8
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-2/7202DB_3-8
+		Operation name: _7202DB_Ball, type: BaseBody
+			2 Face ID = 1, 2, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-2/7202DB_3-9
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-2/7202DB_3-9
+		Operation name: _7202DB_Ball, type: BaseBody
+			2 Face ID = 1, 2, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-2/7202DB_3-10
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-2/7202DB_3-10
+		Operation name: _7202DB_Ball, type: BaseBody
+			2 Face ID = 1, 2, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-2/7202DB_3-11
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-2/7202DB_3-11
+		Operation name: _7202DB_Ball, type: BaseBody
+			2 Face ID = 1, 2, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-2/7202DB_3-12
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-2/7202DB_3-12
+		Operation name: _7202DB_Ball, type: BaseBody
+			2 Face ID = 1, 2, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-2/7202DB_3-13
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-2/7202DB_3-13
+		Operation name: _7202DB_Ball, type: BaseBody
+			2 Face ID = 1, 2, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-2/7202DB_3-14
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-2/7202DB_3-14
+		Operation name: _7202DB_Ball, type: BaseBody
+			2 Face ID = 1, 2, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-2/7202DB_3-15
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-2/7202DB_3-15
+		Operation name: _7202DB_Ball, type: BaseBody
+			2 Face ID = 1, 2, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-2/7202DB_3-16
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-2/7202DB_3-16
+		Operation name: _7202DB_Ball, type: BaseBody
+			2 Face ID = 1, 2, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-2/7202DB_20-1
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-2/7202DB_20-1
+		Operation name: _7202DB_Outer_ring, type: BaseBody
+			14 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-2/7202DB_20-2
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-2/7202DB_20-2
+		Operation name: _7202DB_Outer_ring, type: BaseBody
+			14 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-2/7202DB_23-1
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-2/7202DB_23-1
+		Operation name: _7202DB_Inner_ring, type: BaseBody
+			14 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-2/7202DB_23-2
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-2/7202DB_23-2
+		Operation name: _7202DB_Inner_ring, type: BaseBody
+			14 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 
+
+Assembly name: 7202DB-3
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-3/7202DB_3-1
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-3/7202DB_3-1
+		Operation name: _7202DB_Ball, type: BaseBody
+			2 Face ID = 1, 2, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-3/7202DB_3-2
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-3/7202DB_3-2
+		Operation name: _7202DB_Ball, type: BaseBody
+			2 Face ID = 1, 2, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-3/7202DB_3-3
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-3/7202DB_3-3
+		Operation name: _7202DB_Ball, type: BaseBody
+			2 Face ID = 1, 2, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-3/7202DB_3-4
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-3/7202DB_3-4
+		Operation name: _7202DB_Ball, type: BaseBody
+			2 Face ID = 1, 2, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-3/7202DB_3-5
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-3/7202DB_3-5
+		Operation name: _7202DB_Ball, type: BaseBody
+			2 Face ID = 1, 2, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-3/7202DB_3-6
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-3/7202DB_3-6
+		Operation name: _7202DB_Ball, type: BaseBody
+			2 Face ID = 1, 2, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-3/7202DB_3-7
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-3/7202DB_3-7
+		Operation name: _7202DB_Ball, type: BaseBody
+			2 Face ID = 1, 2, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-3/7202DB_3-8
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-3/7202DB_3-8
+		Operation name: _7202DB_Ball, type: BaseBody
+			2 Face ID = 1, 2, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-3/7202DB_3-9
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-3/7202DB_3-9
+		Operation name: _7202DB_Ball, type: BaseBody
+			2 Face ID = 1, 2, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-3/7202DB_3-10
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-3/7202DB_3-10
+		Operation name: _7202DB_Ball, type: BaseBody
+			2 Face ID = 1, 2, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-3/7202DB_3-11
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-3/7202DB_3-11
+		Operation name: _7202DB_Ball, type: BaseBody
+			2 Face ID = 1, 2, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-3/7202DB_3-12
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-3/7202DB_3-12
+		Operation name: _7202DB_Ball, type: BaseBody
+			2 Face ID = 1, 2, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-3/7202DB_3-13
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-3/7202DB_3-13
+		Operation name: _7202DB_Ball, type: BaseBody
+			2 Face ID = 1, 2, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-3/7202DB_3-14
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-3/7202DB_3-14
+		Operation name: _7202DB_Ball, type: BaseBody
+			2 Face ID = 1, 2, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-3/7202DB_3-15
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-3/7202DB_3-15
+		Operation name: _7202DB_Ball, type: BaseBody
+			2 Face ID = 1, 2, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-3/7202DB_3-16
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-3/7202DB_3-16
+		Operation name: _7202DB_Ball, type: BaseBody
+			2 Face ID = 1, 2, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-3/7202DB_20-1
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-3/7202DB_20-1
+		Operation name: _7202DB_Outer_ring, type: BaseBody
+			14 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-3/7202DB_20-2
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-3/7202DB_20-2
+		Operation name: _7202DB_Outer_ring, type: BaseBody
+			14 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-3/7202DB_23-1
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-3/7202DB_23-1
+		Operation name: _7202DB_Inner_ring, type: BaseBody
+			14 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 7202DB-3/7202DB_23-2
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 7202DB-3/7202DB_23-2
+		Operation name: _7202DB_Inner_ring, type: BaseBody
+			14 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: BOX_SCB4_6-10
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: BOX_SCB4_6-10
+		Operation name: BOX_SCB4_6.sldprt, type: BaseBody
+			25 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: BOX_SCB4_6-11
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: BOX_SCB4_6-11
+		Operation name: BOX_SCB4_6.sldprt, type: BaseBody
+			25 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: BOX_SCB4_6-12
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: BOX_SCB4_6-12
+		Operation name: BOX_SCB4_6.sldprt, type: BaseBody
+			25 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: BOX_SCB4_6-13
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: BOX_SCB4_6-13
+		Operation name: BOX_SCB4_6.sldprt, type: BaseBody
+			25 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: BOX_SCB4_6-14
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: BOX_SCB4_6-14
+		Operation name: BOX_SCB4_6.sldprt, type: BaseBody
+			25 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: BOX_SCB4_6-15
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: BOX_SCB4_6-15
+		Operation name: BOX_SCB4_6.sldprt, type: BaseBody
+			25 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: BOX_SCB4_6-16
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: BOX_SCB4_6-16
+		Operation name: BOX_SCB4_6.sldprt, type: BaseBody
+			25 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: BOX_SCB4_6-17
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: BOX_SCB4_6-17
+		Operation name: BOX_SCB4_6.sldprt, type: BaseBody
+			25 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: BOX_SCB4_6-18
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: BOX_SCB4_6-18
+		Operation name: BOX_SCB4_6.sldprt, type: BaseBody
+			25 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: BOX_SCB4_6-19
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: BOX_SCB4_6-19
+		Operation name: BOX_SCB4_6.sldprt, type: BaseBody
+			25 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: BOX_SCB4_6-20
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: BOX_SCB4_6-20
+		Operation name: BOX_SCB4_6.sldprt, type: BaseBody
+			25 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: BOX_SCB4_6-21
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: BOX_SCB4_6-21
+		Operation name: BOX_SCB4_6.sldprt, type: BaseBody
+			25 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: BOX_SCB4_6-22
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: BOX_SCB4_6-22
+		Operation name: BOX_SCB4_6.sldprt, type: BaseBody
+			25 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: BOX_SCB4_6-23
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: BOX_SCB4_6-23
+		Operation name: BOX_SCB4_6.sldprt, type: BaseBody
+			25 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: BOX_SCB4_6-24
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: BOX_SCB4_6-24
+		Operation name: BOX_SCB4_6.sldprt, type: BaseBody
+			25 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: BOX_SCB4_6-25
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: BOX_SCB4_6-25
+		Operation name: BOX_SCB4_6.sldprt, type: BaseBody
+			25 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: PCLBR15_22_0_FC30_5-1
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: PCLBR15_22_0_FC30_5-1
+		Operation name: _PCLBR15_22_0_FC30_D, type: BaseBody
+			38 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: PCLBR15_22_0_FC30_5-2
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: PCLBR15_22_0_FC30_5-2
+		Operation name: _PCLBR15_22_0_FC30_D, type: BaseBody
+			38 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: PCLBR15_22_0_FC30_5-3
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: PCLBR15_22_0_FC30_5-3
+		Operation name: _PCLBR15_22_0_FC30_D, type: BaseBody
+			38 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: SCB5_15-1
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: SCB5_15-1
+		Operation name: SCB5_15.sldprt, type: BaseBody
+			25 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: SCB5_15-2
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: SCB5_15-2
+		Operation name: SCB5_15.sldprt, type: BaseBody
+			25 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: SCB5_15-3
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: SCB5_15-3
+		Operation name: SCB5_15.sldprt, type: BaseBody
+			25 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: SCB5_15-4
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: SCB5_15-4
+		Operation name: SCB5_15.sldprt, type: BaseBody
+			25 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: SCB5_15-5
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: SCB5_15-5
+		Operation name: SCB5_15.sldprt, type: BaseBody
+			25 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: SCB5_15-6
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: SCB5_15-6
+		Operation name: SCB5_15.sldprt, type: BaseBody
+			25 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: SCB5_15-7
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: SCB5_15-7
+		Operation name: SCB5_15.sldprt, type: BaseBody
+			25 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: SCB5_15-8
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: SCB5_15-8
+		Operation name: SCB5_15.sldprt, type: BaseBody
+			25 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: SCB5_15-9
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: SCB5_15-9
+		Operation name: SCB5_15.sldprt, type: BaseBody
+			25 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: SCB5_15-10
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: SCB5_15-10
+		Operation name: SCB5_15.sldprt, type: BaseBody
+			25 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: SCB5_15-11
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: SCB5_15-11
+		Operation name: SCB5_15.sldprt, type: BaseBody
+			25 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: SCB5_15-12
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: SCB5_15-12
+		Operation name: SCB5_15.sldprt, type: BaseBody
+			25 Face ID = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 雷射位移把手-1
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 雷射位移把手-1
+		Operation name: 填料-伸長1, type: Extrusion
+			Full name = D1@填料-伸長1@雷射位移把手.Part
+			Full name = D1@草圖1@雷射位移把手.Part
+			Full name = D2@草圖1@雷射位移把手.Part
+			2 Face ID = 1, 2, 
+
+		Operation name: 填料-伸長2, type: Boss
+			Full name = D1@填料-伸長2@雷射位移把手.Part
+			Full name = D1@草圖2@雷射位移把手.Part
+			5 Face ID = 3, 4, 5, 6, 7, 
+
+		Operation name: 除料-伸長1, type: Cut
+			Full name = D1@除料-伸長1@雷射位移把手.Part
+			Full name = D1@草圖4@雷射位移把手.Part
+			Full name = D2@草圖4@雷射位移把手.Part
+			Full name = D3@草圖4@雷射位移把手.Part
+			3 Face ID = 8, 9, 10, 
+
+		Operation name: 除料-伸長2, type: Cut
+			Full name = D1@除料-伸長2@雷射位移把手.Part
+			Full name = D1@草圖5@雷射位移把手.Part
+			Full name = D2@草圖5@雷射位移把手.Part
+			0 Face ID = 
+
+		Operation name: 填料-伸長3, type: Boss
+			Full name = D1@填料-伸長3@雷射位移把手.Part
+			5 Face ID = 11, 12, 13, 14, 15, 
+
+		Operation name: 除料-伸長3, type: Cut
+			Full name = D1@除料-伸長3@雷射位移把手.Part
+			1 Face ID = 16, 
+
+		Operation name: 除料-伸長4, type: Cut
+			Full name = D1@除料-伸長4@雷射位移把手.Part
+			1 Face ID = 17, 
+
+		Operation name: 除料-伸長5, type: Cut
+			Full name = D1@除料-伸長5@雷射位移把手.Part
+			1 Face ID = 18, 
+
+		Operation name: 除料-伸長6, type: Cut
+			Full name = D1@除料-伸長6@雷射位移把手.Part
+			0 Face ID = 
+
+		Operation name: 除料-伸長7, type: Cut
+			Full name = D1@除料-伸長7@雷射位移把手.Part
+			0 Face ID = 
+
+		Operation name: 除料-伸長8, type: Cut
+			Full name = D1@除料-伸長8@雷射位移把手.Part
+			0 Face ID = 
+
+		Operation name: 除料-伸長9, type: Cut
+			Full name = D1@草圖12@雷射位移把手.Part
+			Full name = D2@草圖12@雷射位移把手.Part
+			Full name = D3@草圖12@雷射位移把手.Part
+			Full name = D4@草圖12@雷射位移把手.Part
+			3 Face ID = 19, 20, 21, 
+
+		Operation name: 基準軸1, type: RefAxis
+			0 Face ID = 
+
+		Operation name: 除料-伸長10, type: Cut
+			Full name = D1@草圖14@雷射位移把手.Part
+			Full name = D2@草圖14@雷射位移把手.Part
+			0 Face ID = 
+
+		Operation name: 基準軸2, type: RefAxis
+			0 Face ID = 
+
+
+############################################################## 
+########################## open file ######################### 
+Component name: 端效器零件_中間V2-1
+Error code after document activation: 0
+###################### file close ##########################
+############################################################
+
+
+	Part name: 端效器零件_中間V2-1
+		Operation name: 填料-伸長1, type: Extrusion
+			Full name = D1@填料-伸長1@端效器零件_中間V2.Part
+			Full name = D1@草圖1@端效器零件_中間V2.Part
+			5 Face ID = 1, 2, 3, 4, 5, 
+
+		Operation name: 基準軸1, type: RefAxis
+			0 Face ID = 
+
+		Operation name: 除料-伸長1, type: Cut
+			Full name = D1@除料-伸長1@端效器零件_中間V2.Part
+			Full name = D1@草圖4@端效器零件_中間V2.Part
+			0 Face ID = 
+
+		Operation name: 環狀複製排列1, type: CirPattern
+			Full name = D2@環狀複製排列1@端效器零件_中間V2.Part
+			Full name = D1@環狀複製排列1@端效器零件_中間V2.Part
+			0 Face ID = 
+
+		Operation name: 除料-伸長2, type: Cut
+			Full name = D1@除料-伸長2@端效器零件_中間V2.Part
+			Full name = D1@草圖6@端效器零件_中間V2.Part
+			Full name = D2@草圖6@端效器零件_中間V2.Part
+			Full name = D3@草圖6@端效器零件_中間V2.Part
+			Full name = D4@草圖6@端效器零件_中間V2.Part
+			8 Face ID = 6, 7, 8, 9, 10, 11, 12, 13, 
+
+		Operation name: 環狀複製排列2, type: CirPattern
+			Full name = D2@環狀複製排列2@端效器零件_中間V2.Part
+			Full name = D1@環狀複製排列2@端效器零件_中間V2.Part
+			16 Face ID = 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 
+
+		Operation name: 除料-伸長3, type: Cut
+			Full name = D1@草圖7@端效器零件_中間V2.Part
+			Full name = D2@草圖7@端效器零件_中間V2.Part
+			Full name = D3@草圖7@端效器零件_中間V2.Part
+			Full name = D4@草圖7@端效器零件_中間V2.Part
+			3 Face ID = 30, 31, 32, 
+
+		Operation name: 除料-伸長4, type: Cut
+			Full name = D1@除料-伸長4@端效器零件_中間V2.Part
+			Full name = D1@草圖8@端效器零件_中間V2.Part
+			Full name = D2@草圖8@端效器零件_中間V2.Part
+			Full name = D3@草圖8@端效器零件_中間V2.Part
+			Full name = D4@草圖8@端效器零件_中間V2.Part
+			0 Face ID = 
+
+		Operation name: 除料-伸長5, type: Cut
+			Full name = D1@除料-伸長5@端效器零件_中間V2.Part
+			Full name = D1@草圖9@端效器零件_中間V2.Part
+			1 Face ID = 33, 
+
+		Operation name: 除料-伸長6, type: Cut
+			Full name = D1@草圖10@端效器零件_中間V2.Part
+			Full name = D2@草圖10@端效器零件_中間V2.Part
+			Full name = D3@草圖10@端效器零件_中間V2.Part
+			6 Face ID = 34, 35, 36, 37, 38, 39, 
+
+		Operation name: 除料-伸長7, type: Cut
+			Full name = D1@草圖11@端效器零件_中間V2.Part
+			1 Face ID = 33, 
+
+		Operation name: 填料-伸長2, type: Boss
+			3 Face ID = 40, 1, 2, 
+
+		Operation name: 環狀複製排列3, type: CirPattern
+			Full name = D2@環狀複製排列3@端效器零件_中間V2.Part
+			Full name = D1@環狀複製排列3@端效器零件_中間V2.Part
+			4 Face ID = 41, 42, 1, 2, 
+
+		Operation name: 除料-伸長8, type: Cut
+			Full name = D1@除料-伸長8@端效器零件_中間V2.Part
+			0 Face ID = 
+

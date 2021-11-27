@@ -1,0 +1,1653 @@
+Component name: 端效器組合V2-1
+	Feature name: 結合於 UPU0304, type: RefDependFolder
+Component name: 端效器組合V2-1/端效器零件_40度-1
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+Component name: 端效器組合V2-1/7202DB-1
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+Component name: 端效器組合V2-1/7202DB-1/7202DB_3-1
+Component name: 端效器組合V2-1/7202DB-1/7202DB_3-2
+Component name: 端效器組合V2-1/7202DB-1/7202DB_3-3
+Component name: 端效器組合V2-1/7202DB-1/7202DB_3-4
+Component name: 端效器組合V2-1/7202DB-1/7202DB_3-5
+Component name: 端效器組合V2-1/7202DB-1/7202DB_3-6
+Component name: 端效器組合V2-1/7202DB-1/7202DB_3-7
+Component name: 端效器組合V2-1/7202DB-1/7202DB_3-8
+Component name: 端效器組合V2-1/7202DB-1/7202DB_3-9
+Component name: 端效器組合V2-1/7202DB-1/7202DB_3-10
+Component name: 端效器組合V2-1/7202DB-1/7202DB_3-11
+Component name: 端效器組合V2-1/7202DB-1/7202DB_3-12
+Component name: 端效器組合V2-1/7202DB-1/7202DB_3-13
+Component name: 端效器組合V2-1/7202DB-1/7202DB_3-14
+Component name: 端效器組合V2-1/7202DB-1/7202DB_3-15
+Component name: 端效器組合V2-1/7202DB-1/7202DB_3-16
+Component name: 端效器組合V2-1/7202DB-1/7202DB_20-1
+Component name: 端效器組合V2-1/7202DB-1/7202DB_20-2
+Component name: 端效器組合V2-1/7202DB-1/7202DB_23-1
+Component name: 端效器組合V2-1/7202DB-1/7202DB_23-2
+Component name: 端效器組合V2-1/BOX_SCB4_6-2
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+Component name: 端效器組合V2-1/BOX_SCB4_6-3
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+Component name: 端效器組合V2-1/BOX_SCB4_6-4
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+Component name: 端效器組合V2-1/BOX_SCB4_6-5
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+Component name: 端效器組合V2-1/BOX_SCB4_6-6
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+Component name: 端效器組合V2-1/BOX_SCB4_6-7
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+Component name: 端效器組合V2-1/BOX_SCB4_6-8
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+Component name: 端效器組合V2-1/BOX_SCB4_6-9
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+Component name: 端效器組合V2-1/端效器零件_中間-1
+Component name: 端效器組合V2-1/端效器零件_40度-2
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+Component name: 端效器組合V2-1/端效器零件_40度-3
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+Component name: 端效器組合V2-1/7202DB-2
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+Component name: 端效器組合V2-1/7202DB-2/7202DB_3-1
+Component name: 端效器組合V2-1/7202DB-2/7202DB_3-2
+Component name: 端效器組合V2-1/7202DB-2/7202DB_3-3
+Component name: 端效器組合V2-1/7202DB-2/7202DB_3-4
+Component name: 端效器組合V2-1/7202DB-2/7202DB_3-5
+Component name: 端效器組合V2-1/7202DB-2/7202DB_3-6
+Component name: 端效器組合V2-1/7202DB-2/7202DB_3-7
+Component name: 端效器組合V2-1/7202DB-2/7202DB_3-8
+Component name: 端效器組合V2-1/7202DB-2/7202DB_3-9
+Component name: 端效器組合V2-1/7202DB-2/7202DB_3-10
+Component name: 端效器組合V2-1/7202DB-2/7202DB_3-11
+Component name: 端效器組合V2-1/7202DB-2/7202DB_3-12
+Component name: 端效器組合V2-1/7202DB-2/7202DB_3-13
+Component name: 端效器組合V2-1/7202DB-2/7202DB_3-14
+Component name: 端效器組合V2-1/7202DB-2/7202DB_3-15
+Component name: 端效器組合V2-1/7202DB-2/7202DB_3-16
+Component name: 端效器組合V2-1/7202DB-2/7202DB_20-1
+Component name: 端效器組合V2-1/7202DB-2/7202DB_20-2
+Component name: 端效器組合V2-1/7202DB-2/7202DB_23-1
+Component name: 端效器組合V2-1/7202DB-2/7202DB_23-2
+Component name: 端效器組合V2-1/7202DB-3
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+Component name: 端效器組合V2-1/7202DB-3/7202DB_3-1
+Component name: 端效器組合V2-1/7202DB-3/7202DB_3-2
+Component name: 端效器組合V2-1/7202DB-3/7202DB_3-3
+Component name: 端效器組合V2-1/7202DB-3/7202DB_3-4
+Component name: 端效器組合V2-1/7202DB-3/7202DB_3-5
+Component name: 端效器組合V2-1/7202DB-3/7202DB_3-6
+Component name: 端效器組合V2-1/7202DB-3/7202DB_3-7
+Component name: 端效器組合V2-1/7202DB-3/7202DB_3-8
+Component name: 端效器組合V2-1/7202DB-3/7202DB_3-9
+Component name: 端效器組合V2-1/7202DB-3/7202DB_3-10
+Component name: 端效器組合V2-1/7202DB-3/7202DB_3-11
+Component name: 端效器組合V2-1/7202DB-3/7202DB_3-12
+Component name: 端效器組合V2-1/7202DB-3/7202DB_3-13
+Component name: 端效器組合V2-1/7202DB-3/7202DB_3-14
+Component name: 端效器組合V2-1/7202DB-3/7202DB_3-15
+Component name: 端效器組合V2-1/7202DB-3/7202DB_3-16
+Component name: 端效器組合V2-1/7202DB-3/7202DB_20-1
+Component name: 端效器組合V2-1/7202DB-3/7202DB_20-2
+Component name: 端效器組合V2-1/7202DB-3/7202DB_23-1
+Component name: 端效器組合V2-1/7202DB-3/7202DB_23-2
+Component name: 端效器組合V2-1/BOX_SCB4_6-10
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+Component name: 端效器組合V2-1/BOX_SCB4_6-11
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+Component name: 端效器組合V2-1/BOX_SCB4_6-12
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+Component name: 端效器組合V2-1/BOX_SCB4_6-13
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+Component name: 端效器組合V2-1/BOX_SCB4_6-14
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+Component name: 端效器組合V2-1/BOX_SCB4_6-15
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+Component name: 端效器組合V2-1/BOX_SCB4_6-16
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+Component name: 端效器組合V2-1/BOX_SCB4_6-17
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+Component name: 端效器組合V2-1/BOX_SCB4_6-18
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+Component name: 端效器組合V2-1/BOX_SCB4_6-19
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+Component name: 端效器組合V2-1/BOX_SCB4_6-20
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+Component name: 端效器組合V2-1/BOX_SCB4_6-21
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+Component name: 端效器組合V2-1/BOX_SCB4_6-22
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+Component name: 端效器組合V2-1/BOX_SCB4_6-23
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+Component name: 端效器組合V2-1/BOX_SCB4_6-24
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+Component name: 端效器組合V2-1/BOX_SCB4_6-25
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+Component name: 端效器組合V2-1/端效器零件_把手-1
+Component name: 端效器組合V2-1/PCLBR15_22_0_FC30_5-1
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+Component name: 端效器組合V2-1/PCLBR15_22_0_FC30_5-2
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+Component name: 端效器組合V2-1/PCLBR15_22_0_FC30_5-3
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+Component name: 端效器組合V2-1/SCB5_15-1
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+Component name: 端效器組合V2-1/SCB5_15-2
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+Component name: 端效器組合V2-1/SCB5_15-3
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+Component name: 端效器組合V2-1/SCB5_15-4
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+Component name: 端效器組合V2-1/SCB5_15-5
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+Component name: 端效器組合V2-1/SCB5_15-6
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+Component name: 端效器組合V2-1/SCB5_15-7
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+Component name: 端效器組合V2-1/SCB5_15-8
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+Component name: 端效器組合V2-1/SCB5_15-9
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+Component name: 端效器組合V2-1/SCB5_15-10
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+Component name: 端效器組合V2-1/SCB5_15-11
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+Component name: 端效器組合V2-1/SCB5_15-12
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+Component name: 端效器組合V2-1/雷射位移把手-1
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+Component name: 端效器組合V2-1/B_jointV3-1
+Component name: 端效器組合V2-1/B_jointV3-2
+Component name: 端效器組合V2-1/B_jointV3-3
+Component name: 端效器組合V2-1/小r_直徑128-1
+Component name: 端效器組合V2-1/端效器零件_中間-2
+Component name: 端效器組合V2-1/端效器零件_中間V2-1
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+Component name: B_jointV3-1
+	Feature name: 結合於 UPU0304, type: RefDependFolder
+Component name: B_jointV3-1/非軸承邊壓內環-1
+	Feature name: 結合於 B_jointV3, type: RefDependFolder
+Component name: B_jointV3-1/BOX_SCB4_6-1
+	Feature name: 結合於 B_jointV3, type: RefDependFolder
+Component name: B_jointV3-1/BOX_SCB4_6-2
+	Feature name: 結合於 B_jointV3, type: RefDependFolder
+Component name: B_jointV3-1/BOX_SCB4_6-3
+	Feature name: 結合於 B_jointV3, type: RefDependFolder
+Component name: B_jointV3-1/BOX_SCB4_6-4
+	Feature name: 結合於 B_jointV3, type: RefDependFolder
+Component name: B_jointV3-1/BOX_SCB4_6-5
+	Feature name: 結合於 B_jointV3, type: RefDependFolder
+Component name: B_jointV3-1/BOX_SCB4_6-6
+	Feature name: 結合於 B_jointV3, type: RefDependFolder
+Component name: B_jointV3-1/BOX_SCB4_6-7
+	Feature name: 結合於 B_jointV3, type: RefDependFolder
+Component name: B_jointV3-1/BOX_SCB4_6-8
+	Feature name: 結合於 B_jointV3, type: RefDependFolder
+Component name: B_jointV3-1/04_1_ujoint-2_v5-1
+	Feature name: 結合於 B_jointV3, type: RefDependFolder
+Component name: B_jointV3-1/端效器零件_40度-1
+Component name: B_jointV3-1/7202DB-1
+Component name: B_jointV3-1/BOX_SCB4_6-9
+Component name: B_jointV3-1/BOX_SCB4_6-10
+Component name: B_jointV3-1/BOX_SCB4_6-11
+Component name: B_jointV3-1/BOX_SCB4_6-12
+Component name: B_jointV3-1/BOX_SCB4_6-13
+Component name: B_jointV3-1/BOX_SCB4_6-14
+Component name: B_jointV3-1/BOX_SCB4_6-15
+Component name: B_jointV3-1/BOX_SCB4_6-16
+Component name: B_jointV3-2
+	Feature name: 結合於 UPU0304, type: RefDependFolder
+Component name: B_jointV3-2/非軸承邊壓內環-1
+	Feature name: 結合於 B_jointV3, type: RefDependFolder
+Component name: B_jointV3-2/BOX_SCB4_6-1
+	Feature name: 結合於 B_jointV3, type: RefDependFolder
+Component name: B_jointV3-2/BOX_SCB4_6-2
+	Feature name: 結合於 B_jointV3, type: RefDependFolder
+Component name: B_jointV3-2/BOX_SCB4_6-3
+	Feature name: 結合於 B_jointV3, type: RefDependFolder
+Component name: B_jointV3-2/BOX_SCB4_6-4
+	Feature name: 結合於 B_jointV3, type: RefDependFolder
+Component name: B_jointV3-2/BOX_SCB4_6-5
+	Feature name: 結合於 B_jointV3, type: RefDependFolder
+Component name: B_jointV3-2/BOX_SCB4_6-6
+	Feature name: 結合於 B_jointV3, type: RefDependFolder
+Component name: B_jointV3-2/BOX_SCB4_6-7
+	Feature name: 結合於 B_jointV3, type: RefDependFolder
+Component name: B_jointV3-2/BOX_SCB4_6-8
+	Feature name: 結合於 B_jointV3, type: RefDependFolder
+Component name: B_jointV3-2/04_1_ujoint-2_v5-1
+	Feature name: 結合於 B_jointV3, type: RefDependFolder
+Component name: B_jointV3-2/端效器零件_40度-1
+Component name: B_jointV3-2/7202DB-1
+Component name: B_jointV3-2/BOX_SCB4_6-9
+Component name: B_jointV3-2/BOX_SCB4_6-10
+Component name: B_jointV3-2/BOX_SCB4_6-11
+Component name: B_jointV3-2/BOX_SCB4_6-12
+Component name: B_jointV3-2/BOX_SCB4_6-13
+Component name: B_jointV3-2/BOX_SCB4_6-14
+Component name: B_jointV3-2/BOX_SCB4_6-15
+Component name: B_jointV3-2/BOX_SCB4_6-16
+Component name: B_jointV3-3
+	Feature name: 結合於 UPU0304, type: RefDependFolder
+Component name: B_jointV3-3/非軸承邊壓內環-1
+	Feature name: 結合於 B_jointV3, type: RefDependFolder
+Component name: B_jointV3-3/BOX_SCB4_6-1
+	Feature name: 結合於 B_jointV3, type: RefDependFolder
+Component name: B_jointV3-3/BOX_SCB4_6-2
+	Feature name: 結合於 B_jointV3, type: RefDependFolder
+Component name: B_jointV3-3/BOX_SCB4_6-3
+	Feature name: 結合於 B_jointV3, type: RefDependFolder
+Component name: B_jointV3-3/BOX_SCB4_6-4
+	Feature name: 結合於 B_jointV3, type: RefDependFolder
+Component name: B_jointV3-3/BOX_SCB4_6-5
+	Feature name: 結合於 B_jointV3, type: RefDependFolder
+Component name: B_jointV3-3/BOX_SCB4_6-6
+	Feature name: 結合於 B_jointV3, type: RefDependFolder
+Component name: B_jointV3-3/BOX_SCB4_6-7
+	Feature name: 結合於 B_jointV3, type: RefDependFolder
+Component name: B_jointV3-3/BOX_SCB4_6-8
+	Feature name: 結合於 B_jointV3, type: RefDependFolder
+Component name: B_jointV3-3/04_1_ujoint-2_v5-1
+	Feature name: 結合於 B_jointV3, type: RefDependFolder
+Component name: B_jointV3-3/端效器零件_40度-1
+Component name: B_jointV3-3/7202DB-1
+Component name: B_jointV3-3/BOX_SCB4_6-9
+Component name: B_jointV3-3/BOX_SCB4_6-10
+Component name: B_jointV3-3/BOX_SCB4_6-11
+Component name: B_jointV3-3/BOX_SCB4_6-12
+Component name: B_jointV3-3/BOX_SCB4_6-13
+Component name: B_jointV3-3/BOX_SCB4_6-14
+Component name: B_jointV3-3/BOX_SCB4_6-15
+Component name: B_jointV3-3/BOX_SCB4_6-16
+Component name: P加清大馬達_V4-1
+	Feature name: 結合於 UPU0304, type: RefDependFolder
+Component name: P加清大馬達_V4-1/C_BSSC0802_293_5-1
+Component name: P加清大馬達_V4-1/SCB5_20-4
+Component name: P加清大馬達_V4-1/底座支撐_40度.SLDPRT-1
+Component name: P加清大馬達_V4-1/SCB5_35-1
+Component name: P加清大馬達_V4-1/馬達座配合清大_v2-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-1/BRW6_8-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-1/BRW6_5-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-1/SSEBM20L_280_5-1
+Component name: P加清大馬達_V4-1/SCB3_10-1
+Component name: P加清大馬達_V4-1/SSEBM20L_280_3-2
+Component name: P加清大馬達_V4-1/滑塊連接-2
+Component name: P加清大馬達_V4-1/U1_joint-2
+Component name: P加清大馬達_V4-1/底座支撐_40度.SLDPRT-2
+Component name: P加清大馬達_V4-1/C_BSSC0802_293_5-2
+Component name: P加清大馬達_V4-1/KBB6_16-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-1/KBB6_16-2
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-1/KBB6_16-4
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-1/KBB6_16-5
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-1/C_BSSC0802_293_5-3
+Component name: P加清大馬達_V4-1/SCB3_6-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-1/SCB3_6-2
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-1/SCB3_6-3
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-1/SCB3_6-4
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-1/SCB3_6-5
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-1/SCB3_6-6
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-1/SCB3_6-7
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-1/SCB3_6-8
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-1/B1199-1
+Component name: P加清大馬達_V4-1/BUR6_3-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-1/_HTPA16S2M060-A-H5_a-1
+Component name: P加清大馬達_V4-1/C_BSSCK0802_312_F11_P4_3-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-1/HTPA36S2M060-A-H4-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-1/P接頭馬達座-1
+Component name: P加清大馬達_V4-1/_C_BSSCK0802_290_F11_P4_s_2-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-1/皮帶36_v2-1
+Component name: P加清大馬達_V4-1/P_joint_偏移V4_閃電馬達座_m061p3-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-1/P_joint_偏移V4_閃電馬達座_m061p3-1/P joint-1
+	Feature name: 結合於 P_joint_偏移V4_閃電馬達座_m061p3, type: RefDependFolder
+Component name: P加清大馬達_V4-1/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1
+	Feature name: 結合於 P_joint_偏移V4_閃電馬達座_m061p3, type: RefDependFolder
+Component name: P加清大馬達_V4-1/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_3-1
+Component name: P加清大馬達_V4-1/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_3-2
+Component name: P加清大馬達_V4-1/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_3-3
+Component name: P加清大馬達_V4-1/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_3-4
+Component name: P加清大馬達_V4-1/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_3-5
+Component name: P加清大馬達_V4-1/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_3-6
+Component name: P加清大馬達_V4-1/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_3-7
+Component name: P加清大馬達_V4-1/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_3-8
+Component name: P加清大馬達_V4-1/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_3-9
+Component name: P加清大馬達_V4-1/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_3-10
+Component name: P加清大馬達_V4-1/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_3-11
+Component name: P加清大馬達_V4-1/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_3-12
+Component name: P加清大馬達_V4-1/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_3-13
+Component name: P加清大馬達_V4-1/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_3-14
+Component name: P加清大馬達_V4-1/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_3-15
+Component name: P加清大馬達_V4-1/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_3-16
+Component name: P加清大馬達_V4-1/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_20-1
+Component name: P加清大馬達_V4-1/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_20-2
+Component name: P加清大馬達_V4-1/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_23-1
+Component name: P加清大馬達_V4-1/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_23-2
+Component name: P加清大馬達_V4-1/P_joint_偏移V4_閃電馬達座_m061p3-1/BOX_SCB4_6-1
+	Feature name: 結合於 P_joint_偏移V4_閃電馬達座_m061p3, type: RefDependFolder
+Component name: P加清大馬達_V4-1/P_joint_偏移V4_閃電馬達座_m061p3-1/BOX_SCB4_6-2
+	Feature name: 結合於 P_joint_偏移V4_閃電馬達座_m061p3, type: RefDependFolder
+Component name: P加清大馬達_V4-1/P_joint_偏移V4_閃電馬達座_m061p3-1/BOX_SCB4_6-3
+	Feature name: 結合於 P_joint_偏移V4_閃電馬達座_m061p3, type: RefDependFolder
+Component name: P加清大馬達_V4-1/P_joint_偏移V4_閃電馬達座_m061p3-1/BOX_SCB4_6-4
+	Feature name: 結合於 P_joint_偏移V4_閃電馬達座_m061p3, type: RefDependFolder
+Component name: P加清大馬達_V4-1/P_joint_偏移V4_閃電馬達座_m061p3-1/BOX_SCB4_6-5
+	Feature name: 結合於 P_joint_偏移V4_閃電馬達座_m061p3, type: RefDependFolder
+Component name: P加清大馬達_V4-1/P_joint_偏移V4_閃電馬達座_m061p3-1/BOX_SCB4_6-6
+	Feature name: 結合於 P_joint_偏移V4_閃電馬達座_m061p3, type: RefDependFolder
+Component name: P加清大馬達_V4-1/P_joint_偏移V4_閃電馬達座_m061p3-1/BOX_SCB4_6-7
+	Feature name: 結合於 P_joint_偏移V4_閃電馬達座_m061p3, type: RefDependFolder
+Component name: P加清大馬達_V4-1/P_joint_偏移V4_閃電馬達座_m061p3-1/BOX_SCB4_6-8
+	Feature name: 結合於 P_joint_偏移V4_閃電馬達座_m061p3, type: RefDependFolder
+Component name: P加清大馬達_V4-1/P_joint_偏移V4_閃電馬達座_m061p3-1/BUR6_5-1
+	Feature name: 結合於 P_joint_偏移V4_閃電馬達座_m061p3, type: RefDependFolder
+Component name: P加清大馬達_V4-1/P_joint_偏移V4_閃電馬達座_m061p3-1/螺桿座_短-1
+	Feature name: 結合於 P_joint_偏移V4_閃電馬達座_m061p3, type: RefDependFolder
+Component name: P加清大馬達_V4-1/P_joint_偏移V4_閃電馬達座_m061p3-1/PCLBR15_22_0_FC32-1
+	Feature name: 結合於 P_joint_偏移V4_閃電馬達座_m061p3, type: RefDependFolder
+Component name: P加清大馬達_V4-1/P_joint_偏移V4_閃電馬達座_m061p3-1/PCLBR15_22_0_FC32-1/PCLBR15_22_0_FC32_3-1
+Component name: P加清大馬達_V4-1/P_joint_偏移V4_閃電馬達座_m061p3-1/PCLBR15_22_0_FC32-1/PCLBR15_22_0_FC32_5-1
+Component name: P加清大馬達_V4-1/內六角板手M3-1
+Component name: P加清大馬達_V4-1/SCB3_10-2
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-1/SCB3_10-3
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-1/SCB3_10-4
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-1/SCB3_10-5
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-1/SSEBML20_240-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-1/SSEBML20_240-1/SSEBML20_240_3-1
+Component name: P加清大馬達_V4-1/SSEBML20_240-1/SSEBML20_240_5-1
+Component name: P加清大馬達_V4-1/SSEBML20_240-1/KHGS6-HBLFSR6-SET (角撐架單孔)-1
+Component name: P加清大馬達_V4-1/KHGS6-HBLFSR6-SET (角撐架單孔)-2
+Component name: P加清大馬達_V4-1/金屬墊圈_5mm-1
+Component name: P加清大馬達_V4-1/400W-B-K-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-1/C-HTPA30S3M060-A-P14-1
+Component name: P加清大馬達_V4-1/皮帶_清大馬達-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-1/SCB6_15-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-1/SCB6_15-2
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-1/SCB6_15-3
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-1/SCB6_15-4
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-1/HTPA48S2M100_B_H14_3-1
+Component name: P加清大馬達_V4-1/SCB6_60-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-1/SCB6_60-2
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-1/HTPA72S2M060_B_P14-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-1/HTPA72S2M060_B_P14-1/HTPA72S2M060_B_P14_3-1
+Component name: P加清大馬達_V4-1/HTPA72S2M060_B_P14-1/HTPA72S2M060_B_P14_3-2
+Component name: P加清大馬達_V4-1/HTPA72S2M060_B_P14-1/HTPA72S2M060_B_P14_6-1
+Component name: P加清大馬達_V4-1/HBLFSH6_SST_9-1
+Component name: P加清大馬達_V4-1/HBLFSH6_SST_9-2
+Component name: P加清大馬達_V4-1/M-BRS4-6060-05_光學桌-1
+Component name: P加清大馬達_V4-1/C_BSSCK0802_301_F11_P4_FC20_SC10_7-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-2
+	Feature name: 結合於 UPU0304, type: RefDependFolder
+Component name: P加清大馬達_V4-2/C_BSSC0802_293_5-1
+Component name: P加清大馬達_V4-2/SCB5_20-4
+Component name: P加清大馬達_V4-2/底座支撐_40度.SLDPRT-1
+Component name: P加清大馬達_V4-2/SCB5_35-1
+Component name: P加清大馬達_V4-2/馬達座配合清大_v2-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-2/BRW6_8-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-2/BRW6_5-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-2/SSEBM20L_280_5-1
+Component name: P加清大馬達_V4-2/SCB3_10-1
+Component name: P加清大馬達_V4-2/SSEBM20L_280_3-2
+Component name: P加清大馬達_V4-2/滑塊連接-2
+Component name: P加清大馬達_V4-2/U1_joint-2
+Component name: P加清大馬達_V4-2/底座支撐_40度.SLDPRT-2
+Component name: P加清大馬達_V4-2/C_BSSC0802_293_5-2
+Component name: P加清大馬達_V4-2/KBB6_16-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-2/KBB6_16-2
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-2/KBB6_16-4
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-2/KBB6_16-5
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-2/C_BSSC0802_293_5-3
+Component name: P加清大馬達_V4-2/SCB3_6-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-2/SCB3_6-2
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-2/SCB3_6-3
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-2/SCB3_6-4
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-2/SCB3_6-5
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-2/SCB3_6-6
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-2/SCB3_6-7
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-2/SCB3_6-8
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-2/B1199-1
+Component name: P加清大馬達_V4-2/BUR6_3-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-2/_HTPA16S2M060-A-H5_a-1
+Component name: P加清大馬達_V4-2/C_BSSCK0802_312_F11_P4_3-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-2/HTPA36S2M060-A-H4-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-2/P接頭馬達座-1
+Component name: P加清大馬達_V4-2/_C_BSSCK0802_290_F11_P4_s_2-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-2/皮帶36_v2-1
+Component name: P加清大馬達_V4-2/P_joint_偏移V4_閃電馬達座_m061p3-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-2/P_joint_偏移V4_閃電馬達座_m061p3-1/P joint-1
+	Feature name: 結合於 P_joint_偏移V4_閃電馬達座_m061p3, type: RefDependFolder
+Component name: P加清大馬達_V4-2/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1
+	Feature name: 結合於 P_joint_偏移V4_閃電馬達座_m061p3, type: RefDependFolder
+Component name: P加清大馬達_V4-2/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_3-1
+Component name: P加清大馬達_V4-2/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_3-2
+Component name: P加清大馬達_V4-2/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_3-3
+Component name: P加清大馬達_V4-2/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_3-4
+Component name: P加清大馬達_V4-2/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_3-5
+Component name: P加清大馬達_V4-2/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_3-6
+Component name: P加清大馬達_V4-2/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_3-7
+Component name: P加清大馬達_V4-2/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_3-8
+Component name: P加清大馬達_V4-2/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_3-9
+Component name: P加清大馬達_V4-2/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_3-10
+Component name: P加清大馬達_V4-2/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_3-11
+Component name: P加清大馬達_V4-2/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_3-12
+Component name: P加清大馬達_V4-2/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_3-13
+Component name: P加清大馬達_V4-2/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_3-14
+Component name: P加清大馬達_V4-2/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_3-15
+Component name: P加清大馬達_V4-2/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_3-16
+Component name: P加清大馬達_V4-2/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_20-1
+Component name: P加清大馬達_V4-2/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_20-2
+Component name: P加清大馬達_V4-2/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_23-1
+Component name: P加清大馬達_V4-2/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_23-2
+Component name: P加清大馬達_V4-2/P_joint_偏移V4_閃電馬達座_m061p3-1/BOX_SCB4_6-1
+	Feature name: 結合於 P_joint_偏移V4_閃電馬達座_m061p3, type: RefDependFolder
+Component name: P加清大馬達_V4-2/P_joint_偏移V4_閃電馬達座_m061p3-1/BOX_SCB4_6-2
+	Feature name: 結合於 P_joint_偏移V4_閃電馬達座_m061p3, type: RefDependFolder
+Component name: P加清大馬達_V4-2/P_joint_偏移V4_閃電馬達座_m061p3-1/BOX_SCB4_6-3
+	Feature name: 結合於 P_joint_偏移V4_閃電馬達座_m061p3, type: RefDependFolder
+Component name: P加清大馬達_V4-2/P_joint_偏移V4_閃電馬達座_m061p3-1/BOX_SCB4_6-4
+	Feature name: 結合於 P_joint_偏移V4_閃電馬達座_m061p3, type: RefDependFolder
+Component name: P加清大馬達_V4-2/P_joint_偏移V4_閃電馬達座_m061p3-1/BOX_SCB4_6-5
+	Feature name: 結合於 P_joint_偏移V4_閃電馬達座_m061p3, type: RefDependFolder
+Component name: P加清大馬達_V4-2/P_joint_偏移V4_閃電馬達座_m061p3-1/BOX_SCB4_6-6
+	Feature name: 結合於 P_joint_偏移V4_閃電馬達座_m061p3, type: RefDependFolder
+Component name: P加清大馬達_V4-2/P_joint_偏移V4_閃電馬達座_m061p3-1/BOX_SCB4_6-7
+	Feature name: 結合於 P_joint_偏移V4_閃電馬達座_m061p3, type: RefDependFolder
+Component name: P加清大馬達_V4-2/P_joint_偏移V4_閃電馬達座_m061p3-1/BOX_SCB4_6-8
+	Feature name: 結合於 P_joint_偏移V4_閃電馬達座_m061p3, type: RefDependFolder
+Component name: P加清大馬達_V4-2/P_joint_偏移V4_閃電馬達座_m061p3-1/BUR6_5-1
+	Feature name: 結合於 P_joint_偏移V4_閃電馬達座_m061p3, type: RefDependFolder
+Component name: P加清大馬達_V4-2/P_joint_偏移V4_閃電馬達座_m061p3-1/螺桿座_短-1
+	Feature name: 結合於 P_joint_偏移V4_閃電馬達座_m061p3, type: RefDependFolder
+Component name: P加清大馬達_V4-2/P_joint_偏移V4_閃電馬達座_m061p3-1/PCLBR15_22_0_FC32-1
+	Feature name: 結合於 P_joint_偏移V4_閃電馬達座_m061p3, type: RefDependFolder
+Component name: P加清大馬達_V4-2/P_joint_偏移V4_閃電馬達座_m061p3-1/PCLBR15_22_0_FC32-1/PCLBR15_22_0_FC32_3-1
+Component name: P加清大馬達_V4-2/P_joint_偏移V4_閃電馬達座_m061p3-1/PCLBR15_22_0_FC32-1/PCLBR15_22_0_FC32_5-1
+Component name: P加清大馬達_V4-2/內六角板手M3-1
+Component name: P加清大馬達_V4-2/SCB3_10-2
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-2/SCB3_10-3
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-2/SCB3_10-4
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-2/SCB3_10-5
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-2/SSEBML20_240-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-2/SSEBML20_240-1/SSEBML20_240_3-1
+Component name: P加清大馬達_V4-2/SSEBML20_240-1/SSEBML20_240_5-1
+Component name: P加清大馬達_V4-2/SSEBML20_240-1/KHGS6-HBLFSR6-SET (角撐架單孔)-1
+Component name: P加清大馬達_V4-2/KHGS6-HBLFSR6-SET (角撐架單孔)-2
+Component name: P加清大馬達_V4-2/金屬墊圈_5mm-1
+Component name: P加清大馬達_V4-2/400W-B-K-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-2/C-HTPA30S3M060-A-P14-1
+Component name: P加清大馬達_V4-2/皮帶_清大馬達-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-2/SCB6_15-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-2/SCB6_15-2
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-2/SCB6_15-3
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-2/SCB6_15-4
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-2/HTPA48S2M100_B_H14_3-1
+Component name: P加清大馬達_V4-2/SCB6_60-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-2/SCB6_60-2
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-2/HTPA72S2M060_B_P14-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-2/HTPA72S2M060_B_P14-1/HTPA72S2M060_B_P14_3-1
+Component name: P加清大馬達_V4-2/HTPA72S2M060_B_P14-1/HTPA72S2M060_B_P14_3-2
+Component name: P加清大馬達_V4-2/HTPA72S2M060_B_P14-1/HTPA72S2M060_B_P14_6-1
+Component name: P加清大馬達_V4-2/HBLFSH6_SST_9-1
+Component name: P加清大馬達_V4-2/HBLFSH6_SST_9-2
+Component name: P加清大馬達_V4-2/M-BRS4-6060-05_光學桌-1
+Component name: P加清大馬達_V4-2/C_BSSCK0802_301_F11_P4_FC20_SC10_7-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-3
+	Feature name: 結合於 UPU0304, type: RefDependFolder
+Component name: P加清大馬達_V4-3/C_BSSC0802_293_5-1
+Component name: P加清大馬達_V4-3/SCB5_20-4
+Component name: P加清大馬達_V4-3/底座支撐_40度.SLDPRT-1
+Component name: P加清大馬達_V4-3/SCB5_35-1
+Component name: P加清大馬達_V4-3/馬達座配合清大_v2-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-3/BRW6_8-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-3/BRW6_5-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-3/SSEBM20L_280_5-1
+Component name: P加清大馬達_V4-3/SCB3_10-1
+Component name: P加清大馬達_V4-3/SSEBM20L_280_3-2
+Component name: P加清大馬達_V4-3/滑塊連接-2
+Component name: P加清大馬達_V4-3/U1_joint-2
+Component name: P加清大馬達_V4-3/底座支撐_40度.SLDPRT-2
+Component name: P加清大馬達_V4-3/C_BSSC0802_293_5-2
+Component name: P加清大馬達_V4-3/KBB6_16-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-3/KBB6_16-2
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-3/KBB6_16-4
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-3/KBB6_16-5
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-3/C_BSSC0802_293_5-3
+Component name: P加清大馬達_V4-3/SCB3_6-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-3/SCB3_6-2
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-3/SCB3_6-3
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-3/SCB3_6-4
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-3/SCB3_6-5
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-3/SCB3_6-6
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-3/SCB3_6-7
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-3/SCB3_6-8
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-3/B1199-1
+Component name: P加清大馬達_V4-3/BUR6_3-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-3/_HTPA16S2M060-A-H5_a-1
+Component name: P加清大馬達_V4-3/C_BSSCK0802_312_F11_P4_3-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-3/HTPA36S2M060-A-H4-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-3/P接頭馬達座-1
+Component name: P加清大馬達_V4-3/_C_BSSCK0802_290_F11_P4_s_2-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-3/皮帶36_v2-1
+Component name: P加清大馬達_V4-3/P_joint_偏移V4_閃電馬達座_m061p3-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-3/P_joint_偏移V4_閃電馬達座_m061p3-1/P joint-1
+	Feature name: 結合於 P_joint_偏移V4_閃電馬達座_m061p3, type: RefDependFolder
+Component name: P加清大馬達_V4-3/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1
+	Feature name: 結合於 P_joint_偏移V4_閃電馬達座_m061p3, type: RefDependFolder
+Component name: P加清大馬達_V4-3/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_3-1
+Component name: P加清大馬達_V4-3/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_3-2
+Component name: P加清大馬達_V4-3/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_3-3
+Component name: P加清大馬達_V4-3/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_3-4
+Component name: P加清大馬達_V4-3/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_3-5
+Component name: P加清大馬達_V4-3/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_3-6
+Component name: P加清大馬達_V4-3/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_3-7
+Component name: P加清大馬達_V4-3/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_3-8
+Component name: P加清大馬達_V4-3/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_3-9
+Component name: P加清大馬達_V4-3/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_3-10
+Component name: P加清大馬達_V4-3/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_3-11
+Component name: P加清大馬達_V4-3/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_3-12
+Component name: P加清大馬達_V4-3/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_3-13
+Component name: P加清大馬達_V4-3/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_3-14
+Component name: P加清大馬達_V4-3/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_3-15
+Component name: P加清大馬達_V4-3/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_3-16
+Component name: P加清大馬達_V4-3/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_20-1
+Component name: P加清大馬達_V4-3/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_20-2
+Component name: P加清大馬達_V4-3/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_23-1
+Component name: P加清大馬達_V4-3/P_joint_偏移V4_閃電馬達座_m061p3-1/7202DB-1/7202DB_23-2
+Component name: P加清大馬達_V4-3/P_joint_偏移V4_閃電馬達座_m061p3-1/BOX_SCB4_6-1
+	Feature name: 結合於 P_joint_偏移V4_閃電馬達座_m061p3, type: RefDependFolder
+Component name: P加清大馬達_V4-3/P_joint_偏移V4_閃電馬達座_m061p3-1/BOX_SCB4_6-2
+	Feature name: 結合於 P_joint_偏移V4_閃電馬達座_m061p3, type: RefDependFolder
+Component name: P加清大馬達_V4-3/P_joint_偏移V4_閃電馬達座_m061p3-1/BOX_SCB4_6-3
+	Feature name: 結合於 P_joint_偏移V4_閃電馬達座_m061p3, type: RefDependFolder
+Component name: P加清大馬達_V4-3/P_joint_偏移V4_閃電馬達座_m061p3-1/BOX_SCB4_6-4
+	Feature name: 結合於 P_joint_偏移V4_閃電馬達座_m061p3, type: RefDependFolder
+Component name: P加清大馬達_V4-3/P_joint_偏移V4_閃電馬達座_m061p3-1/BOX_SCB4_6-5
+	Feature name: 結合於 P_joint_偏移V4_閃電馬達座_m061p3, type: RefDependFolder
+Component name: P加清大馬達_V4-3/P_joint_偏移V4_閃電馬達座_m061p3-1/BOX_SCB4_6-6
+	Feature name: 結合於 P_joint_偏移V4_閃電馬達座_m061p3, type: RefDependFolder
+Component name: P加清大馬達_V4-3/P_joint_偏移V4_閃電馬達座_m061p3-1/BOX_SCB4_6-7
+	Feature name: 結合於 P_joint_偏移V4_閃電馬達座_m061p3, type: RefDependFolder
+Component name: P加清大馬達_V4-3/P_joint_偏移V4_閃電馬達座_m061p3-1/BOX_SCB4_6-8
+	Feature name: 結合於 P_joint_偏移V4_閃電馬達座_m061p3, type: RefDependFolder
+Component name: P加清大馬達_V4-3/P_joint_偏移V4_閃電馬達座_m061p3-1/BUR6_5-1
+	Feature name: 結合於 P_joint_偏移V4_閃電馬達座_m061p3, type: RefDependFolder
+Component name: P加清大馬達_V4-3/P_joint_偏移V4_閃電馬達座_m061p3-1/螺桿座_短-1
+	Feature name: 結合於 P_joint_偏移V4_閃電馬達座_m061p3, type: RefDependFolder
+Component name: P加清大馬達_V4-3/P_joint_偏移V4_閃電馬達座_m061p3-1/PCLBR15_22_0_FC32-1
+	Feature name: 結合於 P_joint_偏移V4_閃電馬達座_m061p3, type: RefDependFolder
+Component name: P加清大馬達_V4-3/P_joint_偏移V4_閃電馬達座_m061p3-1/PCLBR15_22_0_FC32-1/PCLBR15_22_0_FC32_3-1
+Component name: P加清大馬達_V4-3/P_joint_偏移V4_閃電馬達座_m061p3-1/PCLBR15_22_0_FC32-1/PCLBR15_22_0_FC32_5-1
+Component name: P加清大馬達_V4-3/內六角板手M3-1
+Component name: P加清大馬達_V4-3/SCB3_10-2
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-3/SCB3_10-3
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-3/SCB3_10-4
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-3/SCB3_10-5
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-3/SSEBML20_240-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-3/SSEBML20_240-1/SSEBML20_240_3-1
+Component name: P加清大馬達_V4-3/SSEBML20_240-1/SSEBML20_240_5-1
+Component name: P加清大馬達_V4-3/SSEBML20_240-1/KHGS6-HBLFSR6-SET (角撐架單孔)-1
+Component name: P加清大馬達_V4-3/KHGS6-HBLFSR6-SET (角撐架單孔)-2
+Component name: P加清大馬達_V4-3/金屬墊圈_5mm-1
+Component name: P加清大馬達_V4-3/400W-B-K-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-3/C-HTPA30S3M060-A-P14-1
+Component name: P加清大馬達_V4-3/皮帶_清大馬達-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-3/SCB6_15-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-3/SCB6_15-2
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-3/SCB6_15-3
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-3/SCB6_15-4
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-3/HTPA48S2M100_B_H14_3-1
+Component name: P加清大馬達_V4-3/SCB6_60-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-3/SCB6_60-2
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-3/HTPA72S2M060_B_P14-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: P加清大馬達_V4-3/HTPA72S2M060_B_P14-1/HTPA72S2M060_B_P14_3-1
+Component name: P加清大馬達_V4-3/HTPA72S2M060_B_P14-1/HTPA72S2M060_B_P14_3-2
+Component name: P加清大馬達_V4-3/HTPA72S2M060_B_P14-1/HTPA72S2M060_B_P14_6-1
+Component name: P加清大馬達_V4-3/HBLFSH6_SST_9-1
+Component name: P加清大馬達_V4-3/HBLFSH6_SST_9-2
+Component name: P加清大馬達_V4-3/M-BRS4-6060-05_光學桌-1
+Component name: P加清大馬達_V4-3/C_BSSCK0802_301_F11_P4_FC20_SC10_7-1
+	Feature name: 結合於 P加清大馬達_V4, type: RefDependFolder
+Component name: 滑塊連結底塊v2-1
+	Feature name: 結合於 UPU0304, type: RefDependFolder
+Component name: 滑塊連結底塊v2-1/滑塊連接-1
+	Feature name: 結合於 滑塊連結底塊v2, type: RefDependFolder
+Component name: 滑塊連結底塊v2-1/C_BSSC0802_293_5-1
+Component name: 滑塊連結底塊v2-1/SSEBM20L_280_3-1
+	Feature name: 結合於 滑塊連結底塊v2, type: RefDependFolder
+Component name: 滑塊連結底塊v2-1/CBSTSE3_8-1
+Component name: 滑塊連結底塊v2-1/CBSTSE3_8-2
+Component name: 滑塊連結底塊v2-1/CBSTSE3_8-3
+Component name: 滑塊連結底塊v2-1/CBSTSE3_8-4
+Component name: 滑塊連結底塊v2-1/SCB5_30-3
+	Feature name: 結合於 滑塊連結底塊v2, type: RefDependFolder
+Component name: 滑塊連結底塊v2-1/SCB5_30-4
+	Feature name: 結合於 滑塊連結底塊v2, type: RefDependFolder
+Component name: 滑塊連結底塊v2-1/SCB5_10-1
+	Feature name: 結合於 滑塊連結底塊v2, type: RefDependFolder
+Component name: 滑塊連結底塊v2-1/SCB5_10-2
+	Feature name: 結合於 滑塊連結底塊v2, type: RefDependFolder
+Component name: 滑塊連結底塊v2-1/C_BSSC0802_293_5-2
+	Feature name: 結合於 滑塊連結底塊v2, type: RefDependFolder
+Component name: 滑塊連結底塊v2-1/CBSTSE3_8-5
+	Feature name: 結合於 滑塊連結底塊v2, type: RefDependFolder
+Component name: 滑塊連結底塊v2-1/CBSTSE3_8-6
+	Feature name: 結合於 滑塊連結底塊v2, type: RefDependFolder
+Component name: 滑塊連結底塊v2-1/CBSTSE3_8-7
+	Feature name: 結合於 滑塊連結底塊v2, type: RefDependFolder
+Component name: 滑塊連結底塊v2-1/CBSTSE3_8-8
+	Feature name: 結合於 滑塊連結底塊v2, type: RefDependFolder
+Component name: 滑塊連結底塊v2-2
+	Feature name: 結合於 UPU0304, type: RefDependFolder
+Component name: 滑塊連結底塊v2-2/滑塊連接-1
+	Feature name: 結合於 滑塊連結底塊v2, type: RefDependFolder
+Component name: 滑塊連結底塊v2-2/C_BSSC0802_293_5-1
+Component name: 滑塊連結底塊v2-2/SSEBM20L_280_3-1
+	Feature name: 結合於 滑塊連結底塊v2, type: RefDependFolder
+Component name: 滑塊連結底塊v2-2/CBSTSE3_8-1
+Component name: 滑塊連結底塊v2-2/CBSTSE3_8-2
+Component name: 滑塊連結底塊v2-2/CBSTSE3_8-3
+Component name: 滑塊連結底塊v2-2/CBSTSE3_8-4
+Component name: 滑塊連結底塊v2-2/SCB5_30-3
+	Feature name: 結合於 滑塊連結底塊v2, type: RefDependFolder
+Component name: 滑塊連結底塊v2-2/SCB5_30-4
+	Feature name: 結合於 滑塊連結底塊v2, type: RefDependFolder
+Component name: 滑塊連結底塊v2-2/SCB5_10-1
+	Feature name: 結合於 滑塊連結底塊v2, type: RefDependFolder
+Component name: 滑塊連結底塊v2-2/SCB5_10-2
+	Feature name: 結合於 滑塊連結底塊v2, type: RefDependFolder
+Component name: 滑塊連結底塊v2-2/C_BSSC0802_293_5-2
+	Feature name: 結合於 滑塊連結底塊v2, type: RefDependFolder
+Component name: 滑塊連結底塊v2-2/CBSTSE3_8-5
+	Feature name: 結合於 滑塊連結底塊v2, type: RefDependFolder
+Component name: 滑塊連結底塊v2-2/CBSTSE3_8-6
+	Feature name: 結合於 滑塊連結底塊v2, type: RefDependFolder
+Component name: 滑塊連結底塊v2-2/CBSTSE3_8-7
+	Feature name: 結合於 滑塊連結底塊v2, type: RefDependFolder
+Component name: 滑塊連結底塊v2-2/CBSTSE3_8-8
+	Feature name: 結合於 滑塊連結底塊v2, type: RefDependFolder
+Component name: 滑塊連結底塊v2-3
+	Feature name: 結合於 UPU0304, type: RefDependFolder
+Component name: 滑塊連結底塊v2-3/滑塊連接-1
+	Feature name: 結合於 滑塊連結底塊v2, type: RefDependFolder
+Component name: 滑塊連結底塊v2-3/C_BSSC0802_293_5-1
+Component name: 滑塊連結底塊v2-3/SSEBM20L_280_3-1
+	Feature name: 結合於 滑塊連結底塊v2, type: RefDependFolder
+Component name: 滑塊連結底塊v2-3/CBSTSE3_8-1
+Component name: 滑塊連結底塊v2-3/CBSTSE3_8-2
+Component name: 滑塊連結底塊v2-3/CBSTSE3_8-3
+Component name: 滑塊連結底塊v2-3/CBSTSE3_8-4
+Component name: 滑塊連結底塊v2-3/SCB5_30-3
+	Feature name: 結合於 滑塊連結底塊v2, type: RefDependFolder
+Component name: 滑塊連結底塊v2-3/SCB5_30-4
+	Feature name: 結合於 滑塊連結底塊v2, type: RefDependFolder
+Component name: 滑塊連結底塊v2-3/SCB5_10-1
+	Feature name: 結合於 滑塊連結底塊v2, type: RefDependFolder
+Component name: 滑塊連結底塊v2-3/SCB5_10-2
+	Feature name: 結合於 滑塊連結底塊v2, type: RefDependFolder
+Component name: 滑塊連結底塊v2-3/C_BSSC0802_293_5-2
+	Feature name: 結合於 滑塊連結底塊v2, type: RefDependFolder
+Component name: 滑塊連結底塊v2-3/CBSTSE3_8-5
+	Feature name: 結合於 滑塊連結底塊v2, type: RefDependFolder
+Component name: 滑塊連結底塊v2-3/CBSTSE3_8-6
+	Feature name: 結合於 滑塊連結底塊v2, type: RefDependFolder
+Component name: 滑塊連結底塊v2-3/CBSTSE3_8-7
+	Feature name: 結合於 滑塊連結底塊v2, type: RefDependFolder
+Component name: 滑塊連結底塊v2-3/CBSTSE3_8-8
+	Feature name: 結合於 滑塊連結底塊v2, type: RefDependFolder
+Component name: U1_joint-1
+	Feature name: 結合於 UPU0304, type: RefDependFolder
+Component name: U1_joint-1/滑塊_UPU-1
+Component name: U1_joint-1/7202DB-1
+	Feature name: 結合於 U1_joint, type: RefDependFolder
+Component name: U1_joint-1/7202DB-1/7202DB_3-1
+Component name: U1_joint-1/7202DB-1/7202DB_3-2
+Component name: U1_joint-1/7202DB-1/7202DB_3-3
+Component name: U1_joint-1/7202DB-1/7202DB_3-4
+Component name: U1_joint-1/7202DB-1/7202DB_3-5
+Component name: U1_joint-1/7202DB-1/7202DB_3-6
+Component name: U1_joint-1/7202DB-1/7202DB_3-7
+Component name: U1_joint-1/7202DB-1/7202DB_3-8
+Component name: U1_joint-1/7202DB-1/7202DB_3-9
+Component name: U1_joint-1/7202DB-1/7202DB_3-10
+Component name: U1_joint-1/7202DB-1/7202DB_3-11
+Component name: U1_joint-1/7202DB-1/7202DB_3-12
+Component name: U1_joint-1/7202DB-1/7202DB_3-13
+Component name: U1_joint-1/7202DB-1/7202DB_3-14
+Component name: U1_joint-1/7202DB-1/7202DB_3-15
+Component name: U1_joint-1/7202DB-1/7202DB_3-16
+Component name: U1_joint-1/7202DB-1/7202DB_20-1
+Component name: U1_joint-1/7202DB-1/7202DB_20-2
+Component name: U1_joint-1/7202DB-1/7202DB_23-1
+Component name: U1_joint-1/7202DB-1/7202DB_23-2
+Component name: U1_joint-1/BOX_SCB4_6-1
+	Feature name: 結合於 U1_joint, type: RefDependFolder
+Component name: U1_joint-1/BOX_SCB4_6-2
+	Feature name: 結合於 U1_joint, type: RefDependFolder
+Component name: U1_joint-1/BOX_SCB4_6-3
+	Feature name: 結合於 U1_joint, type: RefDependFolder
+Component name: U1_joint-1/BOX_SCB4_6-4
+	Feature name: 結合於 U1_joint, type: RefDependFolder
+Component name: U1_joint-1/BOX_SCB4_6-5
+	Feature name: 結合於 U1_joint, type: RefDependFolder
+Component name: U1_joint-1/BOX_SCB4_6-6
+	Feature name: 結合於 U1_joint, type: RefDependFolder
+Component name: U1_joint-1/BOX_SCB4_6-7
+	Feature name: 結合於 U1_joint, type: RefDependFolder
+Component name: U1_joint-1/BOX_SCB4_6-8
+	Feature name: 結合於 U1_joint, type: RefDependFolder
+Component name: U1_joint-1/PCLBR15_22_0_FC24_5-2
+	Feature name: 結合於 U1_joint, type: RefDependFolder
+Component name: U1_joint-1/TEST-1
+	Feature name: 結合於 U1_joint, type: RefDependFolder
+Component name: U1_joint-2
+	Feature name: 結合於 UPU0304, type: RefDependFolder
+Component name: U1_joint-2/滑塊_UPU-1
+Component name: U1_joint-2/7202DB-1
+	Feature name: 結合於 U1_joint, type: RefDependFolder
+Component name: U1_joint-2/7202DB-1/7202DB_3-1
+Component name: U1_joint-2/7202DB-1/7202DB_3-2
+Component name: U1_joint-2/7202DB-1/7202DB_3-3
+Component name: U1_joint-2/7202DB-1/7202DB_3-4
+Component name: U1_joint-2/7202DB-1/7202DB_3-5
+Component name: U1_joint-2/7202DB-1/7202DB_3-6
+Component name: U1_joint-2/7202DB-1/7202DB_3-7
+Component name: U1_joint-2/7202DB-1/7202DB_3-8
+Component name: U1_joint-2/7202DB-1/7202DB_3-9
+Component name: U1_joint-2/7202DB-1/7202DB_3-10
+Component name: U1_joint-2/7202DB-1/7202DB_3-11
+Component name: U1_joint-2/7202DB-1/7202DB_3-12
+Component name: U1_joint-2/7202DB-1/7202DB_3-13
+Component name: U1_joint-2/7202DB-1/7202DB_3-14
+Component name: U1_joint-2/7202DB-1/7202DB_3-15
+Component name: U1_joint-2/7202DB-1/7202DB_3-16
+Component name: U1_joint-2/7202DB-1/7202DB_20-1
+Component name: U1_joint-2/7202DB-1/7202DB_20-2
+Component name: U1_joint-2/7202DB-1/7202DB_23-1
+Component name: U1_joint-2/7202DB-1/7202DB_23-2
+Component name: U1_joint-2/BOX_SCB4_6-1
+	Feature name: 結合於 U1_joint, type: RefDependFolder
+Component name: U1_joint-2/BOX_SCB4_6-2
+	Feature name: 結合於 U1_joint, type: RefDependFolder
+Component name: U1_joint-2/BOX_SCB4_6-3
+	Feature name: 結合於 U1_joint, type: RefDependFolder
+Component name: U1_joint-2/BOX_SCB4_6-4
+	Feature name: 結合於 U1_joint, type: RefDependFolder
+Component name: U1_joint-2/BOX_SCB4_6-5
+	Feature name: 結合於 U1_joint, type: RefDependFolder
+Component name: U1_joint-2/BOX_SCB4_6-6
+	Feature name: 結合於 U1_joint, type: RefDependFolder
+Component name: U1_joint-2/BOX_SCB4_6-7
+	Feature name: 結合於 U1_joint, type: RefDependFolder
+Component name: U1_joint-2/BOX_SCB4_6-8
+	Feature name: 結合於 U1_joint, type: RefDependFolder
+Component name: U1_joint-2/PCLBR15_22_0_FC24_5-2
+	Feature name: 結合於 U1_joint, type: RefDependFolder
+Component name: U1_joint-2/TEST-1
+	Feature name: 結合於 U1_joint, type: RefDependFolder
+Component name: U1_joint-3
+	Feature name: 結合於 UPU0304, type: RefDependFolder
+Component name: U1_joint-3/滑塊_UPU-1
+Component name: U1_joint-3/7202DB-1
+	Feature name: 結合於 U1_joint, type: RefDependFolder
+Component name: U1_joint-3/7202DB-1/7202DB_3-1
+Component name: U1_joint-3/7202DB-1/7202DB_3-2
+Component name: U1_joint-3/7202DB-1/7202DB_3-3
+Component name: U1_joint-3/7202DB-1/7202DB_3-4
+Component name: U1_joint-3/7202DB-1/7202DB_3-5
+Component name: U1_joint-3/7202DB-1/7202DB_3-6
+Component name: U1_joint-3/7202DB-1/7202DB_3-7
+Component name: U1_joint-3/7202DB-1/7202DB_3-8
+Component name: U1_joint-3/7202DB-1/7202DB_3-9
+Component name: U1_joint-3/7202DB-1/7202DB_3-10
+Component name: U1_joint-3/7202DB-1/7202DB_3-11
+Component name: U1_joint-3/7202DB-1/7202DB_3-12
+Component name: U1_joint-3/7202DB-1/7202DB_3-13
+Component name: U1_joint-3/7202DB-1/7202DB_3-14
+Component name: U1_joint-3/7202DB-1/7202DB_3-15
+Component name: U1_joint-3/7202DB-1/7202DB_3-16
+Component name: U1_joint-3/7202DB-1/7202DB_20-1
+Component name: U1_joint-3/7202DB-1/7202DB_20-2
+Component name: U1_joint-3/7202DB-1/7202DB_23-1
+Component name: U1_joint-3/7202DB-1/7202DB_23-2
+Component name: U1_joint-3/BOX_SCB4_6-1
+	Feature name: 結合於 U1_joint, type: RefDependFolder
+Component name: U1_joint-3/BOX_SCB4_6-2
+	Feature name: 結合於 U1_joint, type: RefDependFolder
+Component name: U1_joint-3/BOX_SCB4_6-3
+	Feature name: 結合於 U1_joint, type: RefDependFolder
+Component name: U1_joint-3/BOX_SCB4_6-4
+	Feature name: 結合於 U1_joint, type: RefDependFolder
+Component name: U1_joint-3/BOX_SCB4_6-5
+	Feature name: 結合於 U1_joint, type: RefDependFolder
+Component name: U1_joint-3/BOX_SCB4_6-6
+	Feature name: 結合於 U1_joint, type: RefDependFolder
+Component name: U1_joint-3/BOX_SCB4_6-7
+	Feature name: 結合於 U1_joint, type: RefDependFolder
+Component name: U1_joint-3/BOX_SCB4_6-8
+	Feature name: 結合於 U1_joint, type: RefDependFolder
+Component name: U1_joint-3/PCLBR15_22_0_FC24_5-2
+	Feature name: 結合於 U1_joint, type: RefDependFolder
+Component name: U1_joint-3/TEST-1
+	Feature name: 結合於 U1_joint, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1
+	Feature name: 結合於 UPU0304, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/鋁擠2060_板金-1
+	Feature name: 結合於 底座固定_中間_綜合_0.4倍的V2, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/鋁擠2060_板金-1/NFS5_2060_400-1
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/鋁擠2060_板金-2
+	Feature name: 結合於 底座固定_中間_綜合_0.4倍的V2, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/鋁擠2060_板金-2/NFS5_2060_400-1
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/鋁擠2060_板金-3
+	Feature name: 結合於 底座固定_中間_綜合_0.4倍的V2, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/鋁擠2060_板金-3/NFS5_2060_400-1
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/L型_配合旋轉平台底座-1
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/L型_2-1
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/L型_3-1
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/M-BRS4-6060-05_光學桌-1
+	Feature name: 結合於 底座固定_中間_綜合_0.4倍的V2, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/BOX_SCB6_20-2
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/BOX_SCB6_20-3
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/BOX_SCB6_20-5
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/BOX_SCB6_20-6
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/BOX_SCB6_20-8
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/BOX_SCB6_20-9
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/SCB5_15-9
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/SCB5_15-10
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/SCB5_15-11
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/SCB5_15-12
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/SCB5_15-13
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/SCB5_15-14
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/SCB5_15-15
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/SCB5_15-16
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/SCB5_15-17
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/SCB5_15-18
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/SCB5_15-19
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/SCB5_15-20
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座中間六邊形V3-1
+	Feature name: 結合於 底座固定_中間_綜合_0.4倍的V2, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/固定V2-1
+	Feature name: 結合於 底座固定_中間_綜合_0.4倍的V2, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1
+	Feature name: 結合於 底座固定_中間_綜合_0.4倍的V2, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1/HFS5_2060_120-1
+	Feature name: 結合於 底座輻射鋁擠組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1/角塊組合-1
+	Feature name: 結合於 底座輻射鋁擠組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1/角塊組合-1/HBLFSNF5_SST_b_3-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1/角塊組合-1/HBLFSNF5_SST_b_6-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1/角塊組合-1/HBLFSNF5_SST_b_9-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1/角塊組合-1/SCB5_15-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1/角塊組合-2
+	Feature name: 結合於 底座輻射鋁擠組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1/角塊組合-2/HBLFSNF5_SST_b_3-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1/角塊組合-2/HBLFSNF5_SST_b_6-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1/角塊組合-2/HBLFSNF5_SST_b_9-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1/角塊組合-2/SCB5_15-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1/角塊組合-3
+	Feature name: 結合於 底座輻射鋁擠組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1/角塊組合-3/HBLFSNF5_SST_b_3-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1/角塊組合-3/HBLFSNF5_SST_b_6-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1/角塊組合-3/HBLFSNF5_SST_b_9-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1/角塊組合-3/SCB5_15-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1/角塊組合-4
+	Feature name: 結合於 底座輻射鋁擠組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1/角塊組合-4/HBLFSNF5_SST_b_3-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1/角塊組合-4/HBLFSNF5_SST_b_6-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1/角塊組合-4/HBLFSNF5_SST_b_9-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1/角塊組合-4/SCB5_15-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1/角塊組合-5
+	Feature name: 結合於 底座輻射鋁擠組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1/角塊組合-5/HBLFSNF5_SST_b_3-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1/角塊組合-5/HBLFSNF5_SST_b_6-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1/角塊組合-5/HBLFSNF5_SST_b_9-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1/角塊組合-5/SCB5_15-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1/角塊組合-6
+	Feature name: 結合於 底座輻射鋁擠組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1/角塊組合-6/HBLFSNF5_SST_b_3-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1/角塊組合-6/HBLFSNF5_SST_b_6-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1/角塊組合-6/HBLFSNF5_SST_b_9-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1/角塊組合-6/SCB5_15-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1/HBKUS5_SST-1
+	Feature name: 結合於 底座輻射鋁擠組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1/HBKUS5_SST-1/HBKUS5_SST_3-1
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1/HBKUS5_SST-1/HBKUS5_SST_5-1
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1/HBKUS5_SST-1/HBKUS5_SST_3-2
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1/HBKUS5_SST-1/HBKUS5_SST_5-2
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1/HBKUS5_SST-1/HBKUS5_SST_9-1
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1/HBKUS5_SST-2
+	Feature name: 結合於 底座輻射鋁擠組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1/HBKUS5_SST-2/HBKUS5_SST_3-1
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1/HBKUS5_SST-2/HBKUS5_SST_5-1
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1/HBKUS5_SST-2/HBKUS5_SST_3-2
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1/HBKUS5_SST-2/HBKUS5_SST_5-2
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1/HBKUS5_SST-2/HBKUS5_SST_9-1
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1/HBKUS5_SST-3
+	Feature name: 結合於 底座輻射鋁擠組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1/HBKUS5_SST-3/HBKUS5_SST_3-1
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1/HBKUS5_SST-3/HBKUS5_SST_5-1
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1/HBKUS5_SST-3/HBKUS5_SST_3-2
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1/HBKUS5_SST-3/HBKUS5_SST_5-2
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-1/HBKUS5_SST-3/HBKUS5_SST_9-1
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2
+	Feature name: 結合於 底座固定_中間_綜合_0.4倍的V2, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2/HFS5_2060_120-1
+	Feature name: 結合於 底座輻射鋁擠組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2/角塊組合-1
+	Feature name: 結合於 底座輻射鋁擠組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2/角塊組合-1/HBLFSNF5_SST_b_3-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2/角塊組合-1/HBLFSNF5_SST_b_6-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2/角塊組合-1/HBLFSNF5_SST_b_9-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2/角塊組合-1/SCB5_15-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2/角塊組合-2
+	Feature name: 結合於 底座輻射鋁擠組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2/角塊組合-2/HBLFSNF5_SST_b_3-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2/角塊組合-2/HBLFSNF5_SST_b_6-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2/角塊組合-2/HBLFSNF5_SST_b_9-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2/角塊組合-2/SCB5_15-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2/角塊組合-3
+	Feature name: 結合於 底座輻射鋁擠組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2/角塊組合-3/HBLFSNF5_SST_b_3-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2/角塊組合-3/HBLFSNF5_SST_b_6-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2/角塊組合-3/HBLFSNF5_SST_b_9-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2/角塊組合-3/SCB5_15-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2/角塊組合-4
+	Feature name: 結合於 底座輻射鋁擠組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2/角塊組合-4/HBLFSNF5_SST_b_3-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2/角塊組合-4/HBLFSNF5_SST_b_6-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2/角塊組合-4/HBLFSNF5_SST_b_9-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2/角塊組合-4/SCB5_15-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2/角塊組合-5
+	Feature name: 結合於 底座輻射鋁擠組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2/角塊組合-5/HBLFSNF5_SST_b_3-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2/角塊組合-5/HBLFSNF5_SST_b_6-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2/角塊組合-5/HBLFSNF5_SST_b_9-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2/角塊組合-5/SCB5_15-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2/角塊組合-6
+	Feature name: 結合於 底座輻射鋁擠組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2/角塊組合-6/HBLFSNF5_SST_b_3-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2/角塊組合-6/HBLFSNF5_SST_b_6-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2/角塊組合-6/HBLFSNF5_SST_b_9-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2/角塊組合-6/SCB5_15-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2/HBKUS5_SST-1
+	Feature name: 結合於 底座輻射鋁擠組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2/HBKUS5_SST-1/HBKUS5_SST_3-1
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2/HBKUS5_SST-1/HBKUS5_SST_5-1
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2/HBKUS5_SST-1/HBKUS5_SST_3-2
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2/HBKUS5_SST-1/HBKUS5_SST_5-2
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2/HBKUS5_SST-1/HBKUS5_SST_9-1
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2/HBKUS5_SST-2
+	Feature name: 結合於 底座輻射鋁擠組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2/HBKUS5_SST-2/HBKUS5_SST_3-1
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2/HBKUS5_SST-2/HBKUS5_SST_5-1
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2/HBKUS5_SST-2/HBKUS5_SST_3-2
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2/HBKUS5_SST-2/HBKUS5_SST_5-2
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2/HBKUS5_SST-2/HBKUS5_SST_9-1
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2/HBKUS5_SST-3
+	Feature name: 結合於 底座輻射鋁擠組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2/HBKUS5_SST-3/HBKUS5_SST_3-1
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2/HBKUS5_SST-3/HBKUS5_SST_5-1
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2/HBKUS5_SST-3/HBKUS5_SST_3-2
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2/HBKUS5_SST-3/HBKUS5_SST_5-2
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-2/HBKUS5_SST-3/HBKUS5_SST_9-1
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3
+	Feature name: 結合於 底座固定_中間_綜合_0.4倍的V2, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3/HFS5_2060_120-1
+	Feature name: 結合於 底座輻射鋁擠組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3/角塊組合-1
+	Feature name: 結合於 底座輻射鋁擠組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3/角塊組合-1/HBLFSNF5_SST_b_3-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3/角塊組合-1/HBLFSNF5_SST_b_6-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3/角塊組合-1/HBLFSNF5_SST_b_9-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3/角塊組合-1/SCB5_15-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3/角塊組合-2
+	Feature name: 結合於 底座輻射鋁擠組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3/角塊組合-2/HBLFSNF5_SST_b_3-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3/角塊組合-2/HBLFSNF5_SST_b_6-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3/角塊組合-2/HBLFSNF5_SST_b_9-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3/角塊組合-2/SCB5_15-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3/角塊組合-3
+	Feature name: 結合於 底座輻射鋁擠組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3/角塊組合-3/HBLFSNF5_SST_b_3-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3/角塊組合-3/HBLFSNF5_SST_b_6-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3/角塊組合-3/HBLFSNF5_SST_b_9-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3/角塊組合-3/SCB5_15-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3/角塊組合-4
+	Feature name: 結合於 底座輻射鋁擠組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3/角塊組合-4/HBLFSNF5_SST_b_3-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3/角塊組合-4/HBLFSNF5_SST_b_6-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3/角塊組合-4/HBLFSNF5_SST_b_9-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3/角塊組合-4/SCB5_15-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3/角塊組合-5
+	Feature name: 結合於 底座輻射鋁擠組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3/角塊組合-5/HBLFSNF5_SST_b_3-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3/角塊組合-5/HBLFSNF5_SST_b_6-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3/角塊組合-5/HBLFSNF5_SST_b_9-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3/角塊組合-5/SCB5_15-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3/角塊組合-6
+	Feature name: 結合於 底座輻射鋁擠組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3/角塊組合-6/HBLFSNF5_SST_b_3-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3/角塊組合-6/HBLFSNF5_SST_b_6-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3/角塊組合-6/HBLFSNF5_SST_b_9-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3/角塊組合-6/SCB5_15-1
+	Feature name: 結合於 角塊組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3/HBKUS5_SST-1
+	Feature name: 結合於 底座輻射鋁擠組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3/HBKUS5_SST-1/HBKUS5_SST_3-1
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3/HBKUS5_SST-1/HBKUS5_SST_5-1
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3/HBKUS5_SST-1/HBKUS5_SST_3-2
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3/HBKUS5_SST-1/HBKUS5_SST_5-2
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3/HBKUS5_SST-1/HBKUS5_SST_9-1
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3/HBKUS5_SST-2
+	Feature name: 結合於 底座輻射鋁擠組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3/HBKUS5_SST-2/HBKUS5_SST_3-1
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3/HBKUS5_SST-2/HBKUS5_SST_5-1
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3/HBKUS5_SST-2/HBKUS5_SST_3-2
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3/HBKUS5_SST-2/HBKUS5_SST_5-2
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3/HBKUS5_SST-2/HBKUS5_SST_9-1
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3/HBKUS5_SST-3
+	Feature name: 結合於 底座輻射鋁擠組合, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3/HBKUS5_SST-3/HBKUS5_SST_3-1
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3/HBKUS5_SST-3/HBKUS5_SST_5-1
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3/HBKUS5_SST-3/HBKUS5_SST_3-2
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3/HBKUS5_SST-3/HBKUS5_SST_5-2
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/底座輻射鋁擠組合-3/HBKUS5_SST-3/HBKUS5_SST_9-1
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/零件2^底座固定_中間_綜合_0.4倍的V2-1
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/HFLBTW6_60_1-1
+	Feature name: 結合於 底座固定_中間_綜合_0.4倍的V2, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/HFLBTW6_60_2_v2-2
+	Feature name: 結合於 底座固定_中間_綜合_0.4倍的V2, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/HFLBTW6_60_3-3
+	Feature name: 結合於 底座固定_中間_綜合_0.4倍的V2, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/鋁擠2060_板金-4
+	Feature name: 結合於 底座固定_中間_綜合_0.4倍的V2, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/鋁擠2060_板金-4/NFS5_2060_400-1
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/鋁擠2060_板金-5
+	Feature name: 結合於 底座固定_中間_綜合_0.4倍的V2, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/鋁擠2060_板金-5/NFS5_2060_400-1
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/鋁擠2060_板金-7
+	Feature name: 結合於 底座固定_中間_綜合_0.4倍的V2, type: RefDependFolder
+Component name: 底座固定_中間_綜合_0.4倍的V2-1/鋁擠2060_板金-7/NFS5_2060_400-1
+Component name: 底座支撐_40度V2.SLDPRT-1
+	Feature name: 結合於 UPU0304, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-1/底座支撐_40度V2-1
+	Feature name: 結合於 底座支撐_40度V2.SLDPRT, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-1/7202DB-1
+	Feature name: 結合於 底座支撐_40度V2.SLDPRT, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-1/7202DB-1/7202DB_3-1
+Component name: 底座支撐_40度V2.SLDPRT-1/7202DB-1/7202DB_3-2
+Component name: 底座支撐_40度V2.SLDPRT-1/7202DB-1/7202DB_3-3
+Component name: 底座支撐_40度V2.SLDPRT-1/7202DB-1/7202DB_3-4
+Component name: 底座支撐_40度V2.SLDPRT-1/7202DB-1/7202DB_3-5
+Component name: 底座支撐_40度V2.SLDPRT-1/7202DB-1/7202DB_3-6
+Component name: 底座支撐_40度V2.SLDPRT-1/7202DB-1/7202DB_3-7
+Component name: 底座支撐_40度V2.SLDPRT-1/7202DB-1/7202DB_3-8
+Component name: 底座支撐_40度V2.SLDPRT-1/7202DB-1/7202DB_3-9
+Component name: 底座支撐_40度V2.SLDPRT-1/7202DB-1/7202DB_3-10
+Component name: 底座支撐_40度V2.SLDPRT-1/7202DB-1/7202DB_3-11
+Component name: 底座支撐_40度V2.SLDPRT-1/7202DB-1/7202DB_3-12
+Component name: 底座支撐_40度V2.SLDPRT-1/7202DB-1/7202DB_3-13
+Component name: 底座支撐_40度V2.SLDPRT-1/7202DB-1/7202DB_3-14
+Component name: 底座支撐_40度V2.SLDPRT-1/7202DB-1/7202DB_3-15
+Component name: 底座支撐_40度V2.SLDPRT-1/7202DB-1/7202DB_3-16
+Component name: 底座支撐_40度V2.SLDPRT-1/7202DB-1/7202DB_20-1
+Component name: 底座支撐_40度V2.SLDPRT-1/7202DB-1/7202DB_20-2
+Component name: 底座支撐_40度V2.SLDPRT-1/7202DB-1/7202DB_23-1
+Component name: 底座支撐_40度V2.SLDPRT-1/7202DB-1/7202DB_23-2
+Component name: 底座支撐_40度V2.SLDPRT-1/BOX_SCB4_6-2
+	Feature name: 結合於 底座支撐_40度V2.SLDPRT, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-1/BOX_SCB4_6-3
+	Feature name: 結合於 底座支撐_40度V2.SLDPRT, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-1/BOX_SCB4_6-4
+	Feature name: 結合於 底座支撐_40度V2.SLDPRT, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-1/BOX_SCB4_6-5
+	Feature name: 結合於 底座支撐_40度V2.SLDPRT, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-1/BOX_SCB4_6-6
+	Feature name: 結合於 底座支撐_40度V2.SLDPRT, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-1/BOX_SCB4_6-8
+	Feature name: 結合於 底座支撐_40度V2.SLDPRT, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-1/BOX_SCB4_6-9
+	Feature name: 結合於 底座支撐_40度V2.SLDPRT, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-1/SCB5_25-1
+	Feature name: 結合於 底座支撐_40度V2.SLDPRT, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-1/SCB5_25-2
+	Feature name: 結合於 底座支撐_40度V2.SLDPRT, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-1/SCB5_25-3
+	Feature name: 結合於 底座支撐_40度V2.SLDPRT, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-1/SCB5_25-4
+	Feature name: 結合於 底座支撐_40度V2.SLDPRT, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-1/PCLBR15_22_0_FC20_5-1
+	Feature name: 結合於 底座支撐_40度V2.SLDPRT, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-1/SCB5_25-5
+	Feature name: 結合於 底座支撐_40度V2.SLDPRT, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-1/SCB5_25-6
+	Feature name: 結合於 底座支撐_40度V2.SLDPRT, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-2
+	Feature name: 結合於 UPU0304, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-2/底座支撐_40度V2-1
+	Feature name: 結合於 底座支撐_40度V2.SLDPRT, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-2/7202DB-1
+	Feature name: 結合於 底座支撐_40度V2.SLDPRT, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-2/7202DB-1/7202DB_3-1
+Component name: 底座支撐_40度V2.SLDPRT-2/7202DB-1/7202DB_3-2
+Component name: 底座支撐_40度V2.SLDPRT-2/7202DB-1/7202DB_3-3
+Component name: 底座支撐_40度V2.SLDPRT-2/7202DB-1/7202DB_3-4
+Component name: 底座支撐_40度V2.SLDPRT-2/7202DB-1/7202DB_3-5
+Component name: 底座支撐_40度V2.SLDPRT-2/7202DB-1/7202DB_3-6
+Component name: 底座支撐_40度V2.SLDPRT-2/7202DB-1/7202DB_3-7
+Component name: 底座支撐_40度V2.SLDPRT-2/7202DB-1/7202DB_3-8
+Component name: 底座支撐_40度V2.SLDPRT-2/7202DB-1/7202DB_3-9
+Component name: 底座支撐_40度V2.SLDPRT-2/7202DB-1/7202DB_3-10
+Component name: 底座支撐_40度V2.SLDPRT-2/7202DB-1/7202DB_3-11
+Component name: 底座支撐_40度V2.SLDPRT-2/7202DB-1/7202DB_3-12
+Component name: 底座支撐_40度V2.SLDPRT-2/7202DB-1/7202DB_3-13
+Component name: 底座支撐_40度V2.SLDPRT-2/7202DB-1/7202DB_3-14
+Component name: 底座支撐_40度V2.SLDPRT-2/7202DB-1/7202DB_3-15
+Component name: 底座支撐_40度V2.SLDPRT-2/7202DB-1/7202DB_3-16
+Component name: 底座支撐_40度V2.SLDPRT-2/7202DB-1/7202DB_20-1
+Component name: 底座支撐_40度V2.SLDPRT-2/7202DB-1/7202DB_20-2
+Component name: 底座支撐_40度V2.SLDPRT-2/7202DB-1/7202DB_23-1
+Component name: 底座支撐_40度V2.SLDPRT-2/7202DB-1/7202DB_23-2
+Component name: 底座支撐_40度V2.SLDPRT-2/BOX_SCB4_6-2
+	Feature name: 結合於 底座支撐_40度V2.SLDPRT, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-2/BOX_SCB4_6-3
+	Feature name: 結合於 底座支撐_40度V2.SLDPRT, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-2/BOX_SCB4_6-4
+	Feature name: 結合於 底座支撐_40度V2.SLDPRT, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-2/BOX_SCB4_6-5
+	Feature name: 結合於 底座支撐_40度V2.SLDPRT, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-2/BOX_SCB4_6-6
+	Feature name: 結合於 底座支撐_40度V2.SLDPRT, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-2/BOX_SCB4_6-8
+	Feature name: 結合於 底座支撐_40度V2.SLDPRT, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-2/BOX_SCB4_6-9
+	Feature name: 結合於 底座支撐_40度V2.SLDPRT, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-2/SCB5_25-1
+	Feature name: 結合於 底座支撐_40度V2.SLDPRT, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-2/SCB5_25-2
+	Feature name: 結合於 底座支撐_40度V2.SLDPRT, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-2/SCB5_25-3
+	Feature name: 結合於 底座支撐_40度V2.SLDPRT, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-2/SCB5_25-4
+	Feature name: 結合於 底座支撐_40度V2.SLDPRT, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-2/PCLBR15_22_0_FC20_5-1
+	Feature name: 結合於 底座支撐_40度V2.SLDPRT, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-2/SCB5_25-5
+	Feature name: 結合於 底座支撐_40度V2.SLDPRT, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-2/SCB5_25-6
+	Feature name: 結合於 底座支撐_40度V2.SLDPRT, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-3
+	Feature name: 結合於 UPU0304, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-3/底座支撐_40度V2-1
+	Feature name: 結合於 底座支撐_40度V2.SLDPRT, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-3/7202DB-1
+	Feature name: 結合於 底座支撐_40度V2.SLDPRT, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-3/7202DB-1/7202DB_3-1
+Component name: 底座支撐_40度V2.SLDPRT-3/7202DB-1/7202DB_3-2
+Component name: 底座支撐_40度V2.SLDPRT-3/7202DB-1/7202DB_3-3
+Component name: 底座支撐_40度V2.SLDPRT-3/7202DB-1/7202DB_3-4
+Component name: 底座支撐_40度V2.SLDPRT-3/7202DB-1/7202DB_3-5
+Component name: 底座支撐_40度V2.SLDPRT-3/7202DB-1/7202DB_3-6
+Component name: 底座支撐_40度V2.SLDPRT-3/7202DB-1/7202DB_3-7
+Component name: 底座支撐_40度V2.SLDPRT-3/7202DB-1/7202DB_3-8
+Component name: 底座支撐_40度V2.SLDPRT-3/7202DB-1/7202DB_3-9
+Component name: 底座支撐_40度V2.SLDPRT-3/7202DB-1/7202DB_3-10
+Component name: 底座支撐_40度V2.SLDPRT-3/7202DB-1/7202DB_3-11
+Component name: 底座支撐_40度V2.SLDPRT-3/7202DB-1/7202DB_3-12
+Component name: 底座支撐_40度V2.SLDPRT-3/7202DB-1/7202DB_3-13
+Component name: 底座支撐_40度V2.SLDPRT-3/7202DB-1/7202DB_3-14
+Component name: 底座支撐_40度V2.SLDPRT-3/7202DB-1/7202DB_3-15
+Component name: 底座支撐_40度V2.SLDPRT-3/7202DB-1/7202DB_3-16
+Component name: 底座支撐_40度V2.SLDPRT-3/7202DB-1/7202DB_20-1
+Component name: 底座支撐_40度V2.SLDPRT-3/7202DB-1/7202DB_20-2
+Component name: 底座支撐_40度V2.SLDPRT-3/7202DB-1/7202DB_23-1
+Component name: 底座支撐_40度V2.SLDPRT-3/7202DB-1/7202DB_23-2
+Component name: 底座支撐_40度V2.SLDPRT-3/BOX_SCB4_6-2
+	Feature name: 結合於 底座支撐_40度V2.SLDPRT, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-3/BOX_SCB4_6-3
+	Feature name: 結合於 底座支撐_40度V2.SLDPRT, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-3/BOX_SCB4_6-4
+	Feature name: 結合於 底座支撐_40度V2.SLDPRT, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-3/BOX_SCB4_6-5
+	Feature name: 結合於 底座支撐_40度V2.SLDPRT, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-3/BOX_SCB4_6-6
+	Feature name: 結合於 底座支撐_40度V2.SLDPRT, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-3/BOX_SCB4_6-8
+	Feature name: 結合於 底座支撐_40度V2.SLDPRT, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-3/BOX_SCB4_6-9
+	Feature name: 結合於 底座支撐_40度V2.SLDPRT, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-3/SCB5_25-1
+	Feature name: 結合於 底座支撐_40度V2.SLDPRT, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-3/SCB5_25-2
+	Feature name: 結合於 底座支撐_40度V2.SLDPRT, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-3/SCB5_25-3
+	Feature name: 結合於 底座支撐_40度V2.SLDPRT, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-3/SCB5_25-4
+	Feature name: 結合於 底座支撐_40度V2.SLDPRT, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-3/PCLBR15_22_0_FC20_5-1
+	Feature name: 結合於 底座支撐_40度V2.SLDPRT, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-3/SCB5_25-5
+	Feature name: 結合於 底座支撐_40度V2.SLDPRT, type: RefDependFolder
+Component name: 底座支撐_40度V2.SLDPRT-3/SCB5_25-6
+	Feature name: 結合於 底座支撐_40度V2.SLDPRT, type: RefDependFolder
+Component name: ASM_ALL_V1.0.0 (1)-1
+	Feature name: 結合於 UPU0304, type: RefDependFolder
+Component name: ASM_ALL_V1.0.0 (1)-1/ASM_ALL_V1.0.0 (1).STEP-1
+	Feature name: 結合於 ASM_ALL_V1.0.0 (1), type: RefDependFolder
+Component name: ASM_ALL_V1.0.0 (1)-1/ASM_ALL_V1.0.0 (1).STEP-1/3D_KRW04360V-S40+160930.STEP-1
+Component name: ASM_ALL_V1.0.0 (1)-1/ASM_ALL_V1.0.0 (1).STEP-1/3D_KRW04360V-S40+160930.STEP-1/1.STEP-1
+Component name: ASM_ALL_V1.0.0 (1)-1/ASM_ALL_V1.0.0 (1).STEP-1/3D_KRW04360V-S40+160930.STEP-1/2.STEP-1
+Component name: ASM_ALL_V1.0.0 (1)-1/ASM_ALL_V1.0.0 (1).STEP-1/3D_KRW04360V-S40+160930.STEP-1/3.STEP-1
+Component name: ASM_ALL_V1.0.0 (1)-1/ASM_ALL_V1.0.0 (1).STEP-1/3D_KRW04360V-S40+160930-1.STEP-1
+Component name: ASM_ALL_V1.0.0 (1)-1/ASM_ALL_V1.0.0 (1).STEP-1/3D_KRW04360V-S40+160930-1.STEP-1/1.STEP-1
+Component name: ASM_ALL_V1.0.0 (1)-1/ASM_ALL_V1.0.0 (1).STEP-1/3D_KRW04360V-S40+160930-1.STEP-1/2.STEP-1
+Component name: ASM_ALL_V1.0.0 (1)-1/ASM_ALL_V1.0.0 (1).STEP-1/3D_KRW04360V-S40+160930-1.STEP-1/3.STEP-1
+Component name: ASM_ALL_V1.0.0 (1)-1/ASM_ALL_V1.0.0 (1).STEP-1/___x____.STEP-1
+Component name: ASM_ALL_V1.0.0 (1)-1/ASM_ALL_V1.0.0 (1).STEP-1/___F_SMP-L005__h_L_q__.STEP-1
+Component name: ASM_ALL_V1.0.0 (1)-1/ASM_ALL_V1.0.0 (1).STEP-1/___F_SMP-L005__h_L_q__.STEP-2
+Component name: ASM_ALL_V1.0.0 (1)-1/ASM_ALL_V1.0.0 (1).STEP-1/___O__.STEP-1
+Component name: ASM_ALL_V1.0.0 (1)-1/ASM_ALL_V1.0.0 (1).STEP-1/_____F__.STEP-1
+Component name: ASM_ALL_V1.0.0 (1)-1/ASM_ALL_V1.0.0 (1).STEP-1/_n_x____1.STEP-1
+Component name: ASM_ALL_V1.0.0 (1)-1/ASM_ALL_V1.0.0 (1).STEP-1/_n_x____2.STEP-1
+Component name: ASM_ALL_V1.0.0 (1)-1/ASM_ALL_V1.0.0 (1).STEP-1/___m_v__SLDPRT.STEP-1
+Component name: ASM_ALL_V1.0.0 (1)-1/底環-1
+Component name: 旋轉盤-1
+	Feature name: 結合於 UPU0304, type: RefDependFolder
+Component name: 底環-1
+Component name: L型_配合旋轉平台底座-1
+Component name: L型_配合旋轉平台底座-2
+Component name: L型_配合旋轉平台底座-3
+Component name: NFS5_2060_400-1
+	Feature name: 結合於 UPU0304, type: RefDependFolder
+Component name: NFS5_2060_400-2
+	Feature name: 結合於 UPU0304, type: RefDependFolder
+Component name: NFS5_2060_400-3
+	Feature name: 結合於 UPU0304, type: RefDependFolder
+Component name: SHPTSD5_SET-1
+	Feature name: 結合於 UPU0304, type: RefDependFolder
+Component name: SHPTSD5_SET-1/SHPTSD5_SET_3-1
+Component name: SHPTSD5_SET-1/SHPTSD5_SET_5-1
+Component name: SHPTSD5_SET-1/SHPTSD5_SET_3-2
+Component name: SHPTSD5_SET-1/SHPTSD5_SET_5-2
+Component name: SHPTSD5_SET-1/SHPTSD5_SET_3-3
+Component name: SHPTSD5_SET-1/SHPTSD5_SET_5-3
+Component name: SHPTSD5_SET-1/SHPTSD5_SET_3-4
+Component name: SHPTSD5_SET-1/SHPTSD5_SET_5-4
+Component name: SHPTSD5_SET-1/SHPTSD5_SET_13-1
+Component name: SHPTSD5_SET-2
+	Feature name: 結合於 UPU0304, type: RefDependFolder
+Component name: SHPTSD5_SET-2/SHPTSD5_SET_3-1
+Component name: SHPTSD5_SET-2/SHPTSD5_SET_5-1
+Component name: SHPTSD5_SET-2/SHPTSD5_SET_3-2
+Component name: SHPTSD5_SET-2/SHPTSD5_SET_5-2
+Component name: SHPTSD5_SET-2/SHPTSD5_SET_3-3
+Component name: SHPTSD5_SET-2/SHPTSD5_SET_5-3
+Component name: SHPTSD5_SET-2/SHPTSD5_SET_3-4
+Component name: SHPTSD5_SET-2/SHPTSD5_SET_5-4
+Component name: SHPTSD5_SET-2/SHPTSD5_SET_13-1
+Component name: SHPTSD5_SET-3
+	Feature name: 結合於 UPU0304, type: RefDependFolder
+Component name: SHPTSD5_SET-3/SHPTSD5_SET_3-1
+Component name: SHPTSD5_SET-3/SHPTSD5_SET_5-1
+Component name: SHPTSD5_SET-3/SHPTSD5_SET_3-2
+Component name: SHPTSD5_SET-3/SHPTSD5_SET_5-2
+Component name: SHPTSD5_SET-3/SHPTSD5_SET_3-3
+Component name: SHPTSD5_SET-3/SHPTSD5_SET_5-3
+Component name: SHPTSD5_SET-3/SHPTSD5_SET_3-4
+Component name: SHPTSD5_SET-3/SHPTSD5_SET_5-4
+Component name: SHPTSD5_SET-3/SHPTSD5_SET_13-1
+Component name: SHPTSD5_SET-4
+	Feature name: 結合於 UPU0304, type: RefDependFolder
+Component name: SHPTSD5_SET-4/SHPTSD5_SET_3-1
+Component name: SHPTSD5_SET-4/SHPTSD5_SET_5-1
+Component name: SHPTSD5_SET-4/SHPTSD5_SET_3-2
+Component name: SHPTSD5_SET-4/SHPTSD5_SET_5-2
+Component name: SHPTSD5_SET-4/SHPTSD5_SET_3-3
+Component name: SHPTSD5_SET-4/SHPTSD5_SET_5-3
+Component name: SHPTSD5_SET-4/SHPTSD5_SET_3-4
+Component name: SHPTSD5_SET-4/SHPTSD5_SET_5-4
+Component name: SHPTSD5_SET-4/SHPTSD5_SET_13-1
+Component name: SHPTSD5_SET-5
+	Feature name: 結合於 UPU0304, type: RefDependFolder
+Component name: SHPTSD5_SET-5/SHPTSD5_SET_3-1
+Component name: SHPTSD5_SET-5/SHPTSD5_SET_5-1
+Component name: SHPTSD5_SET-5/SHPTSD5_SET_3-2
+Component name: SHPTSD5_SET-5/SHPTSD5_SET_5-2
+Component name: SHPTSD5_SET-5/SHPTSD5_SET_3-3
+Component name: SHPTSD5_SET-5/SHPTSD5_SET_5-3
+Component name: SHPTSD5_SET-5/SHPTSD5_SET_3-4
+Component name: SHPTSD5_SET-5/SHPTSD5_SET_5-4
+Component name: SHPTSD5_SET-5/SHPTSD5_SET_13-1
+Component name: SHPTSD5_SET-6
+	Feature name: 結合於 UPU0304, type: RefDependFolder
+Component name: SHPTSD5_SET-6/SHPTSD5_SET_3-1
+Component name: SHPTSD5_SET-6/SHPTSD5_SET_5-1
+Component name: SHPTSD5_SET-6/SHPTSD5_SET_3-2
+Component name: SHPTSD5_SET-6/SHPTSD5_SET_5-2
+Component name: SHPTSD5_SET-6/SHPTSD5_SET_3-3
+Component name: SHPTSD5_SET-6/SHPTSD5_SET_5-3
+Component name: SHPTSD5_SET-6/SHPTSD5_SET_3-4
+Component name: SHPTSD5_SET-6/SHPTSD5_SET_5-4
+Component name: SHPTSD5_SET-6/SHPTSD5_SET_13-1
+Component name: SHPTSD5_SET-7
+	Feature name: 結合於 UPU0304, type: RefDependFolder
+Component name: SHPTSD5_SET-7/SHPTSD5_SET_3-1
+Component name: SHPTSD5_SET-7/SHPTSD5_SET_5-1
+Component name: SHPTSD5_SET-7/SHPTSD5_SET_3-2
+Component name: SHPTSD5_SET-7/SHPTSD5_SET_5-2
+Component name: SHPTSD5_SET-7/SHPTSD5_SET_3-3
+Component name: SHPTSD5_SET-7/SHPTSD5_SET_5-3
+Component name: SHPTSD5_SET-7/SHPTSD5_SET_3-4
+Component name: SHPTSD5_SET-7/SHPTSD5_SET_5-4
+Component name: SHPTSD5_SET-7/SHPTSD5_SET_13-1
+Component name: SHPTSD5_SET-8
+	Feature name: 結合於 UPU0304, type: RefDependFolder
+Component name: SHPTSD5_SET-8/SHPTSD5_SET_3-1
+Component name: SHPTSD5_SET-8/SHPTSD5_SET_5-1
+Component name: SHPTSD5_SET-8/SHPTSD5_SET_3-2
+Component name: SHPTSD5_SET-8/SHPTSD5_SET_5-2
+Component name: SHPTSD5_SET-8/SHPTSD5_SET_3-3
+Component name: SHPTSD5_SET-8/SHPTSD5_SET_5-3
+Component name: SHPTSD5_SET-8/SHPTSD5_SET_3-4
+Component name: SHPTSD5_SET-8/SHPTSD5_SET_5-4
+Component name: SHPTSD5_SET-8/SHPTSD5_SET_13-1
+Component name: SHPTSD5_SET-9
+	Feature name: 結合於 UPU0304, type: RefDependFolder
+Component name: SHPTSD5_SET-9/SHPTSD5_SET_3-1
+Component name: SHPTSD5_SET-9/SHPTSD5_SET_5-1
+Component name: SHPTSD5_SET-9/SHPTSD5_SET_3-2
+Component name: SHPTSD5_SET-9/SHPTSD5_SET_5-2
+Component name: SHPTSD5_SET-9/SHPTSD5_SET_3-3
+Component name: SHPTSD5_SET-9/SHPTSD5_SET_5-3
+Component name: SHPTSD5_SET-9/SHPTSD5_SET_3-4
+Component name: SHPTSD5_SET-9/SHPTSD5_SET_5-4
+Component name: SHPTSD5_SET-9/SHPTSD5_SET_13-1
+Component name: SHPTSD5_SET-11
+	Feature name: 結合於 UPU0304, type: RefDependFolder
+Component name: SHPTSD5_SET-11/SHPTSD5_SET_3-1
+Component name: SHPTSD5_SET-11/SHPTSD5_SET_5-1
+Component name: SHPTSD5_SET-11/SHPTSD5_SET_3-2
+Component name: SHPTSD5_SET-11/SHPTSD5_SET_5-2
+Component name: SHPTSD5_SET-11/SHPTSD5_SET_3-3
+Component name: SHPTSD5_SET-11/SHPTSD5_SET_5-3
+Component name: SHPTSD5_SET-11/SHPTSD5_SET_3-4
+Component name: SHPTSD5_SET-11/SHPTSD5_SET_5-4
+Component name: SHPTSD5_SET-11/SHPTSD5_SET_13-1
+Component name: SHPTSD5_SET-13
+	Feature name: 結合於 UPU0304, type: RefDependFolder
+Component name: SHPTSD5_SET-13/SHPTSD5_SET_3-1
+Component name: SHPTSD5_SET-13/SHPTSD5_SET_5-1
+Component name: SHPTSD5_SET-13/SHPTSD5_SET_3-2
+Component name: SHPTSD5_SET-13/SHPTSD5_SET_5-2
+Component name: SHPTSD5_SET-13/SHPTSD5_SET_3-3
+Component name: SHPTSD5_SET-13/SHPTSD5_SET_5-3
+Component name: SHPTSD5_SET-13/SHPTSD5_SET_3-4
+Component name: SHPTSD5_SET-13/SHPTSD5_SET_5-4
+Component name: SHPTSD5_SET-13/SHPTSD5_SET_13-1
+Component name: SHPTSD5_SET-14
+	Feature name: 結合於 UPU0304, type: RefDependFolder
+Component name: SHPTSD5_SET-14/SHPTSD5_SET_3-1
+Component name: SHPTSD5_SET-14/SHPTSD5_SET_5-1
+Component name: SHPTSD5_SET-14/SHPTSD5_SET_3-2
+Component name: SHPTSD5_SET-14/SHPTSD5_SET_5-2
+Component name: SHPTSD5_SET-14/SHPTSD5_SET_3-3
+Component name: SHPTSD5_SET-14/SHPTSD5_SET_5-3
+Component name: SHPTSD5_SET-14/SHPTSD5_SET_3-4
+Component name: SHPTSD5_SET-14/SHPTSD5_SET_5-4
+Component name: SHPTSD5_SET-14/SHPTSD5_SET_13-1
+Component name: SHPTSD5_SET-15
+	Feature name: 結合於 UPU0304, type: RefDependFolder
+Component name: SHPTSD5_SET-15/SHPTSD5_SET_3-1
+Component name: SHPTSD5_SET-15/SHPTSD5_SET_5-1
+Component name: SHPTSD5_SET-15/SHPTSD5_SET_3-2
+Component name: SHPTSD5_SET-15/SHPTSD5_SET_5-2
+Component name: SHPTSD5_SET-15/SHPTSD5_SET_3-3
+Component name: SHPTSD5_SET-15/SHPTSD5_SET_5-3
+Component name: SHPTSD5_SET-15/SHPTSD5_SET_3-4
+Component name: SHPTSD5_SET-15/SHPTSD5_SET_5-4
+Component name: SHPTSD5_SET-15/SHPTSD5_SET_13-1
+Component name: SHPTSD5_SET-16
+	Feature name: 結合於 UPU0304, type: RefDependFolder
+Component name: SHPTSD5_SET-16/SHPTSD5_SET_3-1
+Component name: SHPTSD5_SET-16/SHPTSD5_SET_5-1
+Component name: SHPTSD5_SET-16/SHPTSD5_SET_3-2
+Component name: SHPTSD5_SET-16/SHPTSD5_SET_5-2
+Component name: SHPTSD5_SET-16/SHPTSD5_SET_3-3
+Component name: SHPTSD5_SET-16/SHPTSD5_SET_5-3
+Component name: SHPTSD5_SET-16/SHPTSD5_SET_3-4
+Component name: SHPTSD5_SET-16/SHPTSD5_SET_5-4
+Component name: SHPTSD5_SET-16/SHPTSD5_SET_13-1
+Component name: SHPTSD5_SET-17
+	Feature name: 結合於 UPU0304, type: RefDependFolder
+Component name: SHPTSD5_SET-17/SHPTSD5_SET_3-1
+Component name: SHPTSD5_SET-17/SHPTSD5_SET_5-1
+Component name: SHPTSD5_SET-17/SHPTSD5_SET_3-2
+Component name: SHPTSD5_SET-17/SHPTSD5_SET_5-2
+Component name: SHPTSD5_SET-17/SHPTSD5_SET_3-3
+Component name: SHPTSD5_SET-17/SHPTSD5_SET_5-3
+Component name: SHPTSD5_SET-17/SHPTSD5_SET_3-4
+Component name: SHPTSD5_SET-17/SHPTSD5_SET_5-4
+Component name: SHPTSD5_SET-17/SHPTSD5_SET_13-1
+Component name: SHPTSD5_SET-21
+	Feature name: 結合於 UPU0304, type: RefDependFolder
+Component name: SHPTSD5_SET-21/SHPTSD5_SET_3-1
+Component name: SHPTSD5_SET-21/SHPTSD5_SET_5-1
+Component name: SHPTSD5_SET-21/SHPTSD5_SET_3-2
+Component name: SHPTSD5_SET-21/SHPTSD5_SET_5-2
+Component name: SHPTSD5_SET-21/SHPTSD5_SET_3-3
+Component name: SHPTSD5_SET-21/SHPTSD5_SET_5-3
+Component name: SHPTSD5_SET-21/SHPTSD5_SET_3-4
+Component name: SHPTSD5_SET-21/SHPTSD5_SET_5-4
+Component name: SHPTSD5_SET-21/SHPTSD5_SET_13-1
+Component name: SHPTSD5_SET-22
+	Feature name: 結合於 UPU0304, type: RefDependFolder
+Component name: SHPTSD5_SET-22/SHPTSD5_SET_3-1
+Component name: SHPTSD5_SET-22/SHPTSD5_SET_5-1
+Component name: SHPTSD5_SET-22/SHPTSD5_SET_3-2
+Component name: SHPTSD5_SET-22/SHPTSD5_SET_5-2
+Component name: SHPTSD5_SET-22/SHPTSD5_SET_3-3
+Component name: SHPTSD5_SET-22/SHPTSD5_SET_5-3
+Component name: SHPTSD5_SET-22/SHPTSD5_SET_3-4
+Component name: SHPTSD5_SET-22/SHPTSD5_SET_5-4
+Component name: SHPTSD5_SET-22/SHPTSD5_SET_13-1
+Component name: SHPTSD5_SET-23
+	Feature name: 結合於 UPU0304, type: RefDependFolder
+Component name: SHPTSD5_SET-23/SHPTSD5_SET_3-1
+Component name: SHPTSD5_SET-23/SHPTSD5_SET_5-1
+Component name: SHPTSD5_SET-23/SHPTSD5_SET_3-2
+Component name: SHPTSD5_SET-23/SHPTSD5_SET_5-2
+Component name: SHPTSD5_SET-23/SHPTSD5_SET_3-3
+Component name: SHPTSD5_SET-23/SHPTSD5_SET_5-3
+Component name: SHPTSD5_SET-23/SHPTSD5_SET_3-4
+Component name: SHPTSD5_SET-23/SHPTSD5_SET_5-4
+Component name: SHPTSD5_SET-23/SHPTSD5_SET_13-1
+Component name: HFS5_2020_310-1
+Component name: HFS5_2020_310-2
+Component name: HFS5_2020_310-3
+Component name: HFS5_2020_310-4
+Component name: HFS5_2020_310-5
+Component name: HFS5_2020_310-6
+Component name: 底座60度板金.SLDPRT-1
+Component name: 底座60度板金.SLDPRT-2
+Component name: 底座60度板金.SLDPRT-3
+Component name: HBKUS5_SST-1
+Component name: HBKUS5_SST-2
+Component name: HBKUS5_SST-3
+Component name: HBKUS5_SST-4
+Component name: HBKUS5_SST-5
+Component name: HBKUS5_SST-6
+Component name: 鋁擠調整高度角支撐架-2
+Component name: 鋁擠調整高度角支撐架-3
+Component name: HPTSSL5_長條型-1
+Component name: HPTSSL5_長條型-2
+Component name: HPTSSL5_長條型-3

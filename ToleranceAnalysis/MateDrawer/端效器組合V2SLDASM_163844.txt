@@ -1,0 +1,909 @@
+Component name: 端效器零件_40度-1
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 2	surface type  = Plane
+		(2) MateConcentric
+			Entity type = Face2	ID = 8	surface type  = Cylinder
+			Entity type = Face2	ID = 13	surface type  = Cylinder
+		(3) MateConcentric
+			Entity type = Face2	ID = 17	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+		(4) MateConcentric
+			Entity type = Face2	ID = 19	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+		(5) MateConcentric
+			Entity type = Face2	ID = 21	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+		(6) MateConcentric
+			Entity type = Face2	ID = 23	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+		(7) MateConcentric
+			Entity type = Face2	ID = 25	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+		(8) MateConcentric
+			Entity type = Face2	ID = 13	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+		(9) MateConcentric
+			Entity type = Face2	ID = 11	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+		(10) MateCoincident
+			Entity type = Face2	ID = 40	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(11) MateDistanceDim
+			Entity type = unknown type
+			Entity type = Face2	ID = 5	surface type  = Plane
+		(12) MateParallel
+			Entity type = Face2	ID = 3	surface type  = Plane
+			Entity type = unknown type
+		(13) MateConcentric
+			Entity type = Face2	ID = 27	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+		(14) MateConcentric
+			Entity type = Face2	ID = 30	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+		(15) MateConcentric
+			Entity type = Face2	ID = 29	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+		(16) MateConcentric
+			Entity type = Face2	ID = 28	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+		(17) MateConcentric
+			Entity type = Face2	ID = 15	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+		(18) MateParallel
+			Entity type = Face2	ID = 43	surface type  = Plane
+			Entity type = unknown type
+		(19) MateParallel
+			Entity type = Face2	ID = 26	surface type  = Plane
+			Entity type = unknown type
+		(20) MateCoincident
+			Entity type = Face2	ID = 26	surface type  = Plane
+			Entity type = Face2	ID = 5	surface type  = Plane
+
+
+Component name: 7202DB-1
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 2	surface type  = Plane
+		(2) MateConcentric
+			Entity type = Face2	ID = 8	surface type  = Cylinder
+			Entity type = Face2	ID = 13	surface type  = Cylinder
+		(3) MateCoincident
+			Entity type = Face2	ID = 2	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(4) MateCoincident
+			Entity type = Face2	ID = 2	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(5) MateCoincident
+			Entity type = Face2	ID = 2	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(6) MateCoincident
+			Entity type = Face2	ID = 2	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(7) MateConcentric
+			Entity type = Face2	ID = 3	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+		(8) MateCoincident
+			Entity type = Face2	ID = 8	surface type  = Plane
+			Entity type = Face2	ID = 20	surface type  = Plane
+
+
+Component name: 7202DB-1/7202DB_3-1
+Component name: 7202DB-1/7202DB_3-2
+Component name: 7202DB-1/7202DB_3-3
+Component name: 7202DB-1/7202DB_3-4
+Component name: 7202DB-1/7202DB_3-5
+Component name: 7202DB-1/7202DB_3-6
+Component name: 7202DB-1/7202DB_3-7
+Component name: 7202DB-1/7202DB_3-8
+Component name: 7202DB-1/7202DB_3-9
+Component name: 7202DB-1/7202DB_3-10
+Component name: 7202DB-1/7202DB_3-11
+Component name: 7202DB-1/7202DB_3-12
+Component name: 7202DB-1/7202DB_3-13
+Component name: 7202DB-1/7202DB_3-14
+Component name: 7202DB-1/7202DB_3-15
+Component name: 7202DB-1/7202DB_3-16
+Component name: 7202DB-1/7202DB_20-1
+Component name: 7202DB-1/7202DB_20-2
+Component name: 7202DB-1/7202DB_23-1
+Component name: 7202DB-1/7202DB_23-2
+Component name: BOX_SCB4_6-2
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(2) MateConcentric
+			Entity type = Face2	ID = 23	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+
+
+Component name: BOX_SCB4_6-3
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(2) MateConcentric
+			Entity type = Face2	ID = 21	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+		(3) MateCoincident
+			Entity type = Face2	ID = 2	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+
+
+Component name: BOX_SCB4_6-4
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(2) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(3) MateConcentric
+			Entity type = Face2	ID = 17	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+
+
+Component name: BOX_SCB4_6-5
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = Face2	ID = 2	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(2) MateConcentric
+			Entity type = Face2	ID = 15	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+
+
+Component name: BOX_SCB4_6-6
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = Face2	ID = 2	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(2) MateConcentric
+			Entity type = Face2	ID = 11	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+
+
+Component name: BOX_SCB4_6-7
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = Face2	ID = 2	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(2) MateConcentric
+			Entity type = Face2	ID = 25	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+
+
+Component name: BOX_SCB4_6-8
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(2) MateConcentric
+			Entity type = Face2	ID = 19	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+
+
+Component name: BOX_SCB4_6-9
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(2) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(3) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(4) MateConcentric
+			Entity type = Face2	ID = 13	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+
+
+Component name: 端效器零件_中間-1
+Component name: 端效器零件_40度-2
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = unknown type
+			Entity type = Face2	ID = 26	surface type  = Plane
+		(2) MateConcentric
+			Entity type = Face2	ID = 8	surface type  = Cylinder
+			Entity type = Face2	ID = 11	surface type  = Cylinder
+		(3) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 2	surface type  = Plane
+		(4) MateConcentric
+			Entity type = Face2	ID = 21	surface type  = Cylinder
+			Entity type = Face2	ID = 4	surface type  = Cylinder
+		(5) MateConcentric
+			Entity type = Face2	ID = 19	surface type  = Cylinder
+			Entity type = Face2	ID = 4	surface type  = Cylinder
+		(6) MateConcentric
+			Entity type = Face2	ID = 23	surface type  = Cylinder
+			Entity type = Face2	ID = 4	surface type  = Cylinder
+		(7) MateConcentric
+			Entity type = Face2	ID = 25	surface type  = Cylinder
+			Entity type = Face2	ID = 4	surface type  = Cylinder
+		(8) MateConcentric
+			Entity type = Face2	ID = 11	surface type  = Cylinder
+			Entity type = Face2	ID = 4	surface type  = Cylinder
+		(9) MateConcentric
+			Entity type = Face2	ID = 13	surface type  = Cylinder
+			Entity type = Face2	ID = 4	surface type  = Cylinder
+		(10) MateConcentric
+			Entity type = Face2	ID = 15	surface type  = Cylinder
+			Entity type = Face2	ID = 4	surface type  = Cylinder
+		(11) MateConcentric
+			Entity type = Face2	ID = 17	surface type  = Cylinder
+			Entity type = Face2	ID = 4	surface type  = Cylinder
+		(12) MateCoincident
+			Entity type = Face2	ID = 32	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(13) MateConcentric
+			Entity type = Face2	ID = 27	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+		(14) MateConcentric
+			Entity type = Face2	ID = 30	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+		(15) MateConcentric
+			Entity type = Face2	ID = 29	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+		(16) MateConcentric
+			Entity type = Face2	ID = 28	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+		(17) MateDistanceDim
+			Entity type = Face2	ID = 5	surface type  = Plane
+			Entity type = unknown type
+		(18) MateParallel
+			Entity type = Face2	ID = 3	surface type  = Plane
+			Entity type = unknown type
+		(19) MateParallel
+			Entity type = Face2	ID = 43	surface type  = Plane
+			Entity type = unknown type
+		(20) MateParallel
+			Entity type = Face2	ID = 26	surface type  = Plane
+			Entity type = unknown type
+		(21) MateCoincident
+			Entity type = Face2	ID = 26	surface type  = Plane
+			Entity type = Face2	ID = 4	surface type  = Plane
+
+
+Component name: 端效器零件_40度-3
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = unknown type
+			Entity type = Face2	ID = 26	surface type  = Plane
+		(2) MateConcentric
+			Entity type = unknown type
+			Entity type = Face2	ID = 29	surface type  = Cylinder
+		(3) MateConcentric
+			Entity type = unknown type
+			Entity type = Face2	ID = 30	surface type  = Cylinder
+		(4) MateConcentric
+			Entity type = Face2	ID = 8	surface type  = Cylinder
+			Entity type = Face2	ID = 11	surface type  = Cylinder
+		(5) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 2	surface type  = Plane
+		(6) MateConcentric
+			Entity type = Face2	ID = 21	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+		(7) MateConcentric
+			Entity type = Face2	ID = 23	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+		(8) MateConcentric
+			Entity type = Face2	ID = 25	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+		(9) MateConcentric
+			Entity type = Face2	ID = 11	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+		(10) MateConcentric
+			Entity type = Face2	ID = 13	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+		(11) MateConcentric
+			Entity type = Face2	ID = 17	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+		(12) MateConcentric
+			Entity type = Face2	ID = 19	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+		(13) MateConcentric
+			Entity type = Face2	ID = 15	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+		(14) MateCoincident
+			Entity type = Face2	ID = 35	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(15) MateConcentric
+			Entity type = Face2	ID = 28	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+		(16) MateConcentric
+			Entity type = Face2	ID = 30	surface type  = Cylinder
+			Entity type = Face2	ID = 4	surface type  = Cylinder
+		(17) MateConcentric
+			Entity type = Face2	ID = 27	surface type  = Cylinder
+			Entity type = Face2	ID = 4	surface type  = Cylinder
+		(18) MateConcentric
+			Entity type = Face2	ID = 29	surface type  = Cylinder
+			Entity type = Face2	ID = 4	surface type  = Cylinder
+		(19) MateDistanceDim
+			Entity type = Face2	ID = 5	surface type  = Plane
+			Entity type = unknown type
+		(20) MateParallel
+			Entity type = Face2	ID = 3	surface type  = Plane
+			Entity type = unknown type
+		(21) MateParallel
+			Entity type = Face2	ID = 43	surface type  = Plane
+			Entity type = unknown type
+		(22) MateParallel
+			Entity type = Face2	ID = 26	surface type  = Plane
+			Entity type = unknown type
+		(23) MateCoincident
+			Entity type = Face2	ID = 26	surface type  = Plane
+			Entity type = Face2	ID = 3	surface type  = Plane
+
+
+Component name: 7202DB-2
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+		(1) MateConcentric
+			Entity type = Face2	ID = 8	surface type  = Cylinder
+			Entity type = Face2	ID = 11	surface type  = Cylinder
+		(2) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 2	surface type  = Plane
+		(3) MateCoincident
+			Entity type = Face2	ID = 2	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(4) MateConcentric
+			Entity type = Face2	ID = 3	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+		(5) MateCoincident
+			Entity type = Face2	ID = 8	surface type  = Plane
+			Entity type = Face2	ID = 20	surface type  = Plane
+
+
+Component name: 7202DB-2/7202DB_3-1
+Component name: 7202DB-2/7202DB_3-2
+Component name: 7202DB-2/7202DB_3-3
+Component name: 7202DB-2/7202DB_3-4
+Component name: 7202DB-2/7202DB_3-5
+Component name: 7202DB-2/7202DB_3-6
+Component name: 7202DB-2/7202DB_3-7
+Component name: 7202DB-2/7202DB_3-8
+Component name: 7202DB-2/7202DB_3-9
+Component name: 7202DB-2/7202DB_3-10
+Component name: 7202DB-2/7202DB_3-11
+Component name: 7202DB-2/7202DB_3-12
+Component name: 7202DB-2/7202DB_3-13
+Component name: 7202DB-2/7202DB_3-14
+Component name: 7202DB-2/7202DB_3-15
+Component name: 7202DB-2/7202DB_3-16
+Component name: 7202DB-2/7202DB_20-1
+Component name: 7202DB-2/7202DB_20-2
+Component name: 7202DB-2/7202DB_23-1
+Component name: 7202DB-2/7202DB_23-2
+Component name: 7202DB-3
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+		(1) MateConcentric
+			Entity type = Face2	ID = 8	surface type  = Cylinder
+			Entity type = Face2	ID = 11	surface type  = Cylinder
+		(2) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 2	surface type  = Plane
+		(3) MateCoincident
+			Entity type = Face2	ID = 2	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(4) MateConcentric
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+		(5) MateCoincident
+			Entity type = Face2	ID = 8	surface type  = Plane
+			Entity type = Face2	ID = 20	surface type  = Plane
+
+
+Component name: 7202DB-3/7202DB_3-1
+Component name: 7202DB-3/7202DB_3-2
+Component name: 7202DB-3/7202DB_3-3
+Component name: 7202DB-3/7202DB_3-4
+Component name: 7202DB-3/7202DB_3-5
+Component name: 7202DB-3/7202DB_3-6
+Component name: 7202DB-3/7202DB_3-7
+Component name: 7202DB-3/7202DB_3-8
+Component name: 7202DB-3/7202DB_3-9
+Component name: 7202DB-3/7202DB_3-10
+Component name: 7202DB-3/7202DB_3-11
+Component name: 7202DB-3/7202DB_3-12
+Component name: 7202DB-3/7202DB_3-13
+Component name: 7202DB-3/7202DB_3-14
+Component name: 7202DB-3/7202DB_3-15
+Component name: 7202DB-3/7202DB_3-16
+Component name: 7202DB-3/7202DB_20-1
+Component name: 7202DB-3/7202DB_20-2
+Component name: 7202DB-3/7202DB_23-1
+Component name: 7202DB-3/7202DB_23-2
+Component name: BOX_SCB4_6-10
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(2) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(3) MateCoincident
+			Entity type = Face2	ID = 2	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(4) MateConcentric
+			Entity type = Face2	ID = 11	surface type  = Cylinder
+			Entity type = Face2	ID = 4	surface type  = Cylinder
+
+
+Component name: BOX_SCB4_6-11
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(2) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(3) MateConcentric
+			Entity type = Face2	ID = 25	surface type  = Cylinder
+			Entity type = Face2	ID = 4	surface type  = Cylinder
+
+
+Component name: BOX_SCB4_6-12
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(2) MateConcentric
+			Entity type = Face2	ID = 17	surface type  = Cylinder
+			Entity type = Face2	ID = 4	surface type  = Cylinder
+
+
+Component name: BOX_SCB4_6-13
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(2) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(3) MateConcentric
+			Entity type = Face2	ID = 15	surface type  = Cylinder
+			Entity type = Face2	ID = 4	surface type  = Cylinder
+
+
+Component name: BOX_SCB4_6-14
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(2) MateConcentric
+			Entity type = Face2	ID = 23	surface type  = Cylinder
+			Entity type = Face2	ID = 4	surface type  = Cylinder
+
+
+Component name: BOX_SCB4_6-15
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(2) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(3) MateConcentric
+			Entity type = Face2	ID = 13	surface type  = Cylinder
+			Entity type = Face2	ID = 4	surface type  = Cylinder
+
+
+Component name: BOX_SCB4_6-16
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(2) MateConcentric
+			Entity type = Face2	ID = 21	surface type  = Cylinder
+			Entity type = Face2	ID = 4	surface type  = Cylinder
+
+
+Component name: BOX_SCB4_6-17
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(2) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(3) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(4) MateConcentric
+			Entity type = Face2	ID = 19	surface type  = Cylinder
+			Entity type = Face2	ID = 4	surface type  = Cylinder
+
+
+Component name: BOX_SCB4_6-18
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(2) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(3) MateConcentric
+			Entity type = Face2	ID = 15	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+
+
+Component name: BOX_SCB4_6-19
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(2) MateConcentric
+			Entity type = Face2	ID = 17	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+
+
+Component name: BOX_SCB4_6-20
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(2) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(3) MateConcentric
+			Entity type = Face2	ID = 11	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+
+
+Component name: BOX_SCB4_6-21
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(2) MateCoincident
+			Entity type = Face2	ID = 2	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(3) MateConcentric
+			Entity type = Face2	ID = 21	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+
+
+Component name: BOX_SCB4_6-22
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(2) MateConcentric
+			Entity type = Face2	ID = 19	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+
+
+Component name: BOX_SCB4_6-23
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(2) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(3) MateConcentric
+			Entity type = Face2	ID = 13	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+
+
+Component name: BOX_SCB4_6-24
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(2) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(3) MateConcentric
+			Entity type = Face2	ID = 23	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+
+
+Component name: BOX_SCB4_6-25
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(2) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(3) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(4) MateConcentric
+			Entity type = Face2	ID = 25	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+
+
+Component name: 端效器零件_把手-1
+Component name: PCLBR15_22_0_FC30_5-1
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+		(1) MateConcentric
+			Entity type = Face2	ID = 3	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+		(2) MateCoincident
+			Entity type = Face2	ID = 8	surface type  = Plane
+			Entity type = Face2	ID = 20	surface type  = Plane
+		(3) MateConcentric
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+			Entity type = unknown type
+
+
+Component name: PCLBR15_22_0_FC30_5-2
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+		(1) MateConcentric
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+		(2) MateCoincident
+			Entity type = Face2	ID = 8	surface type  = Plane
+			Entity type = Face2	ID = 20	surface type  = Plane
+		(3) MateConcentric
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+			Entity type = unknown type
+
+
+Component name: PCLBR15_22_0_FC30_5-3
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+		(1) MateConcentric
+			Entity type = Face2	ID = 3	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+		(2) MateCoincident
+			Entity type = Face2	ID = 8	surface type  = Plane
+			Entity type = Face2	ID = 20	surface type  = Plane
+		(3) MateConcentric
+			Entity type = Face2	ID = 4	surface type  = Cylinder
+			Entity type = unknown type
+
+
+Component name: SCB5_15-1
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(2) MateConcentric
+			Entity type = Face2	ID = 27	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+		(3) MateConcentric
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+			Entity type = Face2	ID = 9	surface type  = Cylinder
+
+
+Component name: SCB5_15-2
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(2) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(3) MateCoincident
+			Entity type = Face2	ID = 32	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(4) MateConcentric
+			Entity type = Face2	ID = 30	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+
+
+Component name: SCB5_15-3
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(2) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(3) MateConcentric
+			Entity type = Face2	ID = 29	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+
+
+Component name: SCB5_15-4
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(2) MateConcentric
+			Entity type = Face2	ID = 28	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+		(3) MateConcentric
+			Entity type = Face2	ID = 4	surface type  = Cylinder
+			Entity type = Face2	ID = 7	surface type  = Cylinder
+
+
+Component name: SCB5_15-5
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(2) MateConcentric
+			Entity type = Face2	ID = 29	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+
+
+Component name: SCB5_15-6
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(2) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(3) MateConcentric
+			Entity type = Face2	ID = 27	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+		(4) MateConcentric
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+			Entity type = Face2	ID = 19	surface type  = Cylinder
+
+
+Component name: SCB5_15-7
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(2) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(3) MateConcentric
+			Entity type = Face2	ID = 30	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+
+
+Component name: SCB5_15-8
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(2) MateCoincident
+			Entity type = Face2	ID = 40	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(3) MateConcentric
+			Entity type = Face2	ID = 28	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+		(4) MateConcentric
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+			Entity type = Face2	ID = 21	surface type  = Cylinder
+
+
+Component name: SCB5_15-9
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(2) MateCoincident
+			Entity type = Face2	ID = 35	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(3) MateConcentric
+			Entity type = Face2	ID = 28	surface type  = Cylinder
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+		(4) MateConcentric
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+			Entity type = Face2	ID = 27	surface type  = Cylinder
+
+
+Component name: SCB5_15-10
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(2) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(3) MateConcentric
+			Entity type = Face2	ID = 30	surface type  = Cylinder
+			Entity type = Face2	ID = 4	surface type  = Cylinder
+
+
+Component name: SCB5_15-11
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(2) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(3) MateConcentric
+			Entity type = Face2	ID = 27	surface type  = Cylinder
+			Entity type = Face2	ID = 4	surface type  = Cylinder
+		(4) MateConcentric
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+			Entity type = Face2	ID = 25	surface type  = Cylinder
+
+
+Component name: SCB5_15-12
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = Face2	ID = 7	surface type  = Plane
+			Entity type = Face2	ID = 7	surface type  = Plane
+		(2) MateConcentric
+			Entity type = Face2	ID = 29	surface type  = Cylinder
+			Entity type = Face2	ID = 4	surface type  = Cylinder
+
+
+Component name: 雷射位移把手-1
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = unknown type
+			Entity type = Face2	ID = 2	surface type  = Plane
+		(2) MateCoincident
+			Entity type = unknown type
+			Entity type = unknown type
+		(3) MateParallel
+			Entity type = unknown type
+			Entity type = Face2	ID = 15	surface type  = Plane
+		(4) MateCoincident
+			Entity type = SketchPoint
+			Entity type = unknown type
+		(5) MateCoincident
+			Entity type = Face2	ID = 2	surface type  = Plane
+			Entity type = Face2	ID = 1	surface type  = Plane
+		(6) MateCoincident
+			Entity type = Face2	ID = 2	surface type  = Plane
+			Entity type = unknown type
+		(7) MateCoincident
+			Entity type = Face2	ID = 4	surface type  = Plane
+			Entity type = unknown type
+		(8) MateCoincident
+			Entity type = Face2	ID = 1	surface type  = Plane
+			Entity type = Face2	ID = 2	surface type  = Plane
+
+
+Component name: B_jointV3-1
+Component name: B_jointV3-2
+Component name: B_jointV3-3
+Component name: 小r_直徑128-1
+Component name: 端效器零件_中間-2
+Component name: 端效器零件_中間V2-1
+	Feature name: 結合於 端效器組合V2, type: RefDependFolder
+		(1) MateConcentric
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+			Entity type = Face2	ID = 19	surface type  = Cylinder
+		(2) MateConcentric
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+			Entity type = Face2	ID = 21	surface type  = Cylinder
+		(3) MateConcentric
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+			Entity type = Face2	ID = 9	surface type  = Cylinder
+		(4) MateConcentric
+			Entity type = Face2	ID = 4	surface type  = Cylinder
+			Entity type = Face2	ID = 7	surface type  = Cylinder
+		(5) MateConcentric
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+			Entity type = Face2	ID = 25	surface type  = Cylinder
+		(6) MateConcentric
+			Entity type = Face2	ID = 5	surface type  = Cylinder
+			Entity type = Face2	ID = 27	surface type  = Cylinder
+		(7) MateCoincident
+			Entity type = SketchPoint
+			Entity type = unknown type
+		(8) MateCoincident
+			Entity type = Face2	ID = 2	surface type  = Plane
+			Entity type = Face2	ID = 1	surface type  = Plane
+		(9) MateCoincident
+			Entity type = Face2	ID = 26	surface type  = Plane
+			Entity type = Face2	ID = 5	surface type  = Plane
+		(10) MateCoincident
+			Entity type = Face2	ID = 26	surface type  = Plane
+			Entity type = Face2	ID = 4	surface type  = Plane
+		(11) MateCoincident
+			Entity type = Face2	ID = 26	surface type  = Plane
+			Entity type = Face2	ID = 3	surface type  = Plane
+		(12) MateCoincident
+			Entity type = Face2	ID = 2	surface type  = Plane
+			Entity type = unknown type
+		(13) MateCoincident
+			Entity type = Face2	ID = 4	surface type  = Plane
+			Entity type = unknown type
+		(14) MateCoincident
+			Entity type = Face2	ID = 1	surface type  = Plane
+			Entity type = Face2	ID = 2	surface type  = Plane
+
+

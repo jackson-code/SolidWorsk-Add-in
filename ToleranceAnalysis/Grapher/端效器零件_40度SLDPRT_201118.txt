@@ -1,0 +1,81 @@
+Component name: 端效器零件_40度SLDPRT
+		Operation name: 填料-伸長1, type: Extrusion
+			Full name = D1@填料-伸長1@端效器零件_40度.Part
+			Full name = D1@草圖2@端效器零件_40度.Part
+			Full name = D2@草圖2@端效器零件_40度.Part
+			3 Face ID = 1, 2, 3, 
+
+		Operation name: 填料-伸長2, type: Boss
+			Full name = D1@平面1@端效器零件_40度.Part
+			Full name = D1@填料-伸長2@端效器零件_40度.Part
+			Full name = D1@草圖3@端效器零件_40度.Part
+			5 Face ID = 4, 5, 6, 2, 3, 
+
+		Operation name: 除料-伸長1, type: Cut
+			Full name = D1@除料-伸長1@端效器零件_40度.Part
+			Full name = D1@草圖5@端效器零件_40度.Part
+			2 Face ID = 7, 8, 
+
+		Operation name: 除料-伸長2, type: Cut
+			Full name = D1@除料-伸長2@端效器零件_40度.Part
+			Full name = D1@草圖7@端效器零件_40度.Part
+			1 Face ID = 9, 
+
+		Operation name: 除料-伸長3, type: Cut
+			Full name = D1@除料-伸長3@端效器零件_40度.Part
+			Full name = D1@草圖8@端效器零件_40度.Part
+			Full name = D2@草圖8@端效器零件_40度.Part
+			Full name = D3@草圖8@端效器零件_40度.Part
+			Full name = D4@草圖8@端效器零件_40度.Part
+			16 Face ID = 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 
+
+		Operation name: 填料-伸長3, type: Boss
+			3 Face ID = 4, 2, 3, 
+
+		Operation name: 填料-伸長4, type: Boss
+			Full name = D1@填料-伸長4@端效器零件_40度.Part
+			3 Face ID = 26, 2, 3, 
+
+		Operation name: 除料-伸長4, type: Cut
+			1 Face ID = 5, 
+
+		Operation name: 填料-伸長5, type: Boss
+			Full name = D1@填料-伸長5@端效器零件_40度.Part
+			4 Face ID = 26, 2, 3, 1, 
+
+		Operation name: 除料-伸長5, type: Cut
+			Full name = D1@草圖15@端效器零件_40度.Part
+			Full name = D2@草圖15@端效器零件_40度.Part
+			Full name = D3@草圖15@端效器零件_40度.Part
+			Full name = D4@草圖15@端效器零件_40度.Part
+			Full name = D5@草圖15@端效器零件_40度.Part
+			4 Face ID = 27, 28, 29, 30, 
+
+		Operation name: 除料-伸長6, type: Cut
+			Full name = D1@除料-伸長6@端效器零件_40度.Part
+			Full name = D1@草圖16@端效器零件_40度.Part
+			10 Face ID = 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 
+
+		Operation name: 除料-伸長7, type: Cut
+			Full name = D1@草圖17@端效器零件_40度.Part
+			Full name = D2@草圖17@端效器零件_40度.Part
+			2 Face ID = 31, 36, 
+
+		Operation name: 導角1, type: Chamfer
+			Full name = D1@導角1@端效器零件_40度.Part
+			Full name = D2@導角1@端效器零件_40度.Part
+			2 Face ID = 41, 42, 
+
+		Operation name: 基準軸1, type: RefAxis
+			0 Face ID = 
+
+		Operation name: 基準軸2, type: RefAxis
+			0 Face ID = 
+
+		Operation name: 基準軸3, type: RefAxis
+			0 Face ID = 
+
+		Operation name: 除料-伸長8, type: Cut
+			Full name = D1@除料-伸長8@端效器零件_40度.Part
+			1 Face ID = 43, 
+

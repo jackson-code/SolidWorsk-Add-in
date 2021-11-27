@@ -1,0 +1,175 @@
+Component name: HFS5_2060_120-1
+	Feature name: 結合於 底座輻射鋁擠組合, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = Face2	ID = 144	surface type  = Plane
+			Entity type = Face2	ID = 50	surface type  = Plane
+		(2) MateCoincident
+			Entity type = Face2	ID = 130	surface type  = Plane
+			Entity type = Face2	ID = 40	surface type  = Plane
+		(3) MateCoincident
+			Entity type = Face2	ID = 140	surface type  = Plane
+			Entity type = Face2	ID = 38	surface type  = Plane
+		(4) MateCoincident
+			Entity type = Face2	ID = 44	surface type  = Plane
+			Entity type = Face2	ID = 38	surface type  = Plane
+		(5) MateCoincident
+			Entity type = Face2	ID = 19	surface type  = Plane
+			Entity type = Face2	ID = 40	surface type  = Plane
+		(6) MateCoincident
+			Entity type = Face2	ID = 144	surface type  = Plane
+			Entity type = Face2	ID = 50	surface type  = Plane
+		(7) MateCoincident
+			Entity type = Face2	ID = 87	surface type  = Plane
+			Entity type = Face2	ID = 44	surface type  = Plane
+		(8) MateCoincident
+			Entity type = Face2	ID = 87	surface type  = Plane
+			Entity type = Face2	ID = 44	surface type  = Plane
+		(9) MateCoincident
+			Entity type = Face2	ID = 100	surface type  = Plane
+			Entity type = Face2	ID = 44	surface type  = Plane
+
+
+Component name: 角塊組合-1
+	Feature name: 結合於 底座輻射鋁擠組合, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = Face2	ID = 42	surface type  = Plane
+			Entity type = Face2	ID = 43	surface type  = Plane
+		(2) MateCoincident
+			Entity type = Face2	ID = 50	surface type  = Plane
+			Entity type = Face2	ID = 50	surface type  = Plane
+		(3) MateCoincident
+			Entity type = Face2	ID = 87	surface type  = Plane
+			Entity type = Face2	ID = 44	surface type  = Plane
+
+
+Component name: 角塊組合-2
+	Feature name: 結合於 底座輻射鋁擠組合, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = Face2	ID = 42	surface type  = Plane
+			Entity type = Face2	ID = 43	surface type  = Plane
+		(2) MateCoincident
+			Entity type = Face2	ID = 42	surface type  = Plane
+			Entity type = Face2	ID = 43	surface type  = Plane
+		(3) MateCoincident
+			Entity type = Face2	ID = 50	surface type  = Plane
+			Entity type = Face2	ID = 50	surface type  = Plane
+		(4) MateCoincident
+			Entity type = Face2	ID = 50	surface type  = Plane
+			Entity type = Face2	ID = 50	surface type  = Plane
+		(5) MateCoincident
+			Entity type = Face2	ID = 144	surface type  = Plane
+			Entity type = Face2	ID = 50	surface type  = Plane
+		(6) MateCoincident
+			Entity type = SketchLine
+			Entity type = SketchLine
+		(7) MateCoincident
+			Entity type = Face2	ID = 87	surface type  = Plane
+			Entity type = Face2	ID = 44	surface type  = Plane
+
+
+Component name: 角塊組合-3
+	Feature name: 結合於 底座輻射鋁擠組合, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = Face2	ID = 42	surface type  = Plane
+			Entity type = Face2	ID = 43	surface type  = Plane
+		(2) MateCoincident
+			Entity type = Face2	ID = 50	surface type  = Plane
+			Entity type = Face2	ID = 50	surface type  = Plane
+		(3) MateCoincident
+			Entity type = Face2	ID = 100	surface type  = Plane
+			Entity type = Face2	ID = 44	surface type  = Plane
+
+
+Component name: 角塊組合-4
+	Feature name: 結合於 底座輻射鋁擠組合, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = Face2	ID = 42	surface type  = Plane
+			Entity type = Face2	ID = 43	surface type  = Plane
+		(2) MateCoincident
+			Entity type = Face2	ID = 50	surface type  = Plane
+			Entity type = Face2	ID = 50	surface type  = Plane
+		(3) MateCoincident
+			Entity type = SketchLine
+			Entity type = SketchLine
+
+
+Component name: 角塊組合-5
+	Feature name: 結合於 底座輻射鋁擠組合, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = Face2	ID = 42	surface type  = Plane
+			Entity type = Face2	ID = 43	surface type  = Plane
+		(2) MateCoincident
+			Entity type = Face2	ID = 42	surface type  = Plane
+			Entity type = Face2	ID = 43	surface type  = Plane
+		(3) MateCoincident
+			Entity type = Face2	ID = 50	surface type  = Plane
+			Entity type = Face2	ID = 50	surface type  = Plane
+		(4) MateCoincident
+			Entity type = Face2	ID = 50	surface type  = Plane
+			Entity type = Face2	ID = 50	surface type  = Plane
+		(5) MateCoincident
+			Entity type = SketchLine
+			Entity type = SketchLine
+
+
+Component name: 角塊組合-6
+	Feature name: 結合於 底座輻射鋁擠組合, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = Face2	ID = 42	surface type  = Plane
+			Entity type = Face2	ID = 43	surface type  = Plane
+		(2) MateCoincident
+			Entity type = Face2	ID = 50	surface type  = Plane
+			Entity type = Face2	ID = 50	surface type  = Plane
+		(3) MateCoincident
+			Entity type = SketchLine
+			Entity type = SketchLine
+		(4) MateCoincident
+			Entity type = Face2	ID = 144	surface type  = Plane
+			Entity type = Face2	ID = 50	surface type  = Plane
+
+
+Component name: HBKUS5_SST-1
+	Feature name: 結合於 底座輻射鋁擠組合, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = SketchLine
+			Entity type = SketchLine
+		(2) MateCoincident
+			Entity type = Face2	ID = 44	surface type  = Plane
+			Entity type = Face2	ID = 38	surface type  = Plane
+		(3) MateCoincident
+			Entity type = Face2	ID = 40	surface type  = Plane
+			Entity type = Face2	ID = 53	surface type  = Plane
+		(4) MateCoincident
+			Entity type = Face2	ID = 19	surface type  = Plane
+			Entity type = Face2	ID = 40	surface type  = Plane
+
+
+Component name: HBKUS5_SST-2
+	Feature name: 結合於 底座輻射鋁擠組合, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = SketchLine
+			Entity type = SketchLine
+		(2) MateCoincident
+			Entity type = Face2	ID = 140	surface type  = Plane
+			Entity type = Face2	ID = 38	surface type  = Plane
+		(3) MateCoincident
+			Entity type = Face2	ID = 40	surface type  = Plane
+			Entity type = Face2	ID = 53	surface type  = Plane
+		(4) MateCoincident
+			Entity type = Face2	ID = 40	surface type  = Plane
+			Entity type = Face2	ID = 54	surface type  = Plane
+
+
+Component name: HBKUS5_SST-3
+	Feature name: 結合於 底座輻射鋁擠組合, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = SketchLine
+			Entity type = SketchLine
+		(2) MateCoincident
+			Entity type = Face2	ID = 130	surface type  = Plane
+			Entity type = Face2	ID = 40	surface type  = Plane
+		(3) MateCoincident
+			Entity type = Face2	ID = 40	surface type  = Plane
+			Entity type = Face2	ID = 54	surface type  = Plane
+
+
