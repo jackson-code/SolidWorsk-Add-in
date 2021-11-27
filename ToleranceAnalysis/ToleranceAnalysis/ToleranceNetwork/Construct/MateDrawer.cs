@@ -47,7 +47,7 @@ namespace SWCSharpAddin.ToleranceNetwork.Construct
             }
 
             // 一個結合，至少會遍歷到兩次(兩個不同的GF共同有一個結合)，因此會重複產生兩個同樣的MC，把其中一個刪掉
-            RemoveDuplicateMC(tnAssembly);
+            //RemoveDuplicateMC(tnAssembly);
 
             //MessageBox.Show(toDisplay); 
 
@@ -145,17 +145,17 @@ namespace SWCSharpAddin.ToleranceNetwork.Construct
                         switch (swDoc.GetType())
                         {
                             case (Int32)swDocumentTypes_e.swDocPART:
-                                GetMate(swChild.GetFirstChild());
+                                GetMate(swChild.GetFirstChild(), partialUniqueId + "@" + compName);
                                 break;
 
                             case (Int32)swDocumentTypes_e.swDocASSEMBLY:
                                 // 開啟組合件檔
                                 iSwApp.ActivateDoc3(swDoc.GetPathName(), false, (int)swRebuildOnActivation_e.swDontRebuildActiveDoc, 0);
                                 // 在主文件的product TN直接加入組合件檔中的結合
-                                MateDrawer mateDrawer = new MateDrawer(iSwApp, this.tnAssembly, false, absolutePath, partialUniqueId + compName);
+                                MateDrawer mateDrawer = new MateDrawer(iSwApp, this.tnAssembly, false, absolutePath, partialUniqueId + "@" + compName);
                                 iSwApp.CloseDoc(swDoc.GetPathName());
                                 // 取得組合件檔在主文件中的結合
-                                GetMate(swChild.GetFirstChild());
+                                GetMate(swChild.GetFirstChild(), partialUniqueId + "@" + compName);
                                 break;
 
                             default:
@@ -169,7 +169,7 @@ namespace SWCSharpAddin.ToleranceNetwork.Construct
             }
         }
 
-        private void GetMate(TreeControlItem swNode)
+        private void GetMate(TreeControlItem swNode, string partialUniqueId)
         {
             if (swNode == null)
             {
@@ -189,14 +189,14 @@ namespace SWCSharpAddin.ToleranceNetwork.Construct
                 {
                     toDisplay += "\t\t(" + count + ") ";
                     count++;
-                    ConstructMC(node);
+                    ConstructMC(node, partialUniqueId);
                     node = node.GetNext();
                 }
                 toDisplay += "\n\n";
             }
         }
 
-        private void ConstructMC(TreeControlItem swFtMgrNode)
+        private void ConstructMC(TreeControlItem swFtMgrNode, string partialUniqueId)
         {
             IFeature swFeat = swFtMgrNode.Object as IFeature;
             string swFeatType = swFeat.GetTypeName();
@@ -332,11 +332,11 @@ namespace SWCSharpAddin.ToleranceNetwork.Construct
 
             if (entities != null)
             {
-                ConnectToGF(entities, new TnMateConstraint(mateType));
+                ConnectToGF(entities, new TnMateConstraint(mateType), partialUniqueId);
             }
         }
 
-        private void ConnectToGF(object[] entities, TnMateConstraint mc)
+        private void ConnectToGF(object[] entities, TnMateConstraint mc, string partialUniqueId)
         {
             foreach (object entity in entities)
             {
@@ -370,15 +370,24 @@ namespace SWCSharpAddin.ToleranceNetwork.Construct
                     TnGeometricFeature tnFace;
                     if (swComp == null) // 開啟的文件為零件檔
                     {
-                        tnFace = tnAssembly.FindGF("", swFeat.Name, swFaceId, TnGeometricFeatureType_e.Face);
+                        //tnFace = tnAssembly.FindGF("", swFeat.Name, swFaceId, TnGeometricFeatureType_e.Face);
+                        tnFace = tnAssembly.FindGF(partialUniqueId + " @" + swFeat.Name + " : " + "Face" + swFaceId.ToString(), TnGeometricFeatureType_e.Face);
                     }
                     else // 開啟的文件為組合件檔
                     {
-                        tnFace = tnAssembly.FindGF(swComp.Name2, swFeat.Name, swFaceId, TnGeometricFeatureType_e.Face);
+                        //tnFace = tnAssembly.FindGF(swComp.Name2, swFeat.Name, swFaceId, TnGeometricFeatureType_e.Face);
+                        tnFace = tnAssembly.FindGF(partialUniqueId + " @" + swFeat.Name + " : " + "Face" + swFaceId.ToString(), TnGeometricFeatureType_e.Face);
                     }
 
-                    tnFace.LastMC = mc;
-                    mc.AppliedTo.Add(tnFace);
+                    if (tnFace == null)
+                    {
+
+                    }
+                    else
+                    {
+                        tnFace.LastMC = mc;
+                        mc.AppliedTo.Add(tnFace);
+                    }
                 }
                 else if (entity is IRefAxis)
                 {

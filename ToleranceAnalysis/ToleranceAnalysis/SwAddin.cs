@@ -427,7 +427,7 @@ namespace SWCSharpAddin
                     tnAssembly = new TnAssembly(FileHelper.GetSwFileName(iSwApp));
                     grapher = new Grapher(iSwApp, tnAssembly, true, absolutePath, "");
                     string currentFileName = FileHelper.GetSwFileName(iSwApp);
-                    mateDrawer = new MateDrawer(iSwApp, tnAssembly, true, absolutePath, tnAssembly.Name);
+                    mateDrawer = new MateDrawer(iSwApp, tnAssembly, true, absolutePath, "@" + tnAssembly.Name);
                     break;
 
                 case (int)swDocumentTypes_e.swDocDRAWING:
