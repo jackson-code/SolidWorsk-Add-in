@@ -145,7 +145,7 @@ namespace SWCSharpAddin.ToleranceNetwork.Construct
                         switch (swDoc.GetType())
                         {
                             case (Int32)swDocumentTypes_e.swDocPART:
-                                GetMate(swChild.GetFirstChild(), partialUniqueId + "@" + compName);
+                                GetMate(swChild.GetFirstChild(), partialUniqueId);
                                 break;
 
                             case (Int32)swDocumentTypes_e.swDocASSEMBLY:
@@ -198,6 +198,10 @@ namespace SWCSharpAddin.ToleranceNetwork.Construct
 
         private void ConstructMC(TreeControlItem swFtMgrNode, string partialUniqueId)
         {
+            // TODO: 
+            // 問題: 同一個MC，但是標註的兩個face在不同組合件上，會在同一個檔案中出現兩次，各自建立MC，最後有兩個MC
+            // 試看看把IFeature存起來，用IFeature去判斷是否是同一個MC，壁面重複建立MC
+
             IFeature swFeat = swFtMgrNode.Object as IFeature;
             string swFeatType = swFeat.GetTypeName();
             toDisplay += swFeatType + "\n";
@@ -363,6 +367,9 @@ namespace SWCSharpAddin.ToleranceNetwork.Construct
 
                     IEntity en = entity as IEntity;
                     IComponent2 swComp = en.IGetComponent2();
+                    // debug完可刪
+                    string name = swComp.Name;
+                    
                     //Entity en = entity as Entity;
                     //IComponent2 swComp = en.GetComponent();
 
@@ -371,12 +378,14 @@ namespace SWCSharpAddin.ToleranceNetwork.Construct
                     if (swComp == null) // 開啟的文件為零件檔
                     {
                         //tnFace = tnAssembly.FindGF("", swFeat.Name, swFaceId, TnGeometricFeatureType_e.Face);
-                        tnFace = tnAssembly.FindGF(partialUniqueId + " @" + swFeat.Name + " : " + "Face" + swFaceId.ToString(), TnGeometricFeatureType_e.Face);
+                        tnFace = tnAssembly.FindGF(partialUniqueId + "@" + swFeat.Name + ":" + "Face" + swFaceId.ToString(), TnGeometricFeatureType_e.Face);
                     }
                     else // 開啟的文件為組合件檔
                     {
                         //tnFace = tnAssembly.FindGF(swComp.Name2, swFeat.Name, swFaceId, TnGeometricFeatureType_e.Face);
-                        tnFace = tnAssembly.FindGF(partialUniqueId + " @" + swFeat.Name + " : " + "Face" + swFaceId.ToString(), TnGeometricFeatureType_e.Face);
+                        string[] names = swComp.Name.Split('/');
+                        string swCompNameNoAssembly = names.Last();
+                        tnFace = tnAssembly.FindGF(partialUniqueId + "@" + swCompNameNoAssembly + "@" + swFeat.Name + ":" + "Face" + swFaceId.ToString(), TnGeometricFeatureType_e.Face);
                     }
 
                     if (tnFace == null)

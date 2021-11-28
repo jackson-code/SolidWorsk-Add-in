@@ -89,7 +89,7 @@ namespace SWCSharpAddin.ToleranceNetwork.TNData
             (string compName, string opName, Int32 id, string surfaceType, double[] surfaceParam, string partialUniqueId)
         {
             Id = id;
-            UniqueId = partialUniqueId + " @" + opName + " : " + "Face" + id.ToString();
+            UniqueId = partialUniqueId + "@" + opName + ":" + "Face" + id.ToString();
             Type = TnGeometricFeatureType_e.Face;
             SurfaceType = surfaceType;
             SurfaceParam = surfaceParam.ToImmutableList();
@@ -100,7 +100,7 @@ namespace SWCSharpAddin.ToleranceNetwork.TNData
             (string compName, string opName, Int32 id, TnGeometricFeatureType_e type, double length)
         {
             Id = id;
-            UniqueId = compName + " @" + opName + " : " + "Edge" + id.ToString();
+            UniqueId = compName + "@" + opName + ":" + "Edge" + id.ToString();
             Type = type;
             listGC.Add(new TnGeometricConstraint(length, this, this));
             Datum = String.Empty;
