@@ -152,10 +152,12 @@ namespace SWCSharpAddin.ToleranceNetwork.Construct
                                 // 開啟組合件檔
                                 iSwApp.ActivateDoc3(swDoc.GetPathName(), false, (int)swRebuildOnActivation_e.swDontRebuildActiveDoc, 0);
                                 // 在主文件的product TN直接加入組合件檔中的結合
+                                // TODO: compName刪除? 目的?
                                 MateDrawer mateDrawer = new MateDrawer(iSwApp, this.tnAssembly, false, absolutePath, partialUniqueId + "@" + compName);
                                 iSwApp.CloseDoc(swDoc.GetPathName());
                                 // 取得組合件檔在主文件中的結合
-                                GetMate(swChild.GetFirstChild(), partialUniqueId + "@" + compName);
+                                //GetMate(swChild.GetFirstChild(), partialUniqueId + "@" + compName);
+                                GetMate(swChild.GetFirstChild(), partialUniqueId);
                                 break;
 
                             default:
@@ -173,7 +175,8 @@ namespace SWCSharpAddin.ToleranceNetwork.Construct
         {
             if (swNode == null)
             {
-                toDisplay += "ERROR: no mate folder, check the file";
+                toDisplay += "ERROR: no mate folder, check the file\n";
+                return;
             }
 
             IFeature swFeat = swNode.Object as IFeature;
@@ -196,12 +199,10 @@ namespace SWCSharpAddin.ToleranceNetwork.Construct
             }
         }
 
+        Dictionary<IFeature, TnMateConstraint> existingSwFeat = new Dictionary<IFeature, TnMateConstraint>();
+
         private void ConstructMC(TreeControlItem swFtMgrNode, string partialUniqueId)
         {
-            // TODO: 
-            // 問題: 同一個MC，但是標註的兩個face在不同組合件上，會在同一個檔案中出現兩次，各自建立MC，最後有兩個MC
-            // 試看看把IFeature存起來，用IFeature去判斷是否是同一個MC，壁面重複建立MC
-
             IFeature swFeat = swFtMgrNode.Object as IFeature;
             string swFeatType = swFeat.GetTypeName();
             toDisplay += swFeatType + "\n";
@@ -336,7 +337,28 @@ namespace SWCSharpAddin.ToleranceNetwork.Construct
 
             if (entities != null)
             {
-                ConnectToGF(entities, new TnMateConstraint(mateType), partialUniqueId);
+                TnMateConstraint mc = null;
+                // TODO: 
+                // 問題: 同一個MC，但是標註的兩個face在不同組合件上，會在同一個檔案中出現兩次，各自建立MC，最後有兩個MC
+                // 試看看把IFeature存起來，用IFeature去判斷是否是同一個MC，壁面重複建立MC
+                if (existingSwFeat.ContainsKey(swFeat))
+                {
+                    toDisplay += swFeatType + " existed\n";
+                    mc = existingSwFeat[swFeat];
+                    //remove
+                    //existingSwFeat.Remove(swFeat);
+                }
+                else
+                {
+                    mc = new TnMateConstraint(mateType);
+                    existingSwFeat.Add(swFeat, mc);
+                }
+
+                if (mc.AppliedTo.Count() < 2)
+                {
+                    ConnectToGF(entities, mc, partialUniqueId);
+                }
+
             }
         }
 
@@ -383,8 +405,9 @@ namespace SWCSharpAddin.ToleranceNetwork.Construct
                     else // 開啟的文件為組合件檔
                     {
                         //tnFace = tnAssembly.FindGF(swComp.Name2, swFeat.Name, swFaceId, TnGeometricFeatureType_e.Face);
-                        string[] names = swComp.Name.Split('/');
-                        string swCompNameNoAssembly = names.Last();
+                        //string[] names = swComp.Name.Split('/');
+                        //string swCompNameNoAssembly = names.Last();
+                        string swCompNameNoAssembly = swComp.Name.Replace('/', '@');
                         tnFace = tnAssembly.FindGF(partialUniqueId + "@" + swCompNameNoAssembly + "@" + swFeat.Name + ":" + "Face" + swFaceId.ToString(), TnGeometricFeatureType_e.Face);
                     }
 

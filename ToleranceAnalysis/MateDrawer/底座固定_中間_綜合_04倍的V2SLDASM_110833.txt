@@ -1,0 +1,478 @@
+Component name: 鋁擠2060_板金-1
+	Feature name: 結合於 底座固定_中間_綜合_0.4倍的V2, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = unknown type
+			Entity type = unknown type
+		(2) MateCoincident
+			Entity type = Face2	ID = 32	surface type  = Plane
+			Entity type = Face2	ID = 32	surface type  = Plane
+		(3) MateCoincident
+			Entity type = SketchLine
+			Entity type = unknown type
+		(4) MateCoincident
+			Entity type = Face2	ID = 168	surface type  = Plane
+			Entity type = unknown type
+		(5) MateCoincident
+			Entity type = Face2	ID = 19	surface type  = Plane
+			Entity type = unknown type
+		(6) MateCoincident
+			Entity type = SketchLine
+			Entity type = SketchLine
+		(7) MateCoincident
+			Entity type = Face2	ID = 116	surface type  = Plane
+			Entity type = Face2	ID = 19	surface type  = Plane
+		(8) MateCoincident
+			Entity type = SketchPoint
+			Entity type = SketchPoint
+		(9) MateCoincident
+			Entity type = Face2	ID = 48	surface type  = Plane
+			Entity type = Face2	ID = 16	surface type  = Plane
+		(10) MateCoincident
+			Entity type = Face2	ID = 66	surface type  = Plane
+			Entity type = Face2	ID = 14	surface type  = Plane
+		(11) MateCoincident
+			Entity type = Face2	ID = 48	surface type  = Plane
+			Entity type = Face2	ID = 100	surface type  = Plane
+
+
+Component name: 鋁擠2060_板金-2
+	Feature name: 結合於 底座固定_中間_綜合_0.4倍的V2, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = unknown type
+			Entity type = unknown type
+		(2) MateCoincident
+			Entity type = Face2	ID = 32	surface type  = Plane
+			Entity type = Face2	ID = 32	surface type  = Plane
+		(3) MateCoincident
+MateCoincident existed
+		(4) MateCoincident
+			Entity type = SketchLine
+			Entity type = unknown type
+		(5) MateCoincident
+			Entity type = Face2	ID = 48	surface type  = Plane
+			Entity type = unknown type
+		(6) MateCoincident
+			Entity type = Face2	ID = 19	surface type  = Plane
+			Entity type = unknown type
+		(7) MatePlanarAngleDim
+			Entity type = Face2	ID = 116	surface type  = Plane
+			Entity type = Face2	ID = 116	surface type  = Plane
+		(8) MateCoincident
+			Entity type = SketchLine
+			Entity type = SketchLine
+		(9) MateCoincident
+			Entity type = Face2	ID = 100	surface type  = Plane
+			Entity type = Face2	ID = 54	surface type  = Plane
+		(10) MateCoincident
+			Entity type = SketchPoint
+			Entity type = SketchPoint
+		(11) MateCoincident
+			Entity type = Face2	ID = 48	surface type  = Plane
+			Entity type = Face2	ID = 16	surface type  = Plane
+		(12) MateCoincident
+			Entity type = Face2	ID = 66	surface type  = Plane
+			Entity type = Face2	ID = 14	surface type  = Plane
+		(13) MateCoincident
+			Entity type = Face2	ID = 19	surface type  = Plane
+			Entity type = Face2	ID = 18	surface type  = Plane
+		(14) MateCoincident
+			Entity type = Face2	ID = 168	surface type  = Plane
+			Entity type = Face2	ID = 84	surface type  = Plane
+
+
+Component name: 鋁擠2060_板金-3
+	Feature name: 結合於 底座固定_中間_綜合_0.4倍的V2, type: RefDependFolder
+		(1) MateCoincident
+MateCoincident existed
+			Entity type = unknown type
+			Entity type = unknown type
+		(2) MateCoincident
+MateCoincident existed
+			Entity type = unknown type
+			Entity type = unknown type
+		(3) MateCoincident
+			Entity type = Face2	ID = 19	surface type  = Plane
+			Entity type = unknown type
+		(4) MateCoincident
+			Entity type = Face2	ID = 48	surface type  = Plane
+			Entity type = unknown type
+		(5) MateCoincident
+			Entity type = SketchLine
+			Entity type = unknown type
+		(6) MateCoincident
+MateCoincident existed
+		(7) MateParallel
+			Entity type = Face2	ID = 168	surface type  = Plane
+			Entity type = Face2	ID = 18	surface type  = Plane
+		(8) MatePlanarAngleDim
+MatePlanarAngleDim existed
+		(9) MateCoincident
+			Entity type = SketchLine
+			Entity type = SketchLine
+		(10) MateCoincident
+			Entity type = Face2	ID = 132	surface type  = Plane
+			Entity type = Face2	ID = 53	surface type  = Plane
+		(11) MateDistanceDim
+			Entity type = Face2	ID = 87	surface type  = Plane
+			Entity type = Face2	ID = 32	surface type  = Plane
+		(12) MateCoincident
+			Entity type = Face2	ID = 48	surface type  = Plane
+			Entity type = Face2	ID = 16	surface type  = Plane
+		(13) MateCoincident
+			Entity type = Face2	ID = 66	surface type  = Plane
+			Entity type = Face2	ID = 14	surface type  = Plane
+		(14) MateCoincident
+			Entity type = Face2	ID = 19	surface type  = Plane
+			Entity type = Face2	ID = 987	surface type  = Plane
+		(15) MateCoincident
+			Entity type = Face2	ID = 48	surface type  = Plane
+			Entity type = Face2	ID = 168	surface type  = Plane
+
+
+Component name: L型_配合旋轉平台底座-1
+Component name: L型_2-1
+Component name: L型_3-1
+Component name: M-BRS4-6060-05_光學桌-1
+	Feature name: 結合於 底座固定_中間_綜合_0.4倍的V2, type: RefDependFolder
+		(1) MateCoincident
+			Entity type = unknown type
+			Entity type = Face2	ID = 987	surface type  = Plane
+		(2) MateParallel
+MateParallel existed
+		(3) MateConcentric
+			Entity type = unknown type
+			Entity type = Face2	ID = 770	surface type  = Cylinder
+		(4) MateConcentric
+			Entity type = unknown type
+			Entity type = Face2	ID = 748	surface type  = Cylinder
+		(5) MateCoincident
+			Entity type = Face2	ID = 18	surface type  = Plane
+			Entity type = unknown type
+		(6) MateCoincident
+			Entity type = Face2	ID = 9	surface type  = Plane
+			Entity type = unknown type
+		(7) MateConcentric
+			Entity type = Face2	ID = 936	surface type  = Cylinder
+			Entity type = unknown type
+		(8) MateParallel
+			Entity type = Face2	ID = 987	surface type  = Plane
+			Entity type = Face2	ID = 1	surface type  = Plane
+		(9) MateCoincident
+			Entity type = Face2	ID = 987	surface type  = Plane
+			Entity type = Face2	ID = 1	surface type  = Plane
+		(10) MateConcentric
+			Entity type = unknown type
+			Entity type = Face2	ID = 606	surface type  = Cylinder
+		(11) MateParallel
+			Entity type = Face2	ID = 18	surface type  = Plane
+			Entity type = Face2	ID = 48	surface type  = Plane
+		(12) MateCoincident
+			Entity type = Face2	ID = 987	surface type  = Plane
+			Entity type = Face2	ID = 15	surface type  = Plane
+		(13) MateConcentric
+			Entity type = Face2	ID = 769	surface type  = Cylinder
+			Entity type = Face2	ID = 32	surface type  = Cylinder
+		(14) MateConcentric
+			Entity type = Face2	ID = 747	surface type  = Cylinder
+			Entity type = Face2	ID = 33	surface type  = Cylinder
+		(15) MateCoincident
+			Entity type = Face2	ID = 987	surface type  = Plane
+			Entity type = Face2	ID = 15	surface type  = Plane
+		(16) MateCoincident
+			Entity type = Face2	ID = 987	surface type  = Plane
+			Entity type = Face2	ID = 15	surface type  = Plane
+		(17) MateCoincident
+MateCoincident existed
+		(18) MateConcentric
+			Entity type = Face2	ID = 586	surface type  = Cylinder
+			Entity type = Face2	ID = 32	surface type  = Cylinder
+		(19) MateConcentric
+			Entity type = Face2	ID = 585	surface type  = Cylinder
+			Entity type = unknown type
+		(20) MateConcentric
+			Entity type = Face2	ID = 938	surface type  = Cylinder
+			Entity type = unknown type
+		(21) MateConcentric
+			Entity type = Face2	ID = 959	surface type  = Cylinder
+			Entity type = unknown type
+		(22) MateConcentric
+			Entity type = Face2	ID = 747	surface type  = Cylinder
+			Entity type = Face2	ID = 33	surface type  = Cylinder
+		(23) MateConcentric
+			Entity type = Face2	ID = 769	surface type  = Cylinder
+			Entity type = Face2	ID = 32	surface type  = Cylinder
+		(24) MateConcentric
+			Entity type = Face2	ID = 747	surface type  = Cylinder
+			Entity type = Face2	ID = 32	surface type  = Cylinder
+		(25) MateConcentric
+			Entity type = Face2	ID = 725	surface type  = Cylinder
+			Entity type = Face2	ID = 33	surface type  = Cylinder
+		(26) MateConcentric
+			Entity type = Face2	ID = 747	surface type  = Cylinder
+			Entity type = Face2	ID = 32	surface type  = Cylinder
+		(27) MateConcentric
+			Entity type = Face2	ID = 725	surface type  = Cylinder
+			Entity type = Face2	ID = 33	surface type  = Cylinder
+
+
+Component name: BOX_SCB6_20-2
+Component name: BOX_SCB6_20-3
+Component name: BOX_SCB6_20-5
+Component name: BOX_SCB6_20-6
+Component name: BOX_SCB6_20-8
+Component name: BOX_SCB6_20-9
+Component name: SCB5_15-9
+Component name: SCB5_15-10
+Component name: SCB5_15-11
+Component name: SCB5_15-12
+Component name: SCB5_15-13
+Component name: SCB5_15-14
+Component name: SCB5_15-15
+Component name: SCB5_15-16
+Component name: SCB5_15-17
+Component name: SCB5_15-18
+Component name: SCB5_15-19
+Component name: SCB5_15-20
+Component name: 底座中間六邊形V3-1
+	Feature name: 結合於 底座固定_中間_綜合_0.4倍的V2, type: RefDependFolder
+		(1) MateParallel
+MateParallel existed
+		(2) MateCoincident
+			Entity type = unknown type
+			Entity type = SketchPoint
+		(3) MateCoincident
+			Entity type = Face2	ID = 2	surface type  = Plane
+			Entity type = Face2	ID = 49	surface type  = Plane
+		(4) MateCoincident
+			Entity type = unknown type
+			Entity type = SketchPoint
+		(5) MateParallel
+MateParallel existed
+		(6) MateCoincident
+			Entity type = Face2	ID = 48	surface type  = Plane
+			Entity type = Face2	ID = 50	surface type  = Plane
+		(7) MateCoincident
+			Entity type = Face2	ID = 2	surface type  = Plane
+			Entity type = Face2	ID = 49	surface type  = Plane
+		(8) MateCoincident
+			Entity type = SketchLine
+			Entity type = SketchLine
+		(9) MateCoincident
+			Entity type = Face2	ID = 49	surface type  = Plane
+			Entity type = Face2	ID = 144	surface type  = Plane
+		(10) MateCoincident
+			Entity type = SketchLine
+			Entity type = SketchLine
+		(11) MateCoincident
+			Entity type = SketchLine
+			Entity type = SketchLine
+		(12) MateCoincident
+			Entity type = Face2	ID = 50	surface type  = Plane
+			Entity type = Face2	ID = 144	surface type  = Plane
+
+
+Component name: 固定V2-1
+	Feature name: 結合於 底座固定_中間_綜合_0.4倍的V2, type: RefDependFolder
+		(1) MateCoincident
+MateCoincident existed
+		(2) MateCoincident
+MateCoincident existed
+			Entity type = unknown type
+			Entity type = SketchPoint
+
+
+Component name: 底座輻射鋁擠組合-1
+	Feature name: 結合於 底座固定_中間_綜合_0.4倍的V2, type: RefDependFolder
+		(1) MateCoincident
+MateCoincident existed
+			Entity type = SketchLine
+			Entity type = SketchLine
+		(2) MateCoincident
+MateCoincident existed
+		(3) MateCoincident
+MateCoincident existed
+		(4) MateDistanceDim
+MateDistanceDim existed
+		(5) MateCoincident
+			Entity type = Face2	ID = 87	surface type  = Plane
+			Entity type = Face2	ID = 100	surface type  = Plane
+		(6) MateCoincident
+MateCoincident existed
+		(7) MateCoincident
+MateCoincident existed
+		(8) MateCoincident
+MateCoincident existed
+			Entity type = SketchLine
+			Entity type = SketchLine
+
+
+Component name: 底座輻射鋁擠組合-2
+	Feature name: 結合於 底座固定_中間_綜合_0.4倍的V2, type: RefDependFolder
+		(1) MateCoincident
+MateCoincident existed
+			Entity type = SketchLine
+			Entity type = SketchLine
+		(2) MateCoincident
+MateCoincident existed
+		(3) MateCoincident
+MateCoincident existed
+		(4) MateCoincident
+			Entity type = Face2	ID = 100	surface type  = Plane
+			Entity type = Face2	ID = 100	surface type  = Plane
+		(5) MateCoincident
+MateCoincident existed
+			Entity type = SketchLine
+			Entity type = SketchLine
+		(6) MateCoincident
+MateCoincident existed
+
+
+Component name: 底座輻射鋁擠組合-3
+	Feature name: 結合於 底座固定_中間_綜合_0.4倍的V2, type: RefDependFolder
+		(1) MateCoincident
+MateCoincident existed
+			Entity type = SketchLine
+			Entity type = SketchLine
+		(2) MateCoincident
+MateCoincident existed
+		(3) MateCoincident
+MateCoincident existed
+		(4) MateCoincident
+MateCoincident existed
+		(5) MateCoincident
+MateCoincident existed
+			Entity type = SketchLine
+			Entity type = SketchLine
+
+
+Component name: HFLBTW6_60_1-1
+	Feature name: 結合於 底座固定_中間_綜合_0.4倍的V2, type: RefDependFolder
+		(1) MateCoincident
+MateCoincident existed
+		(2) MateCoincident
+MateCoincident existed
+		(3) MateCoincident
+MateCoincident existed
+		(4) MateConcentric
+MateConcentric existed
+		(5) MateConcentric
+MateConcentric existed
+		(6) MateConcentric
+MateConcentric existed
+		(7) MateConcentric
+MateConcentric existed
+		(8) MateCoincident
+			Entity type = Face2	ID = 20	surface type  = Plane
+			Entity type = Face2	ID = 48	surface type  = Plane
+		(9) MateCoincident
+			Entity type = Face2	ID = 1	surface type  = Plane
+			Entity type = Face2	ID = 66	surface type  = Plane
+		(10) MateCoincident
+			Entity type = Edge
+			Entity type = Face2	ID = 19	surface type  = Plane
+		(11) MateConcentric
+MateConcentric existed
+		(12) MateConcentric
+MateConcentric existed
+		(13) MateConcentric
+MateConcentric existed
+		(14) MateConcentric
+MateConcentric existed
+
+
+Component name: HFLBTW6_60_2_v2-2
+	Feature name: 結合於 底座固定_中間_綜合_0.4倍的V2, type: RefDependFolder
+		(1) MateCoincident
+MateCoincident existed
+		(2) MateCoincident
+MateCoincident existed
+		(3) MateCoincident
+MateCoincident existed
+		(4) MateConcentric
+MateConcentric existed
+		(5) MateConcentric
+MateConcentric existed
+			Entity type = Face2	ID = 585	surface type  = Cylinder
+			Entity type = unknown type
+		(6) MateCoincident
+			Entity type = Face2	ID = 20	surface type  = Plane
+			Entity type = Face2	ID = 116	surface type  = Plane
+		(7) MateCoincident
+			Entity type = Face2	ID = 1	surface type  = Plane
+			Entity type = Face2	ID = 134	surface type  = Plane
+		(8) MateCoincident
+			Entity type = Edge
+			Entity type = Face2	ID = 19	surface type  = Plane
+
+
+Component name: HFLBTW6_60_3-3
+	Feature name: 結合於 底座固定_中間_綜合_0.4倍的V2, type: RefDependFolder
+		(1) MateCoincident
+MateCoincident existed
+		(2) MateCoincident
+MateCoincident existed
+		(3) MateCoincident
+MateCoincident existed
+		(4) MateConcentric
+MateConcentric existed
+			Entity type = Face2	ID = 938	surface type  = Cylinder
+			Entity type = unknown type
+		(5) MateConcentric
+MateConcentric existed
+			Entity type = Face2	ID = 959	surface type  = Cylinder
+			Entity type = unknown type
+		(6) MateCoincident
+			Entity type = Face2	ID = 20	surface type  = Plane
+			Entity type = Face2	ID = 116	surface type  = Plane
+		(7) MateCoincident
+			Entity type = Face2	ID = 14	surface type  = Plane
+			Entity type = Face2	ID = 82	surface type  = Plane
+		(8) MateCoincident
+			Entity type = Edge
+			Entity type = Edge
+		(9) MateCoincident
+MateCoincident existed
+
+
+Component name: 鋁擠2060_板金-4
+	Feature name: 結合於 底座固定_中間_綜合_0.4倍的V2, type: RefDependFolder
+		(1) MateCoincident
+MateCoincident existed
+		(2) MateCoincident
+MateCoincident existed
+		(3) MateCoincident
+MateCoincident existed
+			Entity type = Edge
+			Entity type = Edge
+		(4) MateCoincident
+MateCoincident existed
+
+
+Component name: 鋁擠2060_板金-5
+	Feature name: 結合於 底座固定_中間_綜合_0.4倍的V2, type: RefDependFolder
+		(1) MateCoincident
+MateCoincident existed
+		(2) MateCoincident
+MateCoincident existed
+		(3) MateCoincident
+MateCoincident existed
+			Entity type = Edge
+			Entity type = Face2	ID = 19	surface type  = Plane
+		(4) MateCoincident
+MateCoincident existed
+
+
+Component name: 鋁擠2060_板金-7
+	Feature name: 結合於 底座固定_中間_綜合_0.4倍的V2, type: RefDependFolder
+		(1) MateCoincident
+MateCoincident existed
+		(2) MateCoincident
+MateCoincident existed
+		(3) MateCoincident
+MateCoincident existed
+			Entity type = Edge
+			Entity type = Face2	ID = 19	surface type  = Plane
+		(4) MateCoincident
+MateCoincident existed
+
+
