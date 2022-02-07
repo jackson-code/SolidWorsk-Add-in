@@ -25,6 +25,7 @@ namespace SWCSharpAddin.ToleranceNetwork.Construct
         string absolutePath;
         List<TnAssembly> tempTnGraphs = new List<TnAssembly>();
         string partialUniqueId = string.Empty;
+        List<string> openingFile = new List<string>();
 
         public MateDrawer(ISldWorks iSwApp, TnAssembly tnAssembly, bool inMainDoc, string absolutePath, string partialUniqueId)
         {
@@ -56,6 +57,7 @@ namespace SWCSharpAddin.ToleranceNetwork.Construct
                 // Save txt file
                 FileHelper.SaveTxtFile(iSwApp, absolutePath, toDisplay, "MateDrawer");
             }
+            CloseFile(openingFile.Count);
         }
 
 
@@ -150,11 +152,16 @@ namespace SWCSharpAddin.ToleranceNetwork.Construct
 
                             case (Int32)swDocumentTypes_e.swDocASSEMBLY:
                                 // 開啟組合件檔
-                                iSwApp.ActivateDoc3(swDoc.GetPathName(), false, (int)swRebuildOnActivation_e.swDontRebuildActiveDoc, 0);
+                                string path = swDoc.GetPathName();
+                                openingFile.Add(path);
+                                iSwApp.ActivateDoc3(path, false, (int)swRebuildOnActivation_e.swDontRebuildActiveDoc, 0);
                                 // 在主文件的product TN直接加入組合件檔中的結合
                                 // TODO: compName刪除? 目的?
                                 MateDrawer mateDrawer = new MateDrawer(iSwApp, this.tnAssembly, false, absolutePath, partialUniqueId + "@" + compName);
-                                iSwApp.CloseDoc(swDoc.GetPathName());
+                                if (openingFile.Count > 20)
+                                {
+                                    CloseFile(20);
+                                }
                                 // 取得組合件檔在主文件中的結合
                                 //GetMate(swChild.GetFirstChild(), partialUniqueId + "@" + compName);
                                 GetMate(swChild.GetFirstChild(), partialUniqueId);
@@ -171,6 +178,22 @@ namespace SWCSharpAddin.ToleranceNetwork.Construct
             }
         }
 
+        /// <summary>
+        /// 關閉n個檔案
+        /// </summary>
+        /// <param name="n">數量</param>
+        private void CloseFile(int n)
+        {
+            string path;
+
+            while (n-- > 0)
+            {
+                path = openingFile.Last();
+                iSwApp.CloseDoc(path);
+                openingFile.RemoveAt(n);
+            }
+        }
+
         private void GetMate(TreeControlItem swNode, string partialUniqueId)
         {
             if (swNode == null)
@@ -180,7 +203,15 @@ namespace SWCSharpAddin.ToleranceNetwork.Construct
             }
 
             IFeature swFeat = swNode.Object as IFeature;
-            string swFeatType = swFeat.GetTypeName();
+            string swFeatType;
+
+            if (swFeat == null)
+            {
+                toDisplay += "Can't cast, check the file\n";
+                return;
+            }
+
+            swFeatType = swFeat.GetTypeName();
             if (swFeatType == "RefDependFolder")
             {
                 toDisplay += "\tFeature name: " + swFeat.Name + ", type: " + swFeatType + "\n";
@@ -389,8 +420,6 @@ namespace SWCSharpAddin.ToleranceNetwork.Construct
 
                     IEntity en = entity as IEntity;
                     IComponent2 swComp = en.IGetComponent2();
-                    // debug完可刪
-                    string name = swComp.Name;
                     
                     //Entity en = entity as Entity;
                     //IComponent2 swComp = en.GetComponent();

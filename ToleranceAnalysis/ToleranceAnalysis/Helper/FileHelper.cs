@@ -20,9 +20,11 @@ namespace SWCSharpAddin.Helper
             if (!string.IsNullOrEmpty(swFileName))
             {
                 swFileName = swFileName.Remove(0, swFileName.LastIndexOf("\\") + 1);     // 把前面的檔案路徑移除，只留下檔名
-                while (swFileName.LastIndexOf('.') != -1)
+
+                // 移除最後一個.
+                if (swFileName.LastIndexOf('.') != -1)
                 {
-                    swFileName = swFileName.Remove(swFileName.LastIndexOf('.'), 1);     // 把 . 移除
+                    swFileName = swFileName.Remove(swFileName.LastIndexOf('.'), 1);     
                 }
             }
             return swFileName;
